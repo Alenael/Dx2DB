@@ -1,0 +1,83 @@
+[
+  {
+    "Name": "Hero",
+    "HP": 5,
+    "St": 3,
+    "Ma": 3,
+    "Vi": 3,
+    "Ag": 3,
+    "Lu": 3
+  },
+  {
+    "Name": "Megakin",
+    "HP": "",
+    "St": "",
+    "Ma": "",
+    "Vi": 5,
+    "Ag": 5,
+    "Lu": 5
+  },
+  {
+    "Name": "TemplarDragon",
+    "HP": 5,
+    "St": 5,
+    "Ma": 5,
+    "Vi": "",
+    "Ag": "",
+    "Lu": ""
+  },
+  {
+    "Name": "ChalkEater",
+    "HP": "",
+    "St": "",
+    "Ma": 7,
+    "Vi": 7,
+    "Ag": "",
+    "Lu": ""
+  },
+  {
+    "Name": "Eileen",
+    "HP": 7,
+    "St": "",
+    "Ma": "",
+    "Vi": "",
+    "Ag": "",
+    "Lu": 7
+  },
+  {
+    "Name": "KangarooBoxer",
+    "HP": "",
+    "St": 7,
+    "Ma": "",
+    "Vi": "",
+    "Ag": 7,
+    "Lu": ""
+  },
+  {
+    "Name": "Shionyan",
+    "HP": "",
+    "St": "",
+    "Ma": 12,
+    "Vi": "",
+    "Ag": "",
+    "Lu": ""
+  },
+  {
+    "Name": "MeatBalloon",
+    "HP": "",
+    "St": "",
+    "Ma": "",
+    "Vi": 12,
+    "Ag": "",
+    "Lu": ""
+  },
+  {
+    "Name": "SeiranSaikawa",
+    "HP": "",
+    "St": "",
+    "Ma": "",
+    "Vi": "",
+    "Ag": 12,
+    "Lu": ""
+  }
+]

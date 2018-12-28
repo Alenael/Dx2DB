@@ -1,2 +1,2 @@
 # Dx2DB
-Databases for Dx2 for anyone to use
+Databases and images from Dx2 for anyone to use in a project.

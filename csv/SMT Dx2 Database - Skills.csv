@@ -1276,3 +1276,63 @@ Lv6: +10 to Ma, +10% to Ailment Infliction.",Self,,,
 passive,Offensive Cry,,7,Reduces all enemy DEF and increases own parties ATK by 20% for 3 turns.,All Enemies/Party Members,,,
 almighty,Mind Blast,,7,Inflicts Almighty (Magic) damage on a single enemy with 100 power and reduces MP by 4.,All Enemies,,,
 support,War Dance,,6,Increases own parties ATK and DEF by 20% for 3 turns.,All Enemies/Party Members,,,
+light,Hamaon L,,4,"Inflicts Light (Magic) damage with 140 power on Single Enemy.
+
+
+Lv2: +4% to damage.
+
+Lv3: +6% to damage.
+
+Lv4: +8% to damage.
+
+Lv5: +10% to damage.",Single Enemy,6,,
+dark,Madoon L,,4,"Inflicts Dark (Magic) damage with 140 power on Single Enemy.
+
+
+Lv2: +4% to damage.
+
+Lv3: +6% to damage.
+
+Lv4: +8% to damage.
+
+Lv5: +10% to damage.",Single Enemy,6,,
+force,Zanma L,,4,"Inflicts Force (Magic) damage with 140 power on Single Enemy.
+
+
+Lv2: +4% to damage.
+
+Lv3: +6% to damage.
+
+Lv4: +8% to damage.
+
+Lv5: +10% to damage.",Single Enemy,6,,
+elec,Zionga L,,4,"Inflicts Elec (Magic) damage with 140 power on Single Enemy.
+
+
+Lv2: +4% to damage.
+
+Lv3: +6% to damage.
+
+Lv4: +8% to damage.
+
+Lv5: +10% to damage.",Single Enemy,6,,
+ice,Bufula L,,4,"Inflicts Ice (Magic) damage with 140 power on Single Enemy.
+
+
+Lv2: +4% to damage.
+
+Lv3: +6% to damage.
+
+Lv4: +8% to damage.
+
+Lv5: +10% to damage.",Single Enemy,6,,
+fire,Agilao L,,4,"Inflicts Fire (Magic) damage with 140 power on Single Enemy.
+
+
+Lv2: +4% to damage.
+
+Lv3: +6% to damage.
+
+Lv4: +8% to damage.
+
+Lv5: +10% to damage.",Single Enemy,6,,

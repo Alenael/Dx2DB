@@ -1336,3 +1336,17 @@ Lv3: +6% to damage.
 Lv4: +8% to damage.
 
 Lv5: +10% to damage.",Single Enemy,6,,
+fire,MahaLantine,,7,"Inflicts Fire (Magic) damage with 50 power on All Enemies twice.
+
+Lv2: +5% to all damage.
+Lv3: +10% to all damage.
+Lv4:+15% to all damage.
+Lv5: +20% to all damage.
+Lv6: +20% to all damage. MP cost -1.",All Enemies,,,
+ice,MahaFrosty,,7,"Inflicts Ice (Magic) damage with 50 power on All Enemies twice.
+
+Lv2: +5% to all damage.
+Lv3: +10% to all damage.
+Lv4:+15% to all damage.
+Lv5: +20% to all damage.
+Lv6: +20% to all damage. MP cost -1.",All Enemies,,,

@@ -1350,3 +1350,7 @@ Lv3: +10% to all damage.
 Lv4:+15% to all damage.
 Lv5: +20% to all damage.
 Lv6: +20% to all damage. MP cost -1.",All Enemies,,,
+almighty,Necro Dogma,,9,Inflicts Almighty (Magic) damage on all enemies with 100 power and increases own parties DEF by 20%. (3 turns),All Enemies,12
+almighty,Demon Birth Cry,,9,Inflicts Almighty (Magic) damage on all enemies with 100 power and reduces all enemy ATK by 20%. (3 turns),All Enemies,12
+phys,Bleeder,,6,Inflicts Phys (Physical) damage with 120 power on a Single Enemy and reduces MP by 2.,Single Enemy,8
+passive,Arcane Ritual,,passive,"While the demon with this skill is alive, all party members gain +20% increase in status ailment auto cure rate.",Self,

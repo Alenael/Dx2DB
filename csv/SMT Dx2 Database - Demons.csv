@@ -1,14 +1,14 @@
 Name,Race,Grade,Rarity,Phys,Fire,Ice,Elec,Force,Light,Dark,6★ HP,6★ Strength,6★ Magic,6★ Vitality,6★ Agility,6★ Luck,Skill 1,Skill 2,Skill 3,Clear Awaken,Red Awaken,Yellow Awaken,Purple Awaken,Teal Awaken,Red Gacha,Yellow Gacha,Purple Gacha,Teal Gacha,Type,PATK,PDEF,MATK,MDEF
 Metatron,Herald,99,5,,rs,rs,rs,rs,nu,,1140,176,210,164,129,122,Holy Wrath,Infinite Chakra,Fire of Sinai,Enduring Soul,Mahamadyne,Offensive Cry,Mana Gain,Repel Elec,Spirit Drain,Maragidyne,Maziodyne,Resist Phys,Attack,699,598,770,609
-Lucifer,Tyrant,98,5,rs,,,,,wk,rp,1136,176,186,163,152,132,Megidolaon,Trisagion,Morning Star,Vitality Amp III,Titanomachia,Recarmdra,Butcher,Drain Light,Vitality Amp III,Null Charm,Evil Gaze,Marin Karion,Attack,699,597,672,590
+Lucifer,Tyrant,98,5,rs,,,,,wk,rp,1136,176,186,163,152,132,Megidolaon,Trisagion,Morning Star,Vitality Amp III,Mind Blast,Recarmdra,Butcher,Drain Light,Vitality Amp III,Null Charm,Evil Gaze,Marin Karion,Attack,699,597,672,590
 Vishnu,Deity,97,5,,wk,ab,,,nu,nu,1037,152,208,142,117,152,Bufudyne,Holy Wrath,Avatar,Mudodyne,Megidolaon,War Dance,Null Mute,Repel Dark,Hellfire,Null Bind,Wind Breath,Resist Fire,Attack,649,562,720,590
 Yoshitsune,Hero,97,5,rs,,,,,nu,nu,1089,198,132,153,163,152,Vorpal Blade,Mana Aid,Hassou Tobi,Enduring Soul,Gigantomachia,Tetrakarn,Phys Amp,Drain Phys,God's Hand,Auto-Sukuka,Savage Glee,Resist Ice,Attack,745,597,607,564
 Mother Harlot,Fiend,95,5,nu,,,dr,wk,rs,rs,1131,91,207,162,128,184,Mana Gain,Empress' Libido,Babylon Goblet,Magic Amp III,Deathtouch,Debilitate,Deadly Charm,Drain Phys,Tetra Shift,Infernal Mask,Insanity,Makara Shift,Support,521,553,764,611
-Trumpeter,Fiend,94,5,,,,,,nu,nu,1032,121,207,141,160,162,Concentrate,Soul Drain,Apocalypse,Mahamakajamaon,Judgement,Vengeance,Auto-Rakuga,Resist Phys,Evade,Auto-Tarunda,Trisagion,Resist Fire,Attack,584,545,764,588
+Trumpeter,Fiend,94,5,,,,,,nu,nu,1032,121,207,141,160,162,Concentrate,Soul Drain,Apocalypse,Mahamakajamaon,Judgement,Demon Birth Cry,Auto-Rakuga,Resist Phys,Evade,Auto-Tarunda,Trisagion,Resist Fire,Attack,584,545,764,588
 Shiva,Fury,93,5,rs,ab,wk,ab,,,,1032,229,151,141,160,152,Serial Killer,Vorpal Blade,Pralaya,Null Charm,God's Hand,Rebellion,Evade,Drain Ice,Strength Amp III,Mortal Jihad,Binge Eating,Resist Force,Attack,810,599,647,560
 Michael,Herald,90,5,,,nu,nu,,rp,wk,1028,183,183,140,158,120,Life Aid,Soul Judgement,Megidolaon,Endure,Thunderclap,Mediarahan,Hellish Mask,Repel Dark,Titanomachia,Magic Amp III,Ziodyne,Null Bind,Attack,714,575,714,575
 Mara,Tyrant,90,5,,,wk,ab,,rs,rs,934,228,109,120,136,172,Null Bind,Titanomachia,Hell Thrust,Megaton Raid,Soul Drain,Charge,Phys Pierce,Null Ice,Strength Amp III,Great Aim,Phys Boost,Resist Phys,Attack,808,576,558,516
-Alice,Fiend,89,5,,,,,,wk,rp,1023,98,217,139,147,172,Mamudoon,Mudodyne,Die for Me!,Soul Drain,Hell Gaze,Mahajuon,Dark Amp,Repel Light,Glacial Blast,Epic Recovery,Wild Instinct,Thunder Reign,Attack,535,531,785,591
+Alice,Fiend,89,5,,,,,,wk,rp,1023,98,217,139,147,172,Mamudoon,Mudodyne,Die for Me!,Soul Drain,Hell Gaze,Necro Dogma,Dark Amp,Repel Light,Glacial Blast,Epic Recovery,Wild Instinct,Thunder Reign,Attack,535,531,785,591
 Huang Di,Hero,88,5,,rs,rs,rs,rs,,,1023,194,129,139,146,150,Hades Blast,Superior Power,Yinlong Killer,Life Aid,Berserker God,Salvation,Null Charm,Repel Light,Auto-Taraka,Null Phys,Serial Killer,Infernal Mask,Attack,737,579,600,547
 Huang Long,Dragon,88,5,,rs,rs,rs,rs,nu,,1173,50,194,171,192,159,Agility Amp II,Megidolaon,Five Elements ,Life Aid,Energy Drain,Luster Candy,Speedster,Null Dark,Magic Amp III,Serial Killer,Hell Gaze,Enduring Soul,Support,435,543,737,615
 Rama,Hero,86,5,,nu,rs,,,,,1117,139,193,159,145,139,Mabufudyne,Drain Pierce,Brahma Sutra,Hades Blast,Energy Drain,Luster Candy,Ice Pierce,Drain Ice,Mana Aid,Concentrate,Ice Age,Null Mute,Attack,621,574,735,601
@@ -25,7 +25,7 @@ Asherah,Lady,83,5,,nu,wk,,nu,,wk,1479,117,192,236,112,138,Mediarama,Mother's Cre
 Ananta,Snake,83,5,,,nu,nu,wk,nu,,1169,117,170,170,154,138,Diarahan,Auto-Sukuka,Auto-Rakuga,Holy Wrath,Mabufudyne,Mahapoismaon,Auto-Taraka,Drain Ice,Gigantomachia,Deadly Poison,Mazandyne,Resist Force,Support,575,575,687,602
 Surt,Tyrant,83,5,,ab,wk,,,,,1112,201,147,158,92,147,Berserker God,Tetra Shift,Ragnarok,Intimidating Stance,Maragidyne,Lydia,Fire Pierce,Null Ice,Hellfire,Magic Amp III,Fire Boost,Eat Whole,Attack,752,604,638,577
 Amaterasu,Deity,82,5,,rp,,wk,,rs,,1107,88,213,157,133,157,Maragion,Tarunda,Tenson Kourin,Auto-Sukuka,Trisagion,Mediarahan,Magic Amp III,Null Elec,Luck Amp III,Null Charm,Mahamadyne,Mahamakajamaon,Support,514,546,777,609
-Susano-o,Fury,82,5,rs,wk,,,ab,,,966,235,106,127,133,147,Assassin,Mortal Jihad,Kusanagi,Strength Amp III,Killing Wind,Charge,Merciless Blow,Drain Elec,Deadly Bondage,Agility Amp III,Fog Breath,Resist Fire,Attack,823,587,552,522
+Susano-o,Fury,82,5,rs,wk,,,ab,,,966,235,106,127,133,147,Assassin,Mortal Jihad,Kusanagi,Strength Amp III,Bleeder,Charge,Merciless Blow,Drain Elec,Deadly Bondage,Agility Amp III,Fog Breath,Resist Fire,Attack,823,587,552,522
 Ishtar,Megami,82,5,,,,nu,wk,nu,wk,1018,117,247,138,92,157,Mahamaon,Diarahan,Mesopotamian Star,Samarecarm,Thunderclap,Concentrate,Tetra Shift,Null Force,Ice Age,Mahamarin Karion,Dmg Panel Immunity,Resist Dark,Heal,575,540,848,605
 Cu Chulainn,Genma,81,5,rs,,,,nu,,,1060,201,190,147,111,97,Savage Glee,Mazandyne,Gae Bolg,Rebellion,Killing Wind,Recarmdra,Force Pierce,Repel Dark,God's Hand,Mortal Jihad,Force Boost,Resist Light,Attack,752,592,729,586
 Black Frost,Jaki,81,5,,rs,nu,,,wk,nu,1107,68,201,157,153,169,Mabufudyne,Curse of Anguish,Go to Hell!,Maragion,Hell Gaze,Concentrate,Ice Amp,Null Fire,Merciless Blow,Insanity,Ice Age,Resist Light,Attack,472,536,752,603
@@ -200,3 +200,4 @@ Izanami,Megami,89,5,,wk,nu,,,rs,dr,1122,90,226,160,126,160,Bolt Storm,Merciless 
 Reiko Kashima,Rumor,42,3,,wk,,,,wk,dr,877,117,126,108,142,108,Mudo,Lunge,You're Next,Null Curse,,,,,,,,,,,,,
 Halloween Jack,Fairy,65,4,,dr,wk,,,,,1079,103,193,151,124,151,Agilao,Mudoon,Endure,MahaLantine,,,,,,,,,Attack,546,548,735,593
 Helper Frost,Fairy,63,4,,wk,dr,,,,,1075,79,179,150,105,140,Bufula,Hamaon,Endure,MahaFrosty,,,,,,,,,Attack,495,534,705,584
+Mishaguji,Vile,65,4,,,,,,,,0,0,0,0,0,0,Mazionga,Elec Boost,Arcane Ritual,,Shock,Concentrate,Wild Instinct,Drain Elec,Tetraja,,,,Attack,0,0,0,0

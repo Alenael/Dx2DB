@@ -1331,3 +1331,11 @@ almighty,Demon Birth Cry,,9,Inflicts Almighty (Magic) damage on all enemies with
 phys,Bleeder,,6,Inflicts Phys (Physical) damage with 120 power on a Single Enemy and reduces MP by 2.,Single Enemy,8,,,1
 passive,Arcane Ritual,,passive,"While the demon with this skill is alive, all party members gain +20% increase in status ailment auto cure rate.",Self,,,,1
 support,Nocturne,,6,Increases own party's DEF and EV/AC by 20% for 3 turns.,All Party Members,8,,,1
+passive,Hell's Gate,,passive,"While the demon with this skill is alive, all party members will receive the following effect: For every Weak attribute, all party members will receive 3% less multiple-target attack damage. (Max reduction: 30%)",Self,,,,1
+passive,Law of Hell,,passive,"As long as the demon with this skill is alive, no bonus turn will be granted when a party member's weak point is attacked.
+
+Lv2: +2% to HP. +2% to Ailment Resistance.
+Lv3: +3% to HP. +3% to Ailment Resistance.
+Lv4: +4% to HP. +4% to Ailment Resistance.
+Lv5: +5% to HP. +5% to Ailment Resistance.
+Lv6: +10% to HP. +10% to Ailment Resistance.",Self,,,,

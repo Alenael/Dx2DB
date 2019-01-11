@@ -1212,8 +1212,8 @@ Lv6: +10 to Ma, +10% to HP.",Self,,,,1
 passive,Life Aid,勝利の息吹,Passive,Heals 30% HP when clearing a wave.,Self,6,,,
 passive,Mana Aid,勝利のチャクラ,Passive,Recovers 10 MP when clearing a wave.,Self,12,,,
 passive,Infinite Chakra,無限のチャクラ,Passive,Increases naturally recovered MP by 1 MP.,Self,18,,,1
-passive,Tetra Shift,テトラカシフト,Passive,Casts Tetrakarn at the beginning of a battle if the enemy attacks first.,Self,18,,,1
-passive,Makara Shift,マカラカシフト,Passive,Casts Makarakarn at the beginning of a battle if the enemy attacks first.,Self,18,,,1
+passive,Tetra Shift,テトラカシフト,Passive,Casts Tetrakarn at the beginning of a battle if the enemy attacks first.,Self,18,,,
+passive,Makara Shift,マカラカシフト,Passive,Casts Makarakarn at the beginning of a battle if the enemy attacks first.,Self,18,,,
 passive,Repel Pierce,貫反の霊圧,Passive,"While the demon with this skill is alive, Pierce will have no effect on any party member that can repel the attribute they are attacked with.",Self,,,,1
 passive,Drain Pierce,貫吸の気魄,Passive,"While the demon with this skill is alive, Pierce will have no effect on any party member that can drain the attribute they are attacked with.",Self,,,,1
 passive,Kongo Zaou,金剛蔵王,Passive,All party members in the state of Might gain Phys Pierce while the demon with this skill is alive.,Self,,,,1

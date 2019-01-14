@@ -1338,4 +1338,20 @@ Lv2: +2% to HP. +2% to Ailment Resistance.
 Lv3: +3% to HP. +3% to Ailment Resistance.
 Lv4: +4% to HP. +4% to Ailment Resistance.
 Lv5: +5% to HP. +5% to Ailment Resistance.
-Lv6: +10% to HP. +10% to Ailment Resistance.",Self,,,,
+Lv6: +10% to HP. +10% to Ailment Resistance.",Self,,,,1
+passive,Moushou no Gekirin,,passive,"Adds Phys Pierce. When receiving a Phys Attack, 100% chance to counter dealing Phys damage with 100 power. Reduces 1 enemy Press Turn at the beginning of a battle if the enemy attacks first. Only up to 2 Press Turn Icons can be reduced by skills or effects.",Self,,,,1
+phys,Occult Flash,,8,"Inflicts Phys (Physical) damage with 50% crit rate and 200 power on a Single Enemy, with 100% Kill rate. (3 uses)
+
+Lv2: +5% to AC.
+Lv3: +10% to AC.
+Lv4: +15% to AC.
+Lv5: +20% to AC.
+Lv6: +20% to AC. MP cost -1.",Single Enemy,,,,1
+passive,Night Fever,,passive,Increases Macca obtained during battle by 5%.,Self,,,,1
+passive,Ryoukiteki na Aijou,,passive,"When an enemy is Charmed, reduces all enemy DEF by 20% (3 turns).
+
+Lv2: +2% to Ailment hit rate. +2% Damage to Charmed enemies.
+Lv3: +3% to Ailment hit rate. +3% Damage to Charmed enemies.
+Lv4: +4% to Ailment hit rate. +4% Damage to Charmed enemies.
+Lv5: +5% to Ailment hit rate. +5% Damage to Charmed enemies.
+Lv6: +10% to Ailment hit rate. +10% Damage to Charmed enemies.",Self,,,,1

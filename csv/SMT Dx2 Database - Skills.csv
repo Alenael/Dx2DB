@@ -1355,3 +1355,5 @@ Lv3: +3% to Ailment hit rate. +3% Damage to Charmed enemies.
 Lv4: +4% to Ailment hit rate. +4% Damage to Charmed enemies.
 Lv5: +5% to Ailment hit rate. +5% Damage to Charmed enemies.
 Lv6: +10% to Ailment hit rate. +10% Damage to Charmed enemies.",Self,,,,1
+support,Swift Dance,,6,Casts Tarukaja and Sukukaja,Party Members,,,,1
+almighty,Anticipated Revelation,,9,Casts Megidola and Sukukaja,All Enemies/Party Members,,,,1

@@ -57,7 +57,7 @@ Gremlin,Jaki,11,1,,wk,rs,rs,wk,,,896,104,159,112,159,112,Zio,Bufu,,Lunge,Mudo,Ma
 Grendel,Jaki,51,3,rs,,,,wk,,,1342,207,82,207,63,136,Deathbound,Mortal Jihad,Curse of Distress,Life Gain,Herculean Strike,Charge,Great Aim,Resist Force,Binding Claw,Endure,Retaliate,Wild Guess,Attack,764,661,502,598,,,,,,,,5,10,,5,10,,,
 Gucumatz,Dragon,69,4,,wk,rs,,rs,,,1140,174,142,164,88,153,Heat Wave,Ice Breath,Auto-Tarunda,Wild Guess,Wind Breath,Fog Breath,Tetra Shift,Null Fire,Berserker God,Tarunda,Retaliate,Mediara,Support,695,597,628,581,,15,5,,,,,,,,,,,15,5
 Gui Xian,Snake,45,3,,wk,nu,,,,,1103,156,186,156,81,108,Bufula,Mabufula,Ice Boost,Rakukaja,Bufudyne,Makara Break,Life Aid,Resist Phys,Dmg Panel V I,Strength Amp I,Cleave,Madness,Attack,657,579,720,594,,,,,,,10,20,,,,,,,
-Halloween Jack,Fairy,65,4,,dr,wk,,,,,1079,103,193,151,124,151,Agilao,Mudoon,Endure,MahaLantine,,,,,,,,,Attack,546,548,735,593,,30,,,30,,,,,,30,,,30,
+Halloween Jack,Fairy,65,4,,ab,wk,,,,,1079,103,193,151,124,151,Agilao,Mudoon,Endure,MahaLantine,,,,,,,,,Attack,546,548,735,593,,30,,,30,,,,,,30,,,30,
 Hamsa,Avian,24,2,,,,rs,,,wk,995,80,142,133,165,142,Hama,Zionga,Sukukaja,Makajam,Mahama,Media,Speedster,Resist Ice,,,,,Support,498,516,628,547,10,5,,10,5,,,,,,,,,,
 Hanuman,Genma,60,4,,,,wk,nu,,,938,223,84,121,132,150,Resist Phys,Vorpal Blade,Mazanma,Madness Nails,Zandyne,Taunt,Retaliate,Repel Force,Vitality Amp I,Evil Gaze,Judgement Light,Resist Weak,Attack,798,574,506,505,,15,5,,,,,,,,,,,15,5
 Hare of Inaba,UMA,41,3,,wk,,,,,,919,117,98,117,182,156,Dekaja,Media,Trap Free,Recarm,,,,,,,,,Heal,575,517,535,507,,10,,,10,,,,,,10,,,10,
@@ -65,7 +65,7 @@ Hathor,Megami,27,2,wk,,rs,,rs,rs,,1183,106,124,173,167,106,Amrita,Zan,Zionga,Mep
 Hecatoncheires,Jaki,74,4,nu,,,,wk,wk,,1399,219,76,219,61,166,Megaton Press,Bloody Glee,Guards of Tartarus,Auto-Rakuka,Binge Eating,Charge,Life Surge,Drain Phys,Phys Boost,Deadly Curse,Acid Breath,Resist Light,Attack,789,680,489,608,,,,,,,,15,5,,15,5,,,
 Hel,Reaper,60,4,,wk,nu,,,,,981,92,202,130,141,140,Mabufula,Mamudo,Call of Helheim,Ice Breath,Bufudyne,Rattle,Ice Boost,Repel Ice,Merciless Blow,Enduring Soul,Bufudyne,Resist Fire,Attack,522,518,753,573,,,,,,,,,,,,,,,
 Hell Biker,Fiend,77,4,,rp,,,rs,wk,,1004,156,156,135,229,87,Maragion,Speedster,Red Zone,Power Hit,Mamudoon,Recarmdra,Auto-Sukuka,Repel Light,Agidyne,War Cry,Deadly Bondage,Resist Dark,Attack,657,556,657,556,,,5,,,5,,,,,,5,,,5
-Helper Frost,Fairy,63,4,,wk,dr,,,,,1075,79,179,150,105,140,Bufula,Hamaon,Endure,MahaFrosty,,,,,,,,,Attack,495,534,705,584,,30,,,30,,,,,,30,,,30,
+Helper Frost,Fairy,63,4,,wk,ab,,,,,1075,79,179,150,105,140,Bufula,Hamaon,Endure,MahaFrosty,,,,,,,,,Attack,495,534,705,584,,30,,,30,,,,,,30,,,30,
 Heqet,Holy,27,2,,,,rs,wk,,,952,143,134,124,148,115,Media,Mazio,Meposumudi,Zionga,Shock,Dekunda,Life Gain,Resist Fire,,,,,Heal,630,537,611,533,10,5,,,,,10,5,,,,,,,
 High Pixie,Fairy,24,2,,,,,rs,,,868,88,192,106,137,153,Dezoreto,Media,Mazio,Lydia,Shock,Diara,Madness,Resist Light,,,,,Heal,514,490,733,542,,,,,,,20,10,,,,,,,
 Horkos,Tyrant,46,3,rs,,wk,,,wk,,1056,197,82,146,117,146,Endure,Retaliate,Hellfire,Auto-Rakuka,Power Hit,Tetra Break,Vitality Amp II,Null Ice,Mabufu,Zan,Wild Guess,Fast Recovery,Attack,743,589,502,531,,,,,,,,,,5,10,,5,10,
@@ -80,7 +80,7 @@ Ippon-Datara,Jaki,26,2,,rs,,,,wk,,952,153,142,124,110,133,Mudoon,Oni-Kagura,Curs
 Ishtar,Megami,82,5,,,,nu,wk,nu,wk,1018,117,247,138,92,157,Mahamaon,Diarahan,Mesopotamian Star,Samarecarm,Thunderclap,Concentrate,Tetra Shift,Null Force,Ice Age,Mahamarin Karion,Dmg Panel Immunity,Resist Dark,Heal,575,540,848,605,,20,15,,20,15,,,,,,,,,
 Isis,Lady,54,3,,rs,,nu,,,,1018,100,148,138,169,148,Samarecarm,Zandyne,Mahamakajam,Mana Gain,Mazan,Meweakdi,Back Attack,Null Force,Strength Amp I,Good Aim,Mecharmdi,Zan,Support,540,531,640,555,5,10,,,,,,,,,,,5,10,
 Ixtab,Reaper,84,5,,,,,,wk,rp,877,128,180,108,154,180,Mamudoon,Bufudyne,Yaxche,Null Weak,Hell Gaze,Mahashibaboon,Berserker,Null Light,Assassin,Insanity,Auto-Rakunda,Mabufudyne,Support,598,512,707,538,,,,,,,,,,,,,,,
-Izanami,Megami,89,5,,wk,nu,,,rs,dr,1122,90,226,160,126,160,Bolt Storm,Merciless Blow,Yomotsu Okami,Life Surge,Hell Gaze,Concentrate,Elec Amp,Repel Ice,Auto-Rakunda,Silent Prayer,Maziodyne,Recarmdra,Support,519,551,804,619,,,,,,,,,,,,,,,
+Izanami,Megami,89,5,,wk,nu,,,rs,ab,1122,90,226,160,126,160,Bolt Storm,Merciless Blow,Yomotsu Okami,Life Surge,Hell Gaze,Concentrate,Elec Amp,Repel Ice,Auto-Rakunda,Silent Prayer,Maziodyne,Recarmdra,Support,519,551,804,619,,,,,,,,,,,,,,,
 Jack Frost,Fairy,7,1,,wk,rs,,,,,1075,79,179,150,105,140,Bufu,Mabufu,,Hama,Bufula,Tag,Counter,Resist Elec,,,,,Attack,495,534,705,584,,,,,,,20,,,,,,,,
 Jatayu,Avian,44,3,,,rs,wk,ab,nu,wk,750,117,98,81,225,165,Sukukaja,Auto-Sukuka,Dekaja,Sukunda,Deathbound,Recarm,Wild Guess,Resist Elec,Mazan,Madness,Meposumudi,Cursedi,Support,575,477,535,468,5,10,,5,10,,,,,,,,,,
 Jeanne d'Arc,Hero,78,4,,wk,rs,rs,rs,,,1009,126,189,136,162,126,Recovery Boost,Holy Wrath,Orlean Prayer,Life Aid,Judgement,Silent Prayer,Null Mute,Repel Fire,Mind Break,Mediarama,Purgatory,Zanma,Heal,594,542,726,574,,,,,,,,,,,,,,,
@@ -122,7 +122,7 @@ Mitra,Deity,55,3,rp,,wk,,,rs,rs,1117,159,148,159,120,110,Mahaju,Barrier Break,Ev
 Mokoi,Night,5,1,,,,rs,wk,,,901,113,113,113,157,140,Zio,Lunge,,Rampage,Zionga,Weakdi,Strength Amp I,Resist Dark,,,,,Attack,567,510,567,510,,,,,,,10,,,,,,10,,
 Momunofu,Brute,15,1,rs,,,,wk,,,1126,180,79,161,108,132,Mow Down,Counter,,Heat Wave,Oni-Kagura,Dekunda,Endure,Resist Force,,,,,Attack,708,597,495,546,,,,,,,10,,,,,,10,,
 Mot,Reaper,91,5,rs,rs,,wk,rp,,rp,1178,120,195,172,138,149,Megidolaon,Mamudodyne,Harmonious Death,Mana Gain,Deathtouch,Judgment,Life Surge,Null Phys,Magic Amp II,Auto-Rakuka,Enduring Soul,Resist Elec,Attack,581,578,739,616,,,,,,,,,,,,,,,
-Mother Harlot,Fiend,95,5,nu,,,dr,wk,rs,rs,1131,91,207,162,128,184,Mana Gain,Empress' Libido,Babylon Goblet,Magic Amp III,Deathtouch,Debilitate,Deadly Charm,Drain Phys,Tetra Shift,Infernal Mask,Insanity,Makara Shift,Support,521,553,764,611,,,15,,,15,,,,,,15,,,15
+Mother Harlot,Fiend,95,5,nu,,,ab,wk,rs,rs,1131,91,207,162,128,184,Mana Gain,Empress' Libido,Babylon Goblet,Magic Amp III,Deathtouch,Debilitate,Deadly Charm,Drain Phys,Tetra Shift,Infernal Mask,Insanity,Makara Shift,Support,521,553,764,611,,,15,,,15,,,,,,15,,,15
 Mothman,Wilder,41,3,,,,rs,wk,,,1291,108,89,196,154,136,Resist Bind,Mazio,Mahashibaboo,Mana Bonus,Ziodyne,Shibabooon,Insanity,Null Fire,Zan,Heat Wave,Dodge,Meparaladi,Support,556,599,516,590,,,,,,,5,10,,5,10,,,,
 Mou-Ryo,Haunt,20,2,,,,,,wk,nu,863,87,201,105,118,152,Mudo,Shibabooon,Fire Breath,Spirit Drain,Evil Gaze,Cursedi,Magic Amp I,Repel Dark,,,,,Attack,512,489,752,546,,,,,,,,,,10,5,,10,5,
 Naga,Snake,28,2,,wk,rs,rs,wk,,wk,1277,163,71,193,112,125,Fatal Sword,Bufula,Good Aim,Rebellion,Deathbound,Dezoreto,Life Gain,Null Ice,,,,,Attack,672,623,479,577,,,,,,,20,10,,,,,,,
@@ -157,7 +157,7 @@ Raijuu,Wilder,20,2,,,,rs,wk,,,995,115,96,133,164,152,Resist Weak,Zionga,Shock,En
 Rakshasa,Jaki,61,4,rs,,,wk,,wk,,849,212,84,102,164,150,Fatal Sword,Charge,Rasetsu,Endure,Dark Sword,Taunt,Retaliate,Null Force,Tempest Slash,Agility Amp II,Deadly Curse,Speedster,Attack,775,548,506,484,,,,,,,,15,5,,15,5,,,
 Rama,Hero,86,5,,nu,rs,,,,,1117,139,193,159,145,139,Mabufudyne,Drain Pierce,Brahma Sutra,Hades Blast,Energy Drain,Luster Candy,Ice Pierce,Drain Ice,Mana Aid,Concentrate,Ice Age,Null Mute,Attack,621,574,735,601,,,15,,,15,,,,,,15,,,15
 Rangda,Femme,67,4,rp,,,wk,,,,943,122,174,122,146,152,Mahajuon,Mudodyne,Mazandyne,Vorpal Blade,Purgatory,Recarmdra,Endure,Null Force,Wind Breath,Mabufula,Dekaja,Spirit Drain,Attack,586,525,695,551,,,,,,,,15,5,,,,,15,5
-Reiko Kashima,Rumor,42,3,,wk,,,,wk,dr,877,117,126,108,142,108,Mudo,Lunge,You're Next,Null Curse,,,,,,,,,,576,507,595,512,,10,,,10,,,,,,10,,,10,
+Reiko Kashima,Rumor,42,3,,wk,,,,wk,ab,877,117,126,108,142,108,Mudo,Lunge,You're Next,Null Curse,,,,,,,,,,576,507,595,512,,10,,,10,,,,,,10,,,10,
 Samael,Fallen,84,5,,,,wk,,rp,rp,1169,88,202,170,134,158,Mana Aid,Salvation,God's Malice,Death Counter,Purgatory,Tetrakarn,Infinite Chakra,Null Fire,Fire Breath,Mudodyne,Wind Breath,Recovery Boost,Support,514,561,754,618,,,,,,,,20,15,,,,,20,15
 Sandalphon,Herald,61,4,rs,,,rs,,rp,nu,1075,140,160,150,152,111,Hamadyne,Zandyne,Auto-Sukuka,Amrita,Mahamaon,Samarecarm,Wild Instinct,Resist Force,Meposumudi,Counter,Rakunda,Megaton Press,Attack,624,565,666,575,,15,5,,15,5,,,,,,,,,
 Sandman,Night,10,1,,,,wk,rs,,,1122,113,95,160,150,140,Zan,Cleave,,Shibaboo,Dark Sword,Sukunda,Epic Recovery,Resist Ice,,,,,Attack,567,562,529,553,,,,,,,10,,,,,,10,,
@@ -204,4 +204,4 @@ Zouchouten,Kishin,41,3,,nu,wk,,,rs,,919,156,196,117,106,117,Rakukaja,Herculean S
 Orcus,Reaper,80,5,rs,wk,rs,wk,rs,,nu,1413,136,157,222,92,136,War Cry,Law of Hell,Hell's Gate,,Mamudoon,Nocturne,Tetra Shift,Null Phys,Auto-Tarunda,Null Bind,Hell Gaze,Vitality Amp III,Support,615,641,659,652,,,,,,,,,,,,,,,
 Bodyconian,Undead,40,3,,wk,,,,wk,rs,915,88,116,116,142,164,Madness,Sexy Dance,Nightlife,,Sweet Bite,Taunt,Evade,Resist Light,Good Aim,Lydia,Wild Guess,Fast Recovery,Attack,514,501,573,515,,,,,,,,,,,,,,,
 Man Eater,Undead,60,4,,,,rs,,wk,rp,938,150,130,121,132,170,Sexy Dance,Eat Whole,Sass,,Bleeder,Binding Claw,Insanity,Repel Elec,Berserker,Deadly Bondage,Retaliate,Resist Light,Attack,644,523,602,527,,,,,,,,,,,,,,,
-Masakado,General,98,5,nu,,,,,rs,dr,938,256,111,121,118,186,Vorpal Blade,Warlord's Wrath,Occult Flash,,Myriad Arrows,Binge Eating,Phys Amp,Drain Phys,Auto-Rakunda,Auto-Sukunda,Auto-Taruka,Auto-Rakuka,Attack,867,590,565,518,,,,,,,,,,,,,,,
+Masakado,General,98,5,nu,,,,,rs,ab,938,256,111,121,118,186,Vorpal Blade,Warlord's Wrath,Occult Flash,,Myriad Arrows,Binge Eating,Phys Amp,Drain Phys,Auto-Rakunda,Auto-Sukunda,Auto-Taruka,Auto-Rakuka,Attack,867,590,565,518,,,15,,,15,,,,,,15,,,15

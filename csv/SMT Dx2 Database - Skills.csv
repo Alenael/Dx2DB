@@ -1393,20 +1393,20 @@ Lv2: +4% to damage dealt using this skill.
 Lv3: +8% to damage dealt using this skill.
 Lv4: +8% to damage dealt using this skill. MP cost of this skill -1.",All Enemies/Party Members,,,,1
 support,Agile Cry,,7 MP,Reduces all enemy EV/AC and increases own parties EV/AC by 20%. (3 turns),All Enemies/Party Members,,,,
-phys,Summon Monster Gomorra B,,8 MP,"1 use. Available turn 3. Phys with +50% crit rate, hits 5 times on a single target and has a chance to charm (50%). Damage depends on 50% Patk and 50% Matk. This skill gains pierce phys.",All Enemies,,,,1
-phys,Summon Monster Gomorra J,,8 MP,"1 use. Only available at turn 3. Phys aoe with +50% crit, power = 180 and inflicts bind with 50% base chance. Damage of the skill depends on 50% patk and 50% matk. This skill gains phys pierce.",All Enemies,,,,1
-phys,Beloved Slash,,6 MP,"Phys aoe, hits them twice",All Enemies,,,,1
-passive,Madame Stomp,,passive,"Passive, when she hits an enemy and crits, they are hit by an almighty attack with power = 100 and has a chance to be charmed (30%). (Seems like it activates every crit).
+phys,Summon Madame Butterfly,,8 MP,"This skill becomes available from the third turn. Inflicts Phys (Physical) damage five times with 50% crit rate and 50 power on a Single Enemy with 50% chance to inflict Charm. The damage inflicted by this skill depends on 50% Phys ATK and 50% Mag ATK, and will have Phys Pierce effect. (1 Use)",Single Enemy,,,,1
+phys,Summon Gomorrah,,8 MP,"This skill becomes available from the third turn. Inflicts Phys (Physical) damage with 50% crit rate and 180 power on All Enemies with 50% chance to inflict Bind. The damage inflicted by this skill depends on 50% Phys ATK and 50% Mag ATK, and will have Phys Pierce effect. (1 Use)",All Enemies,,,,1
+phys,Beloved Slash,,6 MP,Inflicts Phys (Physical) damage with 60 power on All Enemies twice.,All Enemies,,,,1
+passive,Madame Stomp,,passive,"When getting a critical hit, inflicts Almighty (Magic) damage with 100 power to the enemy, with 30% chance to inflict Charm.
 
-Lv2: +4% to Ailment Infliction and Critical.
-Lv3:  +6% to Ailment Infliction and Critical.
-Lv4:  +8% to Ailment Infliction and Critical.
-Lv5:  +10% to Ailment Infliction and Critical.
-Lv6:  +20% to Ailment Infliction and +25% to Critical.",Self,,,,1
-passive,Madame Upper,,passive,"Passive, when an enemy is charmed they are hit by an almighty attack (power = 100) with an added 30% chance to bind.
+Lv2: +4% to Ailment hit rate. +4% Critical hit rate.
+Lv3: +6% to Ailment hit rate. +6% Critical hit rate.
+Lv4: +8% to Ailment hit rate. +8% Critical hit rate.
+Lv5: +10% to Ailment hit rate. +10% Critical hit rate.
+Lv6: +20% to Ailment hit rate. +25% Critical hit rate.",Self,,,,1
+passive,Madame Upper,,passive,"When an enemy is charmed, inflicts Almighty (Magic) damage with 100 power, with 30% chance to inflict Bind.
 
-Lv2: +4% to Ailment Infliction and Evasion.
-Lv3:  +6% to Ailment Infliction and Evasion.
-Lv4:  +8% to Ailment Infliction and Evasion.
-Lv5:  +10% to Ailment Infliction and Evasion.
-Lv6:  +20% to Ailment Infliction and Evasion.",Self,,,,1
+Lv2: +4% to Ailment hit rate. +4% Phys evasion rate.
+Lv3: +6% to Ailment hit rate. +6% Phys evasion rate.
+Lv4: +8% to Ailment hit rate. +8% Phys evasion rate.
+Lv5: +10% to Ailment hit rate. +10% Phys evasion rate.
+Lv6: +20% to Ailment hit rate. +20% Phys evasion rate.",Self,,,,1

@@ -1393,10 +1393,16 @@ Lv2: +4% to damage dealt using this skill.
 Lv3: +8% to damage dealt using this skill.
 Lv4: +8% to damage dealt using this skill. MP cost of this skill -1.",All Enemies/Party Members,,,,1
 support,Agile Cry,,7 MP,Reduces all enemy EV/AC and increases own parties EV/AC by 20%. (3 turns),All Enemies/Party Members,,,,
-phys,Summon Madame Butterfly,,8 MP,"This skill becomes available from the third turn. Inflicts Phys (Physical) damage five times with 50% crit rate and 50 power on a Single Enemy with 50% chance to inflict Charm. The damage inflicted by this skill depends on 50% Phys ATK and 50% Mag ATK, and will have Phys Pierce effect. (1 Use)",Single Enemy,,,,1
-phys,Summon Gomorrah,,8 MP,"This skill becomes available from the third turn. Inflicts Phys (Physical) damage with 50% crit rate and 180 power on All Enemies with 50% chance to inflict Bind. The damage inflicted by this skill depends on 50% Phys ATK and 50% Mag ATK, and will have Phys Pierce effect. (1 Use)",All Enemies,,,,1
-phys,Beloved Slash,,6 MP,Inflicts Phys (Physical) damage with 60 power on All Enemies twice.,All Enemies,,,,1
-passive,Madame Stomp,,passive,"When getting a critical hit, inflicts Almighty (Magic) damage with 100 power to the enemy, with 30% chance to inflict Charm.
+phys,Gomorrah (B),,8 MP,"Can be used from the 3rd turn. Inflicts Phys (Physical) damage with 50% crit rate on a single enemy 5 times and a 50% chance to inflict Charm on all enemies.
+Power: 50
+*Damage inflicted by this skill is 50% dependent on Phys ATK, 50% on Mag ATK and will have Phys Pierce effect.",All Enemies,,,,1
+phys,Gomorrah (J),,8 MP,"Can be used from the 3rd turn. Inflicts Phys (Physical) damage with 50% crit rate on all enemies 5 times and a 50% chance to inflict Bind on all enemies.
+Power: 180
+*Damage inflicted by this skill is 50% dependent on Phys ATK, 50% on Mag ATK and will have Phys Pierce effect.",All Enemies,,,,1
+phys,Beloved Slash,,6 MP,"Inflicts Phys (Physical) damage on all enemies twice.
+Power: 60?",All Enemies,,,,1
+passive,Madama Stomp,,passive,"When landing a critical hit, inflicts Almighty (Magic) damage on a single enemy with a 30% chance to inflict Charm.
+Power: 100
 
 Lv2: +4% to Ailment hit rate. +4% Critical hit rate.
 Lv3: +6% to Ailment hit rate. +6% Critical hit rate.

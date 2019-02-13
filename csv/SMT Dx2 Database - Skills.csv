@@ -1393,10 +1393,10 @@ Lv2: +4% to damage dealt using this skill.
 Lv3: +8% to damage dealt using this skill.
 Lv4: +8% to damage dealt using this skill. MP cost of this skill -1.",All Enemies/Party Members,,,,1
 support,Agile Cry,,7 MP,Reduces all enemy EV/AC and increases own parties EV/AC by 20%. (3 turns),All Enemies/Party Members,,,,
-phys,Gomorrah B,,8 MP,"Can be used from the 3rd turn. Inflicts Phys (Physical) damage with 50% crit rate on a single enemy 5 times and a 50% chance to inflict Charm on all enemies.
+phys,Gomorrah (B),,8 MP,"Can be used from the 3rd turn. Inflicts Phys (Physical) damage with 50% crit rate on a single enemy 5 times and a 50% chance to inflict Charm on all enemies.
 Power: 50
 *Damage inflicted by this skill is 50% dependent on Phys ATK, 50% on Mag ATK and will have Phys Pierce effect.",All Enemies,,,,1
-phys,Gomorrah J,,8 MP,"Can be used from the 3rd turn. Inflicts Phys (Physical) damage with 50% crit rate on all enemies 5 times and a 50% chance to inflict Bind on all enemies.
+phys,Gomorrah (J),,8 MP,"Can be used from the 3rd turn. Inflicts Phys (Physical) damage with 50% crit rate on all enemies 5 times and a 50% chance to inflict Bind on all enemies.
 Power: 180
 *Damage inflicted by this skill is 50% dependent on Phys ATK, 50% on Mag ATK and will have Phys Pierce effect.",All Enemies,,,,1
 phys,Beloved Slash,,6 MP,"Inflicts Phys (Physical) damage on all enemies twice.

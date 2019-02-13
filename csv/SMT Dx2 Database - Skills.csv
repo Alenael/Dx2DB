@@ -1403,7 +1403,7 @@ Lv3: +6% to Ailment hit rate. +6% Critical hit rate.
 Lv4: +8% to Ailment hit rate. +8% Critical hit rate.
 Lv5: +10% to Ailment hit rate. +10% Critical hit rate.
 Lv6: +20% to Ailment hit rate. +25% Critical hit rate.",Self,,,,1
-passive,Madame Upper,,passive,"When an enemy is charmed, inflicts Almighty (Magic) damage with 100 power, with 30% chance to inflict Bind.
+passive,Madama Uppercut,,passive,"When an enemy is Charmed, inflicts Almighty (Magic) damage on a single enemy with a 30% chance to inflict Bind. Power: 100?
 
 Lv2: +4% to Ailment hit rate. +4% Phys evasion rate.
 Lv3: +6% to Ailment hit rate. +6% Phys evasion rate.

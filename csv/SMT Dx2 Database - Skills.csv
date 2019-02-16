@@ -1,152 +1,152 @@
-Element,Name,JP Name,Cost,Description,Target,Skill Points,Learned By,Transferable From,Unique
+Element,Name,JP Name,Cost,Description,Target,Skill Points,Learned By,Transferable From
 phys,Cleave,スラッシュ,4 MP,"Inflicts Phys (Physical) damage with 120 power on a Single Enemy.
 
 Lv2: +5% to damage.
 Lv3: +8% to damage.
 Lv4: +11% to damage.
 Lv5: +14% to damage.
-Lv6: +17% to damage.",Single Enemy,1,,,
+Lv6: +17% to damage.",Single Enemy,1,,
 phys,Fatal Sword,絶命剣,5 MP,"Inflicts Phys (Physical) damage with 140 power on a Single Enemy.
 
 Lv2: +5% to damage.
 Lv3: +8% to damage.
 Lv4: +11% to damage.
 Lv5: +14% to damage.
-Lv6: +17% to damage.",Single Enemy,6,,,
+Lv6: +17% to damage.",Single Enemy,6,,
 phys,Berserker God,怪力乱神,6 MP,"Inflicts Phys (Physical) damage with 160 power on a Single Enemy.
 
 Lv2: +5% to damage.
 Lv3: +8% to damage.
 Lv4: +11% to damage.
 Lv5: +14% to damage.
-Lv6: +17% to damage.",Single Enemy,9,,,
+Lv6: +17% to damage.",Single Enemy,9,,
 phys,Megaton Raid,メガトンレイド,7 MP,"Inflicts Phys (Physical) damage with 180 power on a Single Enemy.
 
 Lv2: +5% to damage.
 Lv3: +8% to damage.
 Lv4: +11% to damage.
 Lv5: +14% to damage.
-Lv6: +17% to damage.",Single Enemy,12,,,
+Lv6: +17% to damage.",Single Enemy,12,,
 phys,God's Hand,ゴッドハンド,8 MP,"Inflicts Phys (Physical) damage with 200 power on a Single Enemy.
 
 Lv2: +5% to damage.
 Lv3: +8% to damage.
 Lv4: +11% to damage.
 Lv5: +14% to damage.
-Lv6: +17% to damage.",Single Enemy,15,,,
+Lv6: +17% to damage.",Single Enemy,15,,
 phys,Mow Down,なぎ払い,4 MP,"Inflicts Phys (Physical) damage with 80 power on All Enemies.
 
 Lv2: +4% to damage.
 Lv3: +7% to damage.
 Lv4: +10% to damage.
-Lv5: +13% to damage.",All Enemies,2,,,
+Lv5: +13% to damage.",All Enemies,2,,
 phys,Herculean Strike,金剛発破,5 MP,"Inflicts Phys (Physical) damage with 100 power on All Enemies.
 
 Lv2: +4% to damage.
 Lv3: +7% to damage.
 Lv4: +10% to damage.
-Lv5: +13% to damage.",All Enemies,4,,,
+Lv5: +13% to damage.",All Enemies,4,,
 phys,Hades Blast,冥界破,6 MP,"Inflicts Phys (Physical) damage with 120 power on All Enemies.
 
 Lv2: +4% to damage.
 Lv3: +7% to damage.
 Lv4: +10% to damage.
-Lv5: +13% to damage.",All Enemies,6,,,
+Lv5: +13% to damage.",All Enemies,6,,
 phys,Vorpal Blade,空間殺法,7 MP,"Inflicts Phys (Physical) damage with 140 power on All Enemies.
 
 Lv2: +4% to damage.
 Lv3: +7% to damage.
 Lv4: +10% to damage.
-Lv5: +13% to damage.",All Enemies,8,,,
+Lv5: +13% to damage.",All Enemies,8,,
 phys,Gigantomachia,ギガントマキア,8 MP,"Inflicts Phys (Physical) damage with 160 power on All Enemies.
 
 Lv2: +4% to damage.
 Lv3: +7% to damage.
 Lv4: +10% to damage.
-Lv5: +13% to damage.",All Enemies,10,,,
+Lv5: +13% to damage.",All Enemies,10,,
 phys,Lunge,突撃,4 MP,"Inflicts Phys (Physical) damage with 30% crit rate and 115 power on a Single Enemy.
 
 Lv2: +4% to Phys attack hit rate.
 Lv3: +7% to Phys attack hit rate.
 Lv4: +10% to Phys attack hit rate.
 Lv5: +13% to Phys attack hit rate.
-Lv6: +16% to Phys attack hit rate.",Single Enemy,2,,,
+Lv6: +16% to Phys attack hit rate.",Single Enemy,2,,
 phys,Oni-Kagura,鬼神楽,5 MP,"Inflicts Phys (Physical) damage with 30% crit rate and 130 power on a Single Enemy.
 
 Lv2: +4% to Phys attack hit rate.
 Lv3: +7% to Phys attack hit rate.
 Lv4: +10% to Phys attack hit rate.
 Lv5: +13% to Phys attack hit rate.
-Lv6: +16% to Phys attack hit rate.",Single Enemy,5,,,
+Lv6: +16% to Phys attack hit rate.",Single Enemy,5,,
 phys,Mortal Jihad,モータルジハード,6 MP,"Inflicts Phys (Physical) damage with 30% crit rate and 145 power on a Single Enemy.
 
 Lv2: +4% to Phys attack hit rate.
 Lv3: +7% to Phys attack hit rate.
 Lv4: +10% to Phys attack hit rate.
 Lv5: +13% to Phys attack hit rate.
-Lv6: +16% to Phys attack hit rate.",Single Enemy,7,,,
+Lv6: +16% to Phys attack hit rate.",Single Enemy,7,,
 phys,Heat Wave,ヒートウェイブ,5 MP,"Inflicts Phys (Physical) damage with 30% crit rate and 70 power on All Enemies.
 
 Lv2: +4% to Phys attack hit rate.
 Lv3: +7% to Phys attack hit rate.
 Lv4: +10% to Phys attack hit rate.
 Lv5: +13% to Phys attack hit rate.
-Lv6: +16% to Phys attack hit rate.",All Enemies,2,,,
+Lv6: +16% to Phys attack hit rate.",All Enemies,2,,
 phys,Megaton Press,メガトンプレス,6 MP,"Inflicts Phys (Physical) damage with 30% crit rate and 90 power on All Enemies.
 
 Lv2: +4% to Phys attack hit rate.
 Lv3: +7% to Phys attack hit rate.
 Lv4: +10% to Phys attack hit rate.
 Lv5: +13% to Phys attack hit rate.
-Lv6: +16% to Phys attack hit rate.",All Enemies,4,,,
+Lv6: +16% to Phys attack hit rate.",All Enemies,4,,
 phys,Titanomachia,ティタノマキア,7 MP,"Inflicts Phys (Physical) damage with 30% crit rate and 110 power on All Enemies.
 
 Lv2: +4% to Phys attack hit rate.
 Lv3: +7% to Phys attack hit rate.
 Lv4: +10% to Phys attack hit rate.
 Lv5: +13% to Phys attack hit rate.
-Lv6: +16% to Phys attack hit rate.",All Enemies,6,,,
+Lv6: +16% to Phys attack hit rate.",All Enemies,6,,
 phys,Rampage,暴れまくり,3 MP,"Inflicts Phys (Physical) damage 2 to 3 times with 45 power on Random Enemy/(ies).
 
 Lv2: +3% to damage.
 Lv3: +6% to damage.
 Lv4: +9% to damage.
-Lv5: +12% to damage.",Random Enemy/ies,3,,,
+Lv5: +12% to damage.",Random Enemy/ies,3,,
 phys,Deathbound,デスバウンド,4 MP,"Inflicts Phys (Physical) damage 2 to 3 times with 55 power on Random Enemy/(ies).
 
 Lv2: +3% to damage.
 Lv3: +6% to damage.
 Lv4: +9% to damage.
-Lv5: +12% to damage.",Random Enemy/ies,5,,,
+Lv5: +12% to damage.",Random Enemy/ies,5,,
 phys,Madness Nails,狂乱の剛爪,5 MP,"Inflicts Phys (Physical) damage 2 to 3 times with 65 power on Random Enemy/(ies).
 
 Lv2: +3% to damage.
 Lv3: +6% to damage.
 Lv4: +9% to damage.
-Lv5: +12% to damage.",Random Enemy/ies,7,,,
+Lv5: +12% to damage.",Random Enemy/ies,7,,
 phys,Hell Claw,地獄の獰爪,5 MP,"Inflicts Phys (Physical) damage 3 times with 30% crit rate and 65 power on Random Enemy/(ies).
 
 Lv2: +10% to Phys attack hit rate.
 Lv3: +20% to Phys attack hit rate.
-Lv4: +20% to Phys attack hit rate. +15% to damage.",Random Enemy/ies,7,,,
+Lv4: +20% to Phys attack hit rate. +15% to damage.",Random Enemy/ies,7,,
 phys,Nihil Claw,虚空爪激,6 MP,"Inflicts Phys (Physical) damage 2 to 3 times with 75 power on Random Enemy/(ies).
 
 Lv2: +3% to damage.
 Lv3: +6% to damage.
 Lv4: +9% to damage.
-Lv5: +12% to damage.",Random Enemy/ies,9,,,
+Lv5: +12% to damage.",Random Enemy/ies,9,,
 phys,Tempest Slash,五月雨斬り,5 MP,"Inflicts Phys (Physical) damage 2 to 5 times with 50 power on Random Enemy/(ies).
 
 Lv2: +3% to damage.
 Lv3: +6% to damage.
 Lv4: +9% to damage.
-Lv5: +12% to damage.",Random Enemy/ies,7,,,
+Lv5: +12% to damage.",Random Enemy/ies,7,,
 phys,Myriad Arrows,刹那五月雨撃ち,7 MP,"Inflicts Phys (Physical) damage 2 to 5 times with 65 power on Random Enemy/(ies).
 
 Lv2: +3% to damage.
 Lv3: +6% to damage.
 Lv4: +9% to damage.
-Lv5: +12% to damage.",Random Enemy/ies,9,,,
+Lv5: +12% to damage.",Random Enemy/ies,9,,
 phys,Toxic Sting,毒針,5 MP,"Inflicts Phys (Physical) damage with 120 power on a Single Enemy with 40% chance to inflict Poison.
 
 Lv2: +2% chance to inflict status ailments.
@@ -154,7 +154,7 @@ Lv3: +4% chance to inflict status ailments.
 Lv4: +6% chance to inflict status ailments.
 Lv5: +8% chance to inflict status ailments.
 Lv6: +10% chance to inflict status ailments.
-Lv7: +16% chance to inflict status ailments.",Single Enemy,6,,,
+Lv7: +16% chance to inflict status ailments.",Single Enemy,6,,
 phys,Binding Claw,バインドクロー,5 MP,"Inflicts Phys (Physical) damage with 120 power on a Single Enemy with 40% chance to inflict Bind.
 
 Lv2: +2% chance to inflict status ailments.
@@ -162,8 +162,8 @@ Lv3: +4% chance to inflict status ailments.
 Lv4: +6% chance to inflict status ailments.
 Lv5: +8% chance to inflict status ailments.
 Lv6: +10% chance to inflict status ailments.
-Lv7: +16% chance to inflict status ailments.",Single Enemy,6,,,
-phys,Paralyzing Bite,痺れかみつき,5 MP,Inflicts Phys (Physical) damage with 160 power on a Single Enemy with 35% chance to inflict Bind.,Single Enemy,,,,1
+Lv7: +16% chance to inflict status ailments.",Single Enemy,6,,
+phys,Paralyzing Bite,痺れかみつき,5 MP,Inflicts Phys (Physical) damage with 160 power on a Single Enemy with 35% chance to inflict Bind.,Single Enemy,,,
 phys,Dark Sword,暗夜剣,5 MP,"Inflicts Phys (Physical) damage with 120 power on a Single Enemy with 40% chance to inflict Mute.
 
 Lv2: +2% chance to inflict status ailments.
@@ -171,7 +171,7 @@ Lv3: +4% chance to inflict status ailments.
 Lv4: +6% chance to inflict status ailments.
 Lv5: +8% chance to inflict status ailments.
 Lv6: +10% chance to inflict status ailments.
-Lv7: +16% chance to inflict status ailments.",Single Enemy,6,,,
+Lv7: +16% chance to inflict status ailments.",Single Enemy,6,,
 phys,Sweet Bite,甘噛み,5 MP,"Inflicts Phys (Physical) damage with 120 power on a Single Enemy with 40% chance to inflicts Charm.
 
 Lv2: +2% chance to inflict status ailments.
@@ -179,1197 +179,1197 @@ Lv3: +4% chance to inflict status ailments.
 Lv4: +6% chance to inflict status ailments.
 Lv5: +8% chance to inflict status ailments.
 Lv6: +10% chance to inflict status ailments.
-Lv7: +16% chance to inflict status ailments.",Single Enemy,6,,,
+Lv7: +16% chance to inflict status ailments.",Single Enemy,6,,
 phys,Eat Whole,丸かじり,5 MP,"Inflicts Phys (Physical) damage with 120 power on a Single Enemy, while healing caster 25% of damage dealt.
 
 Lv2: +3% to damage.
 Lv3: +5% to damage.
 Lv4: +7% to damage.
 Lv5: +9% to damage.
-Lv6: +11% to damage.",Single Enemy,6,,,
+Lv6: +11% to damage.",Single Enemy,6,,
 phys,Binge Eating,暴飲暴食,6 MP,"Inflicts Phys (Physical) damage with 140 power on a Single Enemy, while healing caster 40% of damage dealt.
 
 Lv2: +3% to damage.
 Lv3: +5% to damage.
 Lv4: +7% to damage.
 Lv5: +9% to damage.
-Lv6: +11% to damage.",Single Enemy,8,,,
+Lv6: +11% to damage.",Single Enemy,8,,
 phys,Power Hit,捨て身の一撃,7 MP,"Use 10% of own HP to Inflicts Phys (Physical) damage with 170 power on a Single Enemy.
 
 Lv2: +3% to damage.
 Lv3: +5% to damage.
 Lv4: +7% to damage.
 Lv5: +9% to damage.
-Lv6: +11% to damage.",Single Enemy,6,,,
+Lv6: +11% to damage.",Single Enemy,6,,
 phys,Ouas,ウアス,6 MP,"Inflicts Phys (Physical) damage with 50% crit rate and 160 power on a Single Enemy, while healing caster 40% of damage dealt.
 
 Lv2: +10% to Phys hit rate.
 Lv3: +20% to Phys hit rate.
-Lv4: +20% to Phys hit rate. +15% to damage.",Single Enemy,,,,1
+Lv4: +20% to Phys hit rate. +15% to damage.",Single Enemy,,,
 phys,Gungnir,グングニル,7 MP,"Inflicts Phys (Physical) damage with 30% crit rate and 145 power on All Enemies.
 
 Lv2: +10% to Phys attack hit rate.
 Lv3: +15% to Phys attack hit rate.
-Lv4: +20% to Phys attack hit rate. +15% to damage.",All Enemies,,,,1
-phys,Mist Slashes,乱・かすみ斬り,6 MP,Inflicts Phys (Physical) damage 3 to 5 times with 50 power on Random Enemy/(ies).,Random Enemy/ies,,,,1
-phys,Gae Bolg,ゲイボルグ,7 MP,Inflicts Phys (Physical) damage 4 to 6 times with 50 power on Random Enemy/(ies).,Random Enemy/ies,,,,1
+Lv4: +20% to Phys attack hit rate. +15% to damage.",All Enemies,,,
+phys,Mist Slashes,乱・かすみ斬り,6 MP,Inflicts Phys (Physical) damage 3 to 5 times with 50 power on Random Enemy/(ies).,Random Enemy/ies,,,
+phys,Gae Bolg,ゲイボルグ,7 MP,Inflicts Phys (Physical) damage 4 to 6 times with 50 power on Random Enemy/(ies).,Random Enemy/ies,,,
 phys,Hassou Tobi,八艘飛び,7 MP,"Inflicts Phys (Physical) damage 8 times with 35 power on Random Enemy/(ies). This skill will have Phys Pierce effect.
 
 Lv2: +10% to Phys hit rate.
 Lv3: +15% to Phys hit rate.
 Lv4: +20% to Phys hit rate.
 Lv5: +25% to Phys hit rate.
-Lv6: +25% to Phys hit rate. +20% to damage.",Random Enemy/ies,,,,1
-phys,Yinlong Killer,応龍撃破,8 MP,Inflicts Phys (Physical) damage with 50% crit rate and 150 power on All Enemies.,All Enemies,,,,1
+Lv6: +25% to Phys hit rate. +20% to damage.",Random Enemy/ies,,,
+phys,Yinlong Killer,応龍撃破,8 MP,Inflicts Phys (Physical) damage with 50% crit rate and 150 power on All Enemies.,All Enemies,,,
 phys,Hell Thrust,地獄突き,7 MP,"Inflicts Phys (Physical) damage with 50 power on Random Enemy/(ies) 4 times with a 35% chance to inflict Charm.
 
 Lv2: +5% to damage.
 Lv3: +10% to damage.
 Lv4: +15% to damage.
 Lv5: +20% to damage.
-Lv6: +20% to damage. 100% chance of 2 MP recovery.",Random Enemy/ies,,,,
+Lv6: +20% to damage. 100% chance of 2 MP recovery.",Random Enemy/ies,,,
 fire,Agi,アギ,4 MP,"Inflicts Fire (Magic) damage with 120 power on a Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
 Lv5: +10% to damage.
-Lv6: +12% to damage.",Single Enemy,1,,,
+Lv6: +12% to damage.",Single Enemy,1,,
 fire,Agilao,アギラオ,5 MP,"Inflicts Fire (Magic) damage with 140 power on a Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
 Lv5: +10% to damage.
-Lv6: +12% to damage.",Single Enemy,6,,,
+Lv6: +12% to damage.",Single Enemy,6,,
 fire,Agidyne,アギダイン,6 MP,"Inflicts Fire (Magic) damage with 160 power on a Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
 Lv5: +10% to damage.
-Lv6: +12% to damage.",Single Enemy,9,,,
+Lv6: +12% to damage.",Single Enemy,9,,
 fire,Trisagion,トリスアギオン,7 MP,"Inflicts Fire (Magic) damage with 180 power on a Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
 Lv5: +10% to damage.
-Lv6: +12% to damage.",Single Enemy,12,,,
+Lv6: +12% to damage.",Single Enemy,12,,
 fire,Maragi,マハラギ,5 MP,"Inflicts Fire (Magic) damage with 80 power on All Enemies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",All Enemies,2,,,
+Lv5: +10% to damage.",All Enemies,2,,
 fire,Maragion,マハラギオン,6 MP,"Inflicts Fire (Magic) damage with 100 power on All Enemies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",All Enemies,6,,,
+Lv5: +10% to damage.",All Enemies,6,,
 fire,Maragidyne,マハラギダイン,7 MP,"Inflicts Fire (Magic) damage with 120 power on All Enemies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",All Enemies,9,,,
+Lv5: +10% to damage.",All Enemies,9,,
 fire,Fire Breath,ファイアブレス,4 MP,"Inflicts Fire (Magic) damage 2 to 4 times with 45 power on Random Enemy/ies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",Random Enemy/ies,7,,,
+Lv5: +10% to damage.",Random Enemy/ies,7,,
 fire,Hellfire,地獄の業火,5 MP,"Inflicts Fire (Magic) damage 2 to 4 times with 55 power on Random Enemy/ies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",Random Enemy/ies,10,,,
+Lv5: +10% to damage.",Random Enemy/ies,10,,
 fire,Ragnarok,ラグナロク,7 MP,"Inflicts Fire (Magic) damage with 215 power on a Single Enemy. Adds 20% damage to this skill based on your Phys ATK status.
 
 Lv2: +5% to damage.
 Lv3: +10% to damage.
 Lv4: +15% to damage.
 Lv5: +20% to damage.
-Lv6: +20% to damage. 100% chance of 2 MP recovery.",Single Enemy,,,,1
+Lv6: +20% to damage. 100% chance of 2 MP recovery.",Single Enemy,,,
 ice,Bufu,ブフ,4 MP,"Inflicts Ice (Magic) damage with 120 power on a Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
 Lv5: +10% to damage.
-Lv6: +12% to damage.",Single Enemy,1,,,
+Lv6: +12% to damage.",Single Enemy,1,,
 ice,Bufula,ブフーラ,5 MP,"Inflicts Ice (Magic) damage with 140 power on a Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
 Lv5: +10% to damage.
-Lv6: +12% to damage.",Single Enemy,6,,,
+Lv6: +12% to damage.",Single Enemy,6,,
 ice,Bufudyne,ブフダイン,6 MP,"Inflicts Ice (Magic) damage with 160 power on a Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
 Lv5: +10% to damage.
-Lv6: +12% to damage.",Single Enemy,9,,,
+Lv6: +12% to damage.",Single Enemy,9,,
 ice,Ice Age,アイスエイジ,7 MP,"Inflicts Ice (Magic) damage with 180 power on a Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
 Lv5: +10% to damage.
-Lv6: +12% to damage.",Single Enemy,12,,,
+Lv6: +12% to damage.",Single Enemy,12,,
 ice,Mabufu,マハブフ,5 MP,"Inflicts Ice (Magic) damage with 80 power on All Enemies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",All Enemies,2,,,
+Lv5: +10% to damage.",All Enemies,2,,
 ice,Mabufula,マハブフーラ,6 MP,"Inflicts Ice (Magic) damage with 100 power on All Enemies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",All Enemies,6,,,
+Lv5: +10% to damage.",All Enemies,6,,
 ice,Mabufudyne,マハブフダイン,7 MP,"Inflicts Ice (Magic) damage with 120 power on All Enemies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",All Enemies,9,,,
+Lv5: +10% to damage.",All Enemies,9,,
 ice,Ice Breath,アイスブレス,4 MP,"Inflicts Ice (Magic) damage 2 to 4 times with 45 power on Random Enemy/ies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",Random Enemy/ies,7,,,
+Lv5: +10% to damage.",Random Enemy/ies,7,,
 ice,Glacial Blast,絶対零度,5 MP,"Inflicts Ice (Magic) damage 2 to 4 times with 55 power on Random Enemy/ies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",Random Enemy/ies,10,,,
-ice,Cold World,大冷界,7 MP,Inflicts Ice (Magic) damage with 130 power on All Enemies and reduces enemy's DEF 20% for 3 turns.,All Enemies,,,,1
+Lv5: +10% to damage.",Random Enemy/ies,10,,
+ice,Cold World,大冷界,7 MP,Inflicts Ice (Magic) damage with 130 power on All Enemies and reduces enemy's DEF 20% for 3 turns.,All Enemies,,,
 elec,Zio,ジオ,4 MP,"Inflicts Elec (Magic) damage with 120 power on a Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
 Lv5: +10% to damage.
-Lv6: +12% to damage.",Single Enemy,1,,,
+Lv6: +12% to damage.",Single Enemy,1,,
 elec,Zionga,ジオンガ,5 MP,"Inflicts Elec (Magic) damage with 140 power on a Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
 Lv5: +10% to damage.
-Lv6: +12% to damage.",Single Enemy,6,,,
+Lv6: +12% to damage.",Single Enemy,6,,
 elec,Ziodyne,ジオダイン,6 MP,"Inflicts Elec (Magic) damage with 160 power on a Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
 Lv5: +10% to damage.
-Lv6: +12% to damage.",Single Enemy,9,,,
+Lv6: +12% to damage.",Single Enemy,9,,
 elec,Thunder Reign,真理の雷,7 MP,"Inflicts Elec (Magic) damage with 180 power on a Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
 Lv5: +10% to damage.
-Lv6: +12% to damage.",Single Enemy,12,,,
+Lv6: +12% to damage.",Single Enemy,12,,
 elec,Mazio,マハジオ,5 MP,"Inflicts Elec (Magic) damage with 80 power on All Enemies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",All Enemies,2,,,
+Lv5: +10% to damage.",All Enemies,2,,
 elec,Mazionga,マハジオンガ,6 MP,"Inflicts Elec (Magic) damage with 100 power on All Enemies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",All Enemies,6,,,
+Lv5: +10% to damage.",All Enemies,6,,
 elec,Maziodyne,マハジオダイン,7 MP,"Inflicts Elec (Magic) damage with 120 power on All Enemies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",All Enemies,9,,,
+Lv5: +10% to damage.",All Enemies,9,,
 elec,Shock,放電,4 MP,"Inflicts Elec (Magic) damage 2 to 4 times with 45 power on Random Enemy/ies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",Random Enemy/ies,7,,,
+Lv5: +10% to damage.",Random Enemy/ies,7,,
 elec,Bolt Storm,ショックウェーブ,5 MP,"Inflicts Elec (Magic) damage 2 to 4 times with 55 power on Random Enemy/ies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",Random Enemy/ies,10,,,
+Lv5: +10% to damage.",Random Enemy/ies,10,,
 elec,Mjolnir,ミョルニル,7 MP,"Inflicts Elec (Magic) damage 4 to 5 times with 60 power on Random Enemy/ies.
 
 Lv2: +5% to damage.
 Lv3: +10% to damage.
 Lv4: +15% to damage.
 Lv5: +20% to damage.
-Lv6: +20% to damage. 100% chance of 2 MP recovery.",Random Enemy/ies,,,,1
+Lv6: +20% to damage. 100% chance of 2 MP recovery.",Random Enemy/ies,,,
 force,Zan,ザン,4 MP,"Inflicts Force (Magic) damage with 120 power on a Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
 Lv5: +10% to damage.
-Lv6: +12% to damage.",Single Enemy,1,,,
+Lv6: +12% to damage.",Single Enemy,1,,
 force,Zanma,ザンマ,5 MP,"Inflicts Force (Magic) damage with 140 power on a Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
 Lv5: +10% to damage.
-Lv6: +12% to damage.",Single Enemy,6,,,
+Lv6: +12% to damage.",Single Enemy,6,,
 force,Zandyne,ザンダイン,6 MP,"Inflicts Force (Magic) damage with 160 power on a Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
 Lv5: +10% to damage.
-Lv6: +12% to damage.",Single Enemy,9,,,
+Lv6: +12% to damage.",Single Enemy,9,,
 force,Killing Wind,殺風激,7 MP,"Inflicts Force (Magic) damage with 180 power on a Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
 Lv5: +10% to damage.
-Lv6: +12% to damage.",Single Enemy,12,,,
+Lv6: +12% to damage.",Single Enemy,12,,
 force,Mazan,マハザン,5 MP,"Inflicts Force (Magic) damage with 80 power on All Enemies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",All Enemies,2,,,
+Lv5: +10% to damage.",All Enemies,2,,
 force,Mazanma,マハザンマ,6 MP,"Inflicts Force (Magic) damage with 100 power on All Enemies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",All Enemies,6,,,
+Lv5: +10% to damage.",All Enemies,6,,
 force,Mazandyne,マハザンダイン,7 MP,"Inflicts Force (Magic) damage with 120 power on All Enemies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",All Enemies,9,,,
+Lv5: +10% to damage.",All Enemies,9,,
 force,Wind Breath,ウィンドブレス,4 MP,"Inflicts Force (Magic) damage 2 to 4 times with 45 power on Random Enemy/ies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",Random Enemy/ies,7,,,
+Lv5: +10% to damage.",Random Enemy/ies,7,,
 force,Twister,ツイスター,5 MP,"Inflicts Force (Magic) damage 2 to 4 times with 55 power on Random Enemy/ies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",Random Enemy/ies,10,,,
-force,Kusanagi,天叢雲剣,6 MP,Inflicts Force (Magic) damage with 180 power on a Single Enemy and increases own party's ATK 20% for 3 turns. The damage inflicted by this skill is dependent on Phys ATK.,Single Enemy,,,,1
+Lv5: +10% to damage.",Random Enemy/ies,10,,
+force,Kusanagi,天叢雲剣,6 MP,Inflicts Force (Magic) damage with 180 power on a Single Enemy and increases own party's ATK 20% for 3 turns. The damage inflicted by this skill is dependent on Phys ATK.,Single Enemy,,,
 light,Hama,ハマ,4 MP,"Inflicts Light (Magic) damage with 120 power on a Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
 Lv5: +10% to damage.
-Lv6: +12% to damage.",Single Enemy,1,,,
+Lv6: +12% to damage.",Single Enemy,1,,
 light,Hamaon,ハマオン,5 MP,"Inflicts Light (Magic) damage with 140 power on a Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
 Lv5: +10% to damage.
-Lv6: +12% to damage.",Single Enemy,6,,,
+Lv6: +12% to damage.",Single Enemy,6,,
 light,Hamadyne,ハマダイン,6 MP,"Inflicts Light (Magic) damage with 160 power on a Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
 Lv5: +10% to damage.
-Lv6: +12% to damage.",Single Enemy,9,,,
+Lv6: +12% to damage.",Single Enemy,9,,
 light,Thunderclap,裁きの雷火,7 MP,"Inflicts Light (Magic) damage with 180 power on a Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
 Lv5: +10% to damage.
-Lv6: +12% to damage.",Single Enemy,12,,,
+Lv6: +12% to damage.",Single Enemy,12,,
 light,Mahama,マハンマ,5 MP,"Inflicts Light (Magic) damage with 80 power on All Enemies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",All Enemies,2,,,
+Lv5: +10% to damage.",All Enemies,2,,
 light,Mahamaon,マハンマオン,6 MP,"Inflicts Light (Magic) damage with 100 power on All Enemies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",All Enemies,6,,,
+Lv5: +10% to damage.",All Enemies,6,,
 light,Mahamadyne,マハンマダイン,7 MP,"Inflicts Light (Magic) damage with 120 power on All Enemies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",All Enemies,9,,,
+Lv5: +10% to damage.",All Enemies,9,,
 light,Judgement Light,審判の光,4 MP,"Inflicts Light (Magic) damage 2 to 4 times with 45 power on Random Enemy/ies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",Random Enemy/ies,7,,,
+Lv5: +10% to damage.",Random Enemy/ies,7,,
 light,Holy Wrath,天罰,5 MP,"Inflicts Light (Magic) damage 2 to 4 times with 55 power on Random Enemy/ies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",Random Enemy/ies,10,,,
+Lv5: +10% to damage.",Random Enemy/ies,10,,
 light,God's Bow,ゴッドアロー,7 MP,"Inflicts Light (Magic) damage with 200 power on a Single Enemy with 50% kill rate.
 
 Lv2: +5% to damage.
 Lv3: +10% to damage.
 Lv4: +15% to damage.
 Lv5: +20% to damage.
-Lv6: +20% to damage. 100% chance of 2 MP recovery.",Single Enemy,,,,1
+Lv6: +20% to damage. 100% chance of 2 MP recovery.",Single Enemy,,,
 light,Trial of Hate,憎悪の試練,7 MP,"Inflicts Light (Magic) damage with 130 power on All Enemies and decreases ATK or DEF or EVA/ACC by 20% for 3 turns.
 
 Lv2: +5% to damage.
 Lv3: +10% to damage.
 Lv4: +15% to damage.
 Lv5: +20% to damage.
-Lv6: +20% to damage. MP cost -1",All Enemies,,,,1
-light,Soul Judgement,魂の審判,5 MP,Inflicts Light (Magic) damage 7 times with 30 power on Random Enemy/ies.,Random Enemy/ies,,,,1
+Lv6: +20% to damage. MP cost -1",All Enemies,,,
+light,Soul Judgement,魂の審判,5 MP,Inflicts Light (Magic) damage 7 times with 30 power on Random Enemy/ies.,Random Enemy/ies,,,
 dark,Mudo,ムド,4 MP,"Inflicts Dark (Magic) damage with 120 power on a Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
 Lv5: +10% to damage.
-Lv6: +12% to damage.",Single Enemy,1,,,
+Lv6: +12% to damage.",Single Enemy,1,,
 dark,Mudoon,ムドオン,5 MP,"Inflicts Dark (Magic) damage with 140 power on a Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
 Lv5: +10% to damage.
-Lv6: +12% to damage.",Single Enemy,6,,,
+Lv6: +12% to damage.",Single Enemy,6,,
 dark,Mudodyne,ムドダイン,6 MP,"Inflicts Dark (Magic) damage with 160 power on a Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
 Lv5: +10% to damage.
-Lv6: +12% to damage.",Single Enemy,9,,,
+Lv6: +12% to damage.",Single Enemy,9,,
 dark,Hell Gaze,地獄之眼,7 MP,"Inflicts Dark (Magic) damage with 180 power on a Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
 Lv5: +10% to damage.
-Lv6: +12% to damage.",Single Enemy,12,,,
+Lv6: +12% to damage.",Single Enemy,12,,
 dark,Mamudo,マハムド,5 MP,"Inflicts Dark (Magic) damage with 80 power on All Enemies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",All Enemies,2,,,
+Lv5: +10% to damage.",All Enemies,2,,
 dark,Mamudoon,マハムドオン,6 MP,"Inflicts Dark (Magic) damage with 100 power on All Enemies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",All Enemies,6,,,
+Lv5: +10% to damage.",All Enemies,6,,
 dark,Mamudodyne,暴食の大罪,7 MP,"Inflicts Dark (Magic) damage with 120 power on All Enemies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",All Enemies,9,,,
+Lv5: +10% to damage.",All Enemies,9,,
 dark,Evil Gaze,イービルアイ,4 MP,"Inflicts Dark (Magic) damage 2 to 4 times with 45 power on Random Enemy/ies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",Random Enemy/ies,7,,,
+Lv5: +10% to damage.",Random Enemy/ies,7,,
 dark,Purgatory,煉獄,5 MP,"Inflicts Dark (Magic) damage 2 to 4 times with 55 power on Random Enemy/ies.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",Random Enemy/ies,10,,,
-dark,Allure,肉体の解放,6 MP,Inflicts Dark (Magic) damage with 110 power on All Enemies with 35% chance to inflict Charm.,All Enemies,,,,1
+Lv5: +10% to damage.",Random Enemy/ies,10,,
+dark,Allure,肉体の解放,6 MP,Inflicts Dark (Magic) damage with 110 power on All Enemies with 35% chance to inflict Charm.,All Enemies,,,
 dark,Gluttony,暴食の大罪,7 MP,"Inflicts Dark (Magic) damage with 130 power on All Enemies, while healing caster 50% of damage dealt.
 
 Lv2: +5% to damage.
 Lv3: +10% to damage.
 Lv4: +15% to damage.
 Lv5: +20% to damage.
-Lv6: +20% to damage. 100% chance of 2 MP recovery.",All Enemies,,,,1
+Lv6: +20% to damage. 100% chance of 2 MP recovery.",All Enemies,,,
 dark,Go to Hell!,,8 MP,"Inflicts Dark (Magic) damage with 100 power on All Enemies with a 80% chance to inflict Curse. This skill has the Dark Pierce effect.
 
 Lv2: +10% chance to inflict Curse.
 Lv3: +20% chance to inflict Curse.
-Lv4: +20% chance to inflict Curse. MP cost -1. ",All Enemies,,,,1
-dark,Die for Me!,死んでくれる？,7 MP,Kills a Single Enemy. (1 use),Single Enemy,,,,1
-almighty,Mind Break,吸血,5 MP,Inflicts Almighty (Magic) damage with 80 power on a Single Enemy and reduces MP by 3 MP.,Single Enemy,6,,,
+Lv4: +20% chance to inflict Curse. MP cost -1. ",All Enemies,,,
+dark,Die for Me!,死んでくれる？,7 MP,Kills a Single Enemy. (1 use),Single Enemy,,,
+almighty,Mind Break,吸血,5 MP,Inflicts Almighty (Magic) damage with 80 power on a Single Enemy and reduces MP by 3 MP.,Single Enemy,6,,
 almighty,Life Drain,吸血,5 MP,"Inflicts Almighty (Magic) damage with 120 power on a Single Enemy, while healing caster 25% of damage dealt.
 
 Lv2: 3% chance of 1 MP recovery.
 Lv3: 5% chance of 1 MP recovery.
 Lv4: 7% chance of 1 MP recovery.
 Lv5: 9% chance of 1 MP recovery.
-Lv6: 11% chance of 1 MP recovery.",Single Enemy,3,,,
+Lv6: 11% chance of 1 MP recovery.",Single Enemy,3,,
 almighty,Deathtouch,デスタッチ,6 MP,"Inflicts Almighty (Magic) damage with 140 power on a Single Enemy, while healing caster 40% of damage dealt.
 
 Lv2: 3% chance of 1 MP recovery.
 Lv3: 5% chance of 1 MP recovery.
 Lv4: 7% chance of 1 MP recovery.
 Lv5: 9% chance of 1 MP recovery.
-Lv6: 11% chance of 1 MP recovery.",Single Enemy,6,,,
+Lv6: 11% chance of 1 MP recovery.",Single Enemy,6,,
 almighty,Spirit Drain,吸魔       ,6 MP,"Inflicts Almighty (Magic) damage with 100 power on a Single Enemy and drains 1 MP.
 
 Lv2: 3% chance of 1 MP recovery.
 Lv3: 5% chance of 1 MP recovery.
 Lv4: 7% chance of 1 MP recovery.
 Lv5: 9% chance of 1 MP recovery.
-Lv6: 11% chance of 1 MP recovery.",Single Enemy,3,,,
+Lv6: 11% chance of 1 MP recovery.",Single Enemy,3,,
 almighty,Energy Drain,エナジードレイン       ,7 MP,"Inflicts Almighty (Magic) damage with 120 power on a Single Enemy, while healing caster 25% of damage dealt and drains 1 MP.
 
 Lv2: 3% chance of 1 MP recovery.
 Lv3: 5% chance of 1 MP recovery.
 Lv4: 7% chance of 1 MP recovery.
 Lv5: 9% chance of 1 MP recovery.
-Lv6: 11% chance of 1 MP recovery.",Single Enemy,6,,,
+Lv6: 11% chance of 1 MP recovery.",Single Enemy,6,,
 almighty,Soul Drain,ソウルドレイン,8 MP,"Inflicts Almighty (Magic) damage with 140 power on a Single Enemy, while healing caster 40% of damage dealt and drains 1 MP.
 
 Lv2: 3% chance of 1 MP recovery.
 Lv3: 5% chance of 1 MP recovery.
 Lv4: 7% chance of 1 MP recovery.
 Lv5: 9% chance of 1 MP recovery.
-Lv6: 11% chance of 1 MP recovery.",Single Enemy,7,,,
+Lv6: 11% chance of 1 MP recovery.",Single Enemy,7,,
 almighty,Megido,メギド,6 MP,"Inflicts Almighty (Magic) damage with 80 power on All Enemies.
 
 Lv2: +2% to damage.
 Lv3: +4% to damage.
 Lv4: +6% to damage.
 Lv5: +8% to damage.
-Lv6: +10% to damage.",All Enemies,5,,,
+Lv6: +10% to damage.",All Enemies,5,,
 almighty,Megidola,メギドラ,7 MP,"Inflicts Almighty (Magic) damage with 100 power on All Enemies.
 
 Lv2: +2% to damage.
 Lv3: +4% to damage.
 Lv4: +6% to damage.
 Lv5: +8% to damage.
-Lv6: +10% to damage.",All Enemies,8,,,
+Lv6: +10% to damage.",All Enemies,8,,
 almighty,Megidolaon,メギドラオン,8 MP,"Inflicts Almighty (Magic) damage with 120 power on All Enemies.
 
 Lv2: +2% to damage.
 Lv3: +4% to damage.
 Lv4: +6% to damage.
 Lv5: +8% to damage.
-Lv6: +10% to damage.",All Enemies,12,,,
+Lv6: +10% to damage.",All Enemies,12,,
 almighty,Judgement,ジャッジメント,9 MP,"Inflicts Almighty (Magic) damage with 100 power on All Enemies and increases own party's ATK 20% for 3 turns.
 
 Lv2: +4% to damage dealt using this skill.
 Lv3: +8% to damage dealt using this skill.
-Lv4: +8% to damage dealt using this skill. MP cost of this skill -1.",All Enemies,12,,,1
+Lv4: +8% to damage dealt using this skill. MP cost of this skill -1.",All Enemies,12,,
 almighty,Sea of Chaos,混沌の海,9 MP,"Inflicts Almighty (Magic) damage with 100 power on All Enemies and reduces enemy's DEF 20% for 3 turns.
 
 Lv2: +4% to damage dealt using this skill.
 Lv3: +8% to damage dealt using this skill.
-Lv4: +8% to damage dealt using this skill. MP cost of this skill -1.",All Enemies,12,,,1
+Lv4: +8% to damage dealt using this skill. MP cost of this skill -1.",All Enemies,12,,
 almighty,Apocalypse,アポカリプス,8 MP,"Inflicts Almighty (Magic) damage with 120 power on All Enemies with 40% chance to inflict Mute.
 
 Lv2: +10% chance to inflict status ailments.
 Lv3: +20% chance to inflict status ailments.
-Lv4: +20% chance to inflict status ailments. MP cost -1.",All Enemies,,,,1
+Lv4: +20% chance to inflict status ailments. MP cost -1.",All Enemies,,,
 almighty,Morning Star,明けの明星,8 MP,"Inflicts Almighty (Magic) damage with 150 power on All Enemies. (3 uses)
 
 Lv2: +3% to all damage.
 Lv3: +6% to all damage.
 Lv4: +9% to all damage.
 Lv5: +12% to all damage.
-Lv6: +20% to all damage.",All Enemies,,,,1
+Lv6: +20% to all damage.",All Enemies,,,
 almighty,Pralaya,プララヤ,8 MP,"Inflicts Almighty (Magic) damage with 100 power on All Enemies while removing Repel Phys and Repel Mag. The damage inflicted by this skill is dependent on Phys ATK. 
 
 Lv2: +3% to all damage.
 Lv3: +6% to all damage.
 Lv4: +9% to all damage.
 Lv5: +12% to all damage.
-Lv6: +12% to all damage. 100% chance of 2 MP recovery.",All Enemies,,,,1
-almighty,Divine Bows' Allure,魅了の神弓,8 MP,Inflicts Almighty (Magic) damage with 190 power on a Single Enemy with 45% chance to inflict Charm.,Single Enemy,,,,1
+Lv6: +12% to all damage. 100% chance of 2 MP recovery.",All Enemies,,,
+almighty,Divine Bows' Allure,魅了の神弓,8 MP,Inflicts Almighty (Magic) damage with 190 power on a Single Enemy with 45% chance to inflict Charm.,Single Enemy,,,
 almighty,Fire of Sinai,シナイの神火,7 MP,"Inflicts Almighty (Magic) damage 5 times with 45 power on Random Enemy/ies.
 
 Lv2: +3% to all damage.
 Lv3: +6% to all damage.
 Lv4: +9% to all damage.
 Lv5: +12% to all damage.
-Lv6: +12% to all damage. MP cost -1.",Random Enemy/ies,,,,1
+Lv6: +12% to all damage. MP cost -1.",Random Enemy/ies,,,
 almighty,God's Malice,神の悪意,7 MP,"Inflicts Almighty (Magic) damage with 120 power on a single enemy with 30% chance to inflict Poison, Bind, Mute and Charm.
 
 Lv2: +10% chance to inflict status ailments.
 Lv3: +20% chance to inflict status ailments.
-Lv4: +20% chance to inflict status ailments. MP cost -1.",All Enemies,,,,1
+Lv4: +20% chance to inflict status ailments. MP cost -1.",All Enemies,,,
 almighty,Mesopotamian Star,メソポタミアの星,8 MP,"Inflicts Almighty (Magic) damage with 100 power on All Enemies. Reduces all enemy ATK by 20% and increases own party's ATK by 20%. (3 turns)
 
 Lv2: 10% chance of 1 MP recovery.
 Lv3: 20% chance of 1 MP recovery.
-Lv4: 20% chance of 1 MP recovery. MP cost -1.",All Enemies,,,,1
+Lv4: 20% chance of 1 MP recovery. MP cost -1.",All Enemies,,,
 almighty,Brahma Sutra,ブラフマーストラ,7 MP,"Inflicts Almighty (Magic) damage 3 times with 40 power on All Enemies.
 
 Lv2: +3% to damage.
 Lv3: +6% to damage.
 Lv4: +9% to damage.
 Lv5: +12% to damage.
-Lv6: +12% to damage. 100% chance of 2 MP recovery.",All Enemies,,,,1
+Lv6: +12% to damage. 100% chance of 2 MP recovery.",All Enemies,,,
 almighty,Babylon Goblet,,8 MP,"Inflicts Almighty (Magic) damage with 100 power and drains 1 MP on All Enemies. 
 
 Lv2: +3% to damage.
 Lv3: +6% to damage.
 Lv4: +9% to damage.
 Lv5: +12% to damage.
-Lv6: +12% to damage. MP cost -1.",All Enemies,,,,1
+Lv6: +12% to damage. MP cost -1.",All Enemies,,,
 ailment,Poisma,ポイズマ,5 MP,"40% chance to inflict Poison on a Single Enemy.
 
 Lv2: +3% to chance to inflict status ailments.
 Lv3: +6% to chance to inflict status ailments.
 Lv4: +9% to chance to inflict status ailments.
 Lv5: +12% to chance to inflict status ailments.
-Lv6: +20% to chance to inflict status ailments.",Single Enemy,2,,,
+Lv6: +20% to chance to inflict status ailments.",Single Enemy,2,,
 ailment,Poismaon,ポイズマオン,6 MP,"50% chance to inflict Poison on a Single Enemy.
 
 Lv2: +3% to chance to inflict status ailments.
 Lv3: +6% to chance to inflict status ailments.
 Lv4: +9% to chance to inflict status ailments.
 Lv5: +12% to chance to inflict status ailments.
-Lv6: +20% to chance to inflict status ailments.",Single Enemy,8,,,
+Lv6: +20% to chance to inflict status ailments.",Single Enemy,8,,
 ailment,Mahapoisma,マハポイズマ,6 MP,"30% chance to inflict Poison on All Enemies.
 
 Lv2: +4% to chance to inflict status ailments.
 Lv3: +7% to chance to inflict status ailments.
-Lv4: +15% to chance to inflict status ailments.",All Enemies,5,,,
+Lv4: +15% to chance to inflict status ailments.",All Enemies,5,,
 ailment,Mahapoismaon,マハポイズマオン,7 MP,"40% chance to inflict Poison on All Enemies.
 
 Lv2: +4% to chance to inflict status ailments.
 Lv3: +7% to chance to inflict status ailments.
-Lv4: +15% to chance to inflict status ailments.",All Enemies,9,,,
+Lv4: +15% to chance to inflict status ailments.",All Enemies,9,,
 ailment,Toxic Cloud,毒ガスブレス,6 MP,"30% chance to inflict Poison 3 to 4 times on Random Enemy/ies.
 
 Lv2: +4% to chance to inflict status ailments.
 Lv3: +7% to chance to inflict status ailments.
-Lv4: +15% to chance to inflict status ailments.",Random Enemy/ies,7,,,
+Lv4: +15% to chance to inflict status ailments.",Random Enemy/ies,7,,
 ailment,Shibaboo,シバブー,5 MP,"40% chance to inflict Bind on a Single Enemy.
 
 Lv2: +3% to chance to inflict status ailments.
 Lv3: +6% to chance to inflict status ailments.
 Lv4: +9% to chance to inflict status ailments.
 Lv5: +12% to chance to inflict status ailments.
-Lv6: +20% to chance to inflict status ailments.",Single Enemy,2,,,
+Lv6: +20% to chance to inflict status ailments.",Single Enemy,2,,
 ailment,Shibabooon,シバブオン,6 MP,"50% chance to inflict Bind on a Single Enemy.
 
 Lv2: +3% to chance to inflict status ailments.
 Lv3: +6% to chance to inflict status ailments.
 Lv4: +9% to chance to inflict status ailments.
 Lv5: +12% to chance to inflict status ailments.
-Lv6: +20% to chance to inflict status ailments.",Single Enemy,8,,,
+Lv6: +20% to chance to inflict status ailments.",Single Enemy,8,,
 ailment,Mahashibaboo,マハシバブー,6 MP,"30% chance to inflict Bind on All Enemies.
 
 Lv2: +4% to chance to inflict status ailments.
 Lv3: +7% to chance to inflict status ailments.
-Lv4: +15% to chance to inflict status ailments.",All Enemies,5,,,
+Lv4: +15% to chance to inflict status ailments.",All Enemies,5,,
 ailment,Mahashibabooon,マハシバブオン,7 MP,"40% chance to inflict Bind on All Enemies.
 
 Lv2: +4% to chance to inflict status ailments.
 Lv3: +7% to chance to inflict status ailments.
-Lv4: +15% to chance to inflict status ailments.",All Enemies,9,,,
+Lv4: +15% to chance to inflict status ailments.",All Enemies,9,,
 ailment,Binding Cry,バインドボイス,6 MP,"30% chance to inflict Bind 3 to 4 times on Random Enemy/ies.
 
 Lv2: +4% to chance to inflict status ailments.
 Lv3: +7% to chance to inflict status ailments.
-Lv4: +15% to chance to inflict status ailments.",Random Enemy/ies,7,,,1
+Lv4: +15% to chance to inflict status ailments.",Random Enemy/ies,7,,
 ailment,Marin Karin,マリンカリン,5 MP,"40% chance to inflict Charm on a Single Enemy.
 
 Lv2: +3% to chance to inflict status ailments.
 Lv3: +6% to chance to inflict status ailments.
 Lv4: +9% to chance to inflict status ailments.
 Lv5: +12% to chance to inflict status ailments.
-Lv6: +20% to chance to inflict status ailments.",Single Enemy,2,,,
+Lv6: +20% to chance to inflict status ailments.",Single Enemy,2,,
 ailment,Marin Karion,マリンカリオン,6 MP,"50% chance to inflict Charm on a Single Enemy.
 
 Lv2: +3% to chance to inflict status ailments.
 Lv3: +6% to chance to inflict status ailments.
 Lv4: +9% to chance to inflict status ailments.
 Lv5: +12% to chance to inflict status ailments.
-Lv6: +20% to chance to inflict status ailments.",Single Enemy,8,,,
+Lv6: +20% to chance to inflict status ailments.",Single Enemy,8,,
 ailment,Mahamarin Karin,マハマリンカリン,6 MP,"30% chance to inflict Charm on All Enemies.
 
 Lv2: +4% to chance to inflict status ailments.
 Lv3: +7% to chance to inflict status ailments.
-Lv4: +15% to chance to inflict status ailments.",All Enemies,5,,,
+Lv4: +15% to chance to inflict status ailments.",All Enemies,5,,
 ailment,Mahamarin Karion,マハマリカリオン,7 MP,"40% chance to inflict Charm on All Enemies.
 
 Lv2: +4% to chance to inflict status ailments.
 Lv3: +7% to chance to inflict status ailments.
-Lv4: +15% to chance to inflict status ailments.",All Enemies,9,,,
+Lv4: +15% to chance to inflict status ailments.",All Enemies,9,,
 ailment,Sexy Dance,セクシーダンス,6 MP,"30% chance to inflict Charm 3 to 4 times on Random Enemy/ies.
 
 Lv2: +4% to chance to inflict status ailments.
 Lv3: +7% to chance to inflict status ailments.
-Lv4: +15% to chance to inflict status ailments.",Random Enemy/ies,7,,,
+Lv4: +15% to chance to inflict status ailments.",Random Enemy/ies,7,,
 ailment,Makajam,マカジャマ,5 MP,"40% chance to inflict Mute on a Single Enemy.
 
 Lv2: +3% to chance to inflict status ailments.
 Lv3: +6% to chance to inflict status ailments.
 Lv4: +9% to chance to inflict status ailments.
 Lv5: +12% to chance to inflict status ailments.
-Lv6: +20% to chance to inflict status ailments.",Single Enemy,2,,,
+Lv6: +20% to chance to inflict status ailments.",Single Enemy,2,,
 ailment,Makajamaon,マカジャマオン,6 MP,"50% chance to inflict Mute on a Single Enemy.
 
 Lv2: +3% to chance to inflict status ailments.
 Lv3: +6% to chance to inflict status ailments.
 Lv4: +9% to chance to inflict status ailments.
 Lv5: +12% to chance to inflict status ailments.
-Lv6: +20% to chance to inflict status ailments.",Single Enemy,8,,,
+Lv6: +20% to chance to inflict status ailments.",Single Enemy,8,,
 ailment,Mahamakajam,マハマカジャマ,6 MP,"30% chance to inflict Mute on All Enemies.
 
 Lv2: +4% to chance to inflict status ailments.
 Lv3: +7% to chance to inflict status ailments.
-Lv4: +15% to chance to inflict status ailments.",All Enemies,5,,,
+Lv4: +15% to chance to inflict status ailments.",All Enemies,5,,
 ailment,Mahamakajamaon,マハマカジャオン,7 MP,"40% chance to inflict Mute on All Enemies.
 
 Lv2: +4% to chance to inflict status ailments.
 Lv3: +7% to chance to inflict status ailments.
-Lv4: +15% to chance to inflict status ailments.",All Enemies,9,,,
+Lv4: +15% to chance to inflict status ailments.",All Enemies,9,,
 ailment,White Noise,ホワイトノイズ,6 MP,"30% chance to inflict Mute 3 to 4 times on Random Enemy/ies.
 
 Lv2: +4% to chance to inflict status ailments.
 Lv3: +7% to chance to inflict status ailments.
-Lv4: +15% to chance to inflict status ailments.",Random Enemy/ies,7,,,1
+Lv4: +15% to chance to inflict status ailments.",Random Enemy/ies,7,,
 ailment,Ju,ジュ,5 MP,"50% chance to inflict Curse on a Single Enemy.
 
 Lv2: +3% to chance to inflict status ailments.
 Lv3: +6% to chance to inflict status ailments.
 Lv4: +9% to chance to inflict status ailments.
 Lv5: +12% to chance to inflict status ailments.
-Lv6: +20% to chance to inflict status ailments.",Single Enemy,2,,,
+Lv6: +20% to chance to inflict status ailments.",Single Enemy,2,,
 ailment,Juon,ジュオン,6 MP,"60% chance to inflict Curse on a Single Enemy.
 
 Lv2: +3% to chance to inflict status ailments.
 Lv3: +6% to chance to inflict status ailments.
 Lv4: +9% to chance to inflict status ailments.
 Lv5: +12% to chance to inflict status ailments.
-Lv6: +20% to chance to inflict status ailments.",Single Enemy,8,,,
+Lv6: +20% to chance to inflict status ailments.",Single Enemy,8,,
 ailment,Mahaju,マハジュ,6 MP,"40% chance to inflict Curse on All Enemies.
 
 Lv2: +4% to chance to inflict status ailments.
 Lv3: +7% to chance to inflict status ailments.
-Lv4: +15% to chance to inflict status ailments.",All Enemies,5,,,
+Lv4: +15% to chance to inflict status ailments.",All Enemies,5,,
 ailment,Mahajuon,マハジュオン,7 MP,"50% chance to inflict Curse on All Enemies.
 
 Lv2: +4% to chance to inflict status ailments.
 Lv3: +7% to chance to inflict status ailments.
-Lv4: +15% to chance to inflict status ailments.",All Enemies,9,,,
+Lv4: +15% to chance to inflict status ailments.",All Enemies,9,,
 ailment,Vengeance,祟り,6 MP,"40% chance to inflict Curse 3 to 4 times on Random Enemy/ies.
 
 Lv2: +4% to chance to inflict status ailments.
 Lv3: +7% to chance to inflict status ailments.
-Lv4: +15% to chance to inflict status ailments.",Random Enemy/ies,7,,,
+Lv4: +15% to chance to inflict status ailments.",Random Enemy/ies,7,,
 ailment,Dezoreto,デゾレト,5 MP,"70% chance to inflict Weak on a Single Enemy.
 
 Lv2: +3% to chance to inflict status ailments.
 Lv3: +6% to chance to inflict status ailments.
 Lv4: +9% to chance to inflict status ailments.
 Lv5: +12% to chance to inflict status ailments.
-Lv6: +20% to chance to inflict status ailments.",Single Enemy,2,,,
+Lv6: +20% to chance to inflict status ailments.",Single Enemy,2,,
 ailment,Dezoreton,デゾレトオン,6 MP,"80% chance to inflict Weak on a Single Enemy.
 
 Lv2: +3% to chance to inflict status ailments.
 Lv3: +6% to chance to inflict status ailments.
 Lv4: +9% to chance to inflict status ailments.
 Lv5: +12% to chance to inflict status ailments.
-Lv6: +20% to chance to inflict status ailments.",Single Enemy,8,,,
+Lv6: +20% to chance to inflict status ailments.",Single Enemy,8,,
 ailment,Madezoreto,マハデゾレト,6 MP,"60% chance to inflict Weak on All Enemies.
 
 Lv2: +4% to chance to inflict status ailments.
 Lv3: +7% to chance to inflict status ailments.
-Lv4: +15% to chance to inflict status ailments.",All Enemies,5,,,
+Lv4: +15% to chance to inflict status ailments.",All Enemies,5,,
 ailment,Madezoreton,マハデゾレトオン,7 MP,"70% chance to inflict Weak on All Enemies.
 
 Lv2: +4% to chance to inflict status ailments.
 Lv3: +7% to chance to inflict status ailments.
-Lv4: +15% to chance to inflict status ailments.",All Enemies,9,,,
+Lv4: +15% to chance to inflict status ailments.",All Enemies,9,,
 ailment,Outbreak,アウトブレイク,6 MP,"60% chance to inflict Weak 3 to 4 times on Random Enemy/ies.
 
 Lv2: +4% to chance to inflict status ailments.
 Lv3: +7% to chance to inflict status ailments.
-Lv4: +15% to chance to inflict status ailments.",Random Enemy/ies,7,,,1
-ailment,Lotus Dance,蓮華の舞,6 MP,60% chance to inflict Charm on All Enemies.,All Enemies,,,,1
+Lv4: +15% to chance to inflict status ailments.",Random Enemy/ies,7,,
+ailment,Lotus Dance,蓮華の舞,6 MP,60% chance to inflict Charm on All Enemies.,All Enemies,,,
 recovery,Dia,ディア,4 MP,"Heals a Single Party Member with 50 power. (9 uses)
 
 Lv2: +3% to Healing amount.
 Lv3: +6% to Healing amount.
 Lv4: +9% to Healing amount.
 Lv5: +12% to Healing amount.
-Lv6: +15% to Healing amount.",Single Party Member,1,,,
+Lv6: +15% to Healing amount.",Single Party Member,1,,
 recovery,Diara,ディアラ,5 MP,"Heals a Single Party Member with 90 power. (9 uses)
 
 Lv2: +3% to Healing amount.
 Lv3: +6% to Healing amount.
 Lv4: +9% to Healing amount.
 Lv5: +12% to Healing amount.
-Lv6: +15% to Healing amount.",Single Party Member,5,,,
+Lv6: +15% to Healing amount.",Single Party Member,5,,
 recovery,Diarama,ディアラマ,6 MP,"Heals a Single Party Member with 130 power. (9 uses)
 
 Lv2: +3% to Healing amount.
 Lv3: +6% to Healing amount.
 Lv4: +9% to Healing amount.
 Lv5: +12% to Healing amount.
-Lv6: +15% to Healing amount.",Single Party Member,8,,,
+Lv6: +15% to Healing amount.",Single Party Member,8,,
 recovery,Diarahan,ディアラハン,7 MP,"Heals a Single Party Member with 170 power. (9 uses)
 
 Lv2: +3% to Healing amount.
 Lv3: +6% to Healing amount.
 Lv4: +9% to Healing amount.
 Lv5: +12% to Healing amount.
-Lv6: +15% to Healing amount.",Single Party Member,11,,,
+Lv6: +15% to Healing amount.",Single Party Member,11,,
 recovery,Media,メディア,6 MP,"Heals All Party Members with 25 power. (9 uses)
 
 Lv2: +3% to Healing amount.
 Lv3: +6% to Healing amount.
-Lv4: +9% to Healing amount.",All Party Members,2,,,
+Lv4: +9% to Healing amount.",All Party Members,2,,
 recovery,Mediara,メディラ,7 MP,"Heals All Party Members with 60 power. (9 uses)
 
 Lv2: +3% to Healing amount.
 Lv3: +6% to Healing amount.
-Lv4: +9% to Healing amount.",All Party Members,5,,,
+Lv4: +9% to Healing amount.",All Party Members,5,,
 recovery,Mediarama,メディラマ,8 MP,"Heals All Party Members with 95 power. (9 uses)
 
 Lv2: +3% to Healing amount.
 Lv3: +6% to Healing amount.
-Lv4: +9% to Healing amount.",All Party Members,8,,,
+Lv4: +9% to Healing amount.",All Party Members,8,,
 recovery,Mediarahan,メディアラハン,9 MP,"Heals All Party Members with 130 power. (9 uses)
 
 Lv2: +3% to Healing amount.
 Lv3: +6% to Healing amount.
-Lv4: +9% to Healing amount.",All Party Members,11,,,
+Lv4: +9% to Healing amount.",All Party Members,11,,
 recovery,Salvation,メシアライザー,9 MP,"Heals All Party Members with 95 power. Cures all status aliments. (3 uses)
 
 Lv2: +5% to Healing amount of this skill.
 Lv3: +10% to Healing amount of this skill.
-Lv4: +10% to Healing amount of this skill. MP cost of this skill -1.",All Party Members,15,,,
-recovery,Recarm,リカーム,6 MP,Revive a Single Party Member with 10% HP. (3 uses),Single Party Member,6,,,
-recovery,Samarecarm,サマリカーム,8 MP,Revive a Single Party Member with full HP. (1 use),Single Party Member,8,,,
-recovery,Recarmdra,リカームドラ,8 MP,"Revive All Party Members with full HP, caster dies. (1 use)",All Party Members,10,,,
-recovery,Posumudi,ポズムディ,3 MP,Cures a Single Party Member of Poison. Reduces the chance of being Poisoned during this wave by 30%.,Single Party Member,1,,,
-recovery,Meposumudi,メポズムディ,4 MP,Cures All Party Members of Poison. Reduces the chance of being Poisoned during this wave by 30%.,All Party Members,5,,,
-recovery,Mutudi,クロズディ,3 MP,Cures a Single Party Member of Mute. Reduces the chance of being Muted during this wave by 30%.,Single Party Member,1,,,
-recovery,Memutudi,メクロズディ,4 MP,Cures All Party Members of Mute. Reduces the chance of being Muted during this wave by 30%.,All Party Members,5,,,
-recovery,Charmdi,チャームディ,3 MP,Cures a Single Party Member of Charm. Reduces the chance of being Charmed during this wave by 30%.,Single Party Member,1,,,
-recovery,Mecharmdi,メチャームディ,4 MP,Cures All Party Members of Charm. Reduces the chance of being Charmed during this wave by 30%.,All Party Members,5,,,
-recovery,Paraladi,パララディ,3 MP,Cures a Single Party Member of Bind. Reduces the chance of being Bound during this wave by 30%.,Single Party Member,1,,,
-recovery,Meparaladi,メパララディ,4 MP,Cures All Party Members of Bind. Reduces the chance of being Bound during this wave by 30%.,All Party Members,5,,,
-recovery,Cursedi,カースディ,3 MP,Cures a Single Party Member of Curse. Reduces the chance of being Cursed during this wave by 30%.,Single Party Member,1,,,
-recovery,Mekasudi,メカースディ,4 MP,Cures All Party Members of Curse. Reduces the chance of being Cursed during this wave by 30%.,All Party Members,5,,,
-recovery,Weakdi,ウィークディ,3 MP,Cures a Single Party Member of Weak. Reduces the chance of being Weakened during this wave by 30%.,Single Party Member,1,,,
-recovery,Meweakdi,メウィークディ,4 MP,Cures All Party Members of Weak. Reduces the chance of being Weakened during this wave by 30%.,All Party Members,5,,,
-recovery,Amrita,アムリタ,4 MP,Cures all status ailments of a Single Party Member.,Single Party Member,3,,,
-recovery,Prayer,常世の祈り,5 MP,Cures all status ailments of All Party Members.,All Party Members,8,,,
-recovery,Silent Prayer,静寂の祈り,7 MP,Cures all status ailments of All Party Members and Enemies.,Universal,8,,,
-recovery,Orlean Prayer,オルレアンの祈り,6 MP,Heals a Single Party Member with 130 power and recovers 3 MP. (6 uses),Single Party Member,,,,1
-recovery,Mother's Creation,母なる創造,8 MP,Revive a Single Party Member with full HP and endows Lydia. (1 use),Single Party Member,,,,1
-recovery,Ce Acatls' Return,セアカトルの再臨,7 MP,Revive All Party Members with full HP. (1 use),All Party Members,,,,1
-support,Charge,チャージ,6 MP,Self enters a state of Charge. Increases the next Phys attack damage by 125%.,Self,8,,,
-support,Rebellion,リベリオン,6 MP,Self enters a state of Might. The next Phys attack will have a Critical effect.,Self,8,,,
-support,Concentrate,コンセントレイト,6 MP,Self enters a state of Concentrate. Increases the next Mag attack damage by 125%.,Self,8,,,
-support,Discord,ディスコード,3 MP,"Removes Charge, Concentrate and Might from All Enemies.",All Enemies,6,,,
-support,Tetrakarn,テトラカーン,7 MP,All Party Members repels Physical damage for 1 turn.,All Party Members,8,,,
-support,Makarakarn,マカラカーン,7 MP,All Party Members repels Magic damage for 1 turn.,All Party Members,8,,,
-support,Tetra Break,テトラコワース,3 MP,Removes Repel Phys from All Enemies.,All Enemies,6,,,
-support,Makara Break,マカラコワース,3 MP,Removes Repel Mag from All Enemies.,All Enemies,6,,,
-support,Tetraja,テトラジャ,4 MP,All Party Members will evade Instant Kill for 1 turn,All Party Members,,,,1
+Lv4: +10% to Healing amount of this skill. MP cost of this skill -1.",All Party Members,15,,
+recovery,Recarm,リカーム,6 MP,Revive a Single Party Member with 10% HP. (3 uses),Single Party Member,6,,
+recovery,Samarecarm,サマリカーム,8 MP,Revive a Single Party Member with full HP. (1 use),Single Party Member,8,,
+recovery,Recarmdra,リカームドラ,8 MP,"Revive All Party Members with full HP, caster dies. (1 use)",All Party Members,10,,
+recovery,Posumudi,ポズムディ,3 MP,Cures a Single Party Member of Poison. Reduces the chance of being Poisoned during this wave by 30%.,Single Party Member,1,,
+recovery,Meposumudi,メポズムディ,4 MP,Cures All Party Members of Poison. Reduces the chance of being Poisoned during this wave by 30%.,All Party Members,5,,
+recovery,Mutudi,クロズディ,3 MP,Cures a Single Party Member of Mute. Reduces the chance of being Muted during this wave by 30%.,Single Party Member,1,,
+recovery,Memutudi,メクロズディ,4 MP,Cures All Party Members of Mute. Reduces the chance of being Muted during this wave by 30%.,All Party Members,5,,
+recovery,Charmdi,チャームディ,3 MP,Cures a Single Party Member of Charm. Reduces the chance of being Charmed during this wave by 30%.,Single Party Member,1,,
+recovery,Mecharmdi,メチャームディ,4 MP,Cures All Party Members of Charm. Reduces the chance of being Charmed during this wave by 30%.,All Party Members,5,,
+recovery,Paraladi,パララディ,3 MP,Cures a Single Party Member of Bind. Reduces the chance of being Bound during this wave by 30%.,Single Party Member,1,,
+recovery,Meparaladi,メパララディ,4 MP,Cures All Party Members of Bind. Reduces the chance of being Bound during this wave by 30%.,All Party Members,5,,
+recovery,Cursedi,カースディ,3 MP,Cures a Single Party Member of Curse. Reduces the chance of being Cursed during this wave by 30%.,Single Party Member,1,,
+recovery,Mekasudi,メカースディ,4 MP,Cures All Party Members of Curse. Reduces the chance of being Cursed during this wave by 30%.,All Party Members,5,,
+recovery,Weakdi,ウィークディ,3 MP,Cures a Single Party Member of Weak. Reduces the chance of being Weakened during this wave by 30%.,Single Party Member,1,,
+recovery,Meweakdi,メウィークディ,4 MP,Cures All Party Members of Weak. Reduces the chance of being Weakened during this wave by 30%.,All Party Members,5,,
+recovery,Amrita,アムリタ,4 MP,Cures all status ailments of a Single Party Member.,Single Party Member,3,,
+recovery,Prayer,常世の祈り,5 MP,Cures all status ailments of All Party Members.,All Party Members,8,,
+recovery,Silent Prayer,静寂の祈り,7 MP,Cures all status ailments of All Party Members and Enemies.,Universal,8,,
+recovery,Orlean Prayer,オルレアンの祈り,6 MP,Heals a Single Party Member with 130 power and recovers 3 MP. (6 uses),Single Party Member,,,
+recovery,Mother's Creation,母なる創造,8 MP,Revive a Single Party Member with full HP and endows Lydia. (1 use),Single Party Member,,,
+recovery,Ce Acatls' Return,セアカトルの再臨,7 MP,Revive All Party Members with full HP. (1 use),All Party Members,,,
+support,Charge,チャージ,6 MP,Self enters a state of Charge. Increases the next Phys attack damage by 125%.,Self,8,,
+support,Rebellion,リベリオン,6 MP,Self enters a state of Might. The next Phys attack will have a Critical effect.,Self,8,,
+support,Concentrate,コンセントレイト,6 MP,Self enters a state of Concentrate. Increases the next Mag attack damage by 125%.,Self,8,,
+support,Discord,ディスコード,3 MP,"Removes Charge, Concentrate and Might from All Enemies.",All Enemies,6,,
+support,Tetrakarn,テトラカーン,7 MP,All Party Members repels Physical damage for 1 turn.,All Party Members,8,,
+support,Makarakarn,マカラカーン,7 MP,All Party Members repels Magic damage for 1 turn.,All Party Members,8,,
+support,Tetra Break,テトラコワース,3 MP,Removes Repel Phys from All Enemies.,All Enemies,6,,
+support,Makara Break,マカラコワース,3 MP,Removes Repel Mag from All Enemies.,All Enemies,6,,
+support,Tetraja,テトラジャ,4 MP,All Party Members will evade Instant Kill for 1 turn,All Party Members,,,
 support,Tarukaja,タルカジャ,5 MP,"Increases ATK of All Party Members by 20% for 3 turns.
 
 Lv2: +3% chance of 1 MP recovery.
 Lv3: +6% chance of 1 MP recovery.
 Lv4: +9% chance of 1 MP recovery.
-Lv5: +12% chance of 1 MP recovery.",All Party Members,6,,,
+Lv5: +12% chance of 1 MP recovery.",All Party Members,6,,
 support,Rakukaja,ラクカジャ,5 MP,"Increases DEF of All Party Members by 20% for 3 turns.
 
 Lv2: +3% chance of 1 MP recovery.
 Lv3: +6% chance of 1 MP recovery.
 Lv4: +9% chance of 1 MP recovery.
-Lv5: +12% chance of 1 MP recovery.",All Party Members,6,,,
+Lv5: +12% chance of 1 MP recovery.",All Party Members,6,,
 support,Sukukaja,スクカジャ,5 MP,"Increases EV/AC of All Party Members by 20% for 3 turns.
 
 Lv2: +3% chance of 1 MP recovery.
 Lv3: +6% chance of 1 MP recovery.
 Lv4: +9% chance of 1 MP recovery.
-Lv5: +12% chance of 1 MP recovery.",All Party Members,6,,,
+Lv5: +12% chance of 1 MP recovery.",All Party Members,6,,
 support,Tarunda,タルンダ,5 MP,"Reduces ATK of All Enemies by 20% for 3 turns.
 
 Lv2: +3% chance of 1 MP recovery.
 Lv3: +6% chance of 1 MP recovery.
 Lv4: +9% chance of 1 MP recovery.
-Lv5: +12% chance of 1 MP recovery.",All Enemies,6,,,
+Lv5: +12% chance of 1 MP recovery.",All Enemies,6,,
 support,Rakunda,ラクンダ,5 MP,"Reduces DEF of All Enemies by 20% for 3 turns.
 
 Lv2: +3% chance of 1 MP recovery.
 Lv3: +6% chance of 1 MP recovery.
 Lv4: +9% chance of 1 MP recovery.
-Lv5: +12% chance of 1 MP recovery.",All Enemies,6,,,
+Lv5: +12% chance of 1 MP recovery.",All Enemies,6,,
 support,Sukunda,スクンダ,5 MP,"Reduces EV/AC of All Enemies by 20% for 3 turns.
 
 Lv2: +3% chance of 1 MP recovery.
 Lv3: +6% chance of 1 MP recovery.
 Lv4: +9% chance of 1 MP recovery.
-Lv5: +12% chance of 1 MP recovery.",All Enemies,6,,,
+Lv5: +12% chance of 1 MP recovery.",All Enemies,6,,
 support,Dekaja,デカジャ,5 MP,"Remove buffs from All Enemies.
 
 Lv2: +3% chance of 1 MP recovery.
 Lv3: +6% chance of 1 MP recovery.
 Lv4: +9% chance of 1 MP recovery.
-Lv5: +12% chance of 1 MP recovery.",All Enemies,4,,,
+Lv5: +12% chance of 1 MP recovery.",All Enemies,4,,
 support,Dekunda,デクンダ,5 MP,"Remove debuffs from All Party Members.
 
 Lv2: +3% chance of 1 MP recovery.
 Lv3: +6% chance of 1 MP recovery.
 Lv4: +9% chance of 1 MP recovery.
-Lv5: +12% chance of 1 MP recovery.",All Party Members,4,,,
+Lv5: +12% chance of 1 MP recovery.",All Party Members,4,,
 support,Luster Candy,ラスタキャンディ,8 MP,"Increases ATK, DEF, EV/AC of All Party Members by 20% for 3 turns.
 
 Lv2: +10% of 1MP recovery when using this skill.
 Lv3: +20% of 1MP recovery when using this skill.
-Lv4: +20% of 1MP recovery when using this skill. MP cost of this skill -1.",All Party Members,15,,,1
+Lv4: +20% of 1MP recovery when using this skill. MP cost of this skill -1.",All Party Members,15,,
 support,War Cry,雄叫び,6 MP,"Reduces ATK and DEF of All Enemies by 20% for 3 turns.
 
 Lv2: +3% chance of 1 MP recovery.
 Lv3: +6% chance of 1 MP recovery.
 Lv4: +9% chance of 1 MP recovery.
-Lv5: +12% chance of 1 MP recovery.",All Enemies,8,,,
+Lv5: +12% chance of 1 MP recovery.",All Enemies,8,,
 support,Acid Breath,溶解ブレス,6 MP,"Reduces DEF and EV/AC of All Enemies by 20% for 3 turns.
 
 Lv2: +3% chance of 1 MP recovery.
 Lv3: +6% chance of 1 MP recovery.
 Lv4: +9% chance of 1 MP recovery.
-Lv5: +12% chance of 1 MP recovery.",All Enemies,8,,,
+Lv5: +12% chance of 1 MP recovery.",All Enemies,8,,
 support,Fog Breath,フォッグブレス,6 MP,"Reduces ATK and EV/AC of All Enemies by 20% for 3 turns.
 
 Lv2: +3% chance of 1 MP recovery.
 Lv3: +6% chance of 1 MP recovery.
 Lv4: +9% chance of 1 MP recovery.
-Lv5: +12% chance of 1 MP recovery.",All Enemies,8,,,
+Lv5: +12% chance of 1 MP recovery.",All Enemies,8,,
 support,Taunt,挑発,3 MP,"Increases ATK and reduces of DEF of All Enemies by 20% for 3 turns.
 
 Lv2: +3% chance of 1 MP recovery.
 Lv3: +6% chance of 1 MP recovery.
 Lv4: +9% chance of 1 MP recovery.
-Lv5: +12% chance of 1 MP recovery.",All Enemies,8,,,
+Lv5: +12% chance of 1 MP recovery.",All Enemies,8,,
 support,Debilitate,ランダマイザ,8 MP,"Reduces ATK, DEF, and EV/AC of All Enemies by 20% for 3 turns.
 
 Lv2: +10% of 1MP recovery when using this skill.
 Lv3: +20% of 1MP recovery when using this skill.
-Lv4: +20% of 1MP recovery when using this skill. MP cost of this skill -1.",All Enemies,15,,,
-support,Barrier,バリア,4 MP,"Casts a Barrier on a Single Party Member, granting immunity to all status ailments for 3 turns.",Single Party Member,8,,,
-support,Barrier Break,バリアコワース,3 MP,Remove Barrier from All Enemies.,All Enemies,6,,,
-support,Lydia,リディア,4 MP,"Casts Lydia on a Single Party Member, healing their HP at the beginning of their turn for 3 turns.",Single Party Member,8,,,
-support,Lydia Break,リディアコワース,3 MP,Removes Lydia from All Enemies.,All Enemies,6,,,
-support,Tag,バトンタッチ,3 MP,Self skips a turn without using a Press Turn Icon.,Self,6,,,1
-support,Mega Boost,反逆の魔象,6 MP,Self enters a state of Charge and Might. Increases the next Phys attack damage by 125% and will have a Critical effect.,Self,,,,1
+Lv4: +20% of 1MP recovery when using this skill. MP cost of this skill -1.",All Enemies,15,,
+support,Barrier,バリア,4 MP,"Casts a Barrier on a Single Party Member, granting immunity to all status ailments for 3 turns.",Single Party Member,8,,
+support,Barrier Break,バリアコワース,3 MP,Remove Barrier from All Enemies.,All Enemies,6,,
+support,Lydia,リディア,4 MP,"Casts Lydia on a Single Party Member, healing their HP at the beginning of their turn for 3 turns.",Single Party Member,8,,
+support,Lydia Break,リディアコワース,3 MP,Removes Lydia from All Enemies.,All Enemies,6,,
+support,Tag,バトンタッチ,3 MP,Self skips a turn without using a Press Turn Icon.,Self,6,,
+support,Mega Boost,反逆の魔象,6 MP,Self enters a state of Charge and Might. Increases the next Phys attack damage by 125% and will have a Critical effect.,Self,,,
 support,Red Zone,レッドゾーン,7 MP,"All Party Members enter a state of Might. The next Phys attack will have a Critical effect. (3 uses)
 
 Lv2: +10% chance of 1 MP recovery.
 Lv3: +20% chance of 1 MP recovery.
-Lv4: +20% chance of 1 MP recovery. MP cost -1.",All Party Members,,,,1
-support,Five Elements ,五行思想,6 MP,All Party Members repels Magic (including Almighty) damage for 1 turn.,All Party Members,,,,1
-support,Barong Dance,バロンダンス,7 MP,"Heals All Party Members with 95 power and increases ATK, DEF, EV/AC of All Party Members by 20% for 3 turns. (3 uses)",All Party Members,,,,1
-support,Tenson Kourin,天孫降臨,8 MP,"Increases ATK, DEF, EV/AC of All Party Members by 20% for 6 turns. (3 uses)",All Party Members,,,,1
+Lv4: +20% chance of 1 MP recovery. MP cost -1.",All Party Members,,,
+support,Five Elements ,五行思想,6 MP,All Party Members repels Magic (including Almighty) damage for 1 turn.,All Party Members,,,
+support,Barong Dance,バロンダンス,7 MP,"Heals All Party Members with 95 power and increases ATK, DEF, EV/AC of All Party Members by 20% for 3 turns. (3 uses)",All Party Members,,,
+support,Tenson Kourin,天孫降臨,8 MP,"Increases ATK, DEF, EV/AC of All Party Members by 20% for 6 turns. (3 uses)",All Party Members,,,
 support,Dark Pandemic,,5 MP,"Remove buffs from All Enemies, and reduces either ATK, DEF or EV/AC of All Enemies by 20% for 3 turns.
 
 Lv2: 10% chance of 1 MP recovery.
 Lv3: 20% chance of 1 MP recovery.
-Lv4: 20% chance of 1 MP recovery. MP cost -1.",All Enemies,,,,1
-passive,Phys Boost,物理ブースタ,Passive,+15% to Phys damage.,Self,6,,,
-passive,Fire Boost,火炎ブースタ,Passive,+15% to Fire damage.,Self,6,,,
-passive,Ice Boost,氷結ブースタ,Passive,+15% to Ice damage.,Self,6,,,
-passive,Elec Boost,電撃ブースタ,Passive,+15% to Elec damage.,Self,6,,,
-passive,Force Boost,衝撃ブースタ,Passive,+15% to Force damage.,Self,6,,,
-passive,Light Boost,破魔ブースタ,Passive,+15% to Light damage.,Self,6,,,
-passive,Dark Boost,呪殺ブースタ,Passive,+15% to Dark damage.,Self,6,,,
-passive,Recovery Boost,回復ブースタ,Passive,+15% to Healing skill effectiveness.,Self,6,,,
-passive,Phys Amp,物理ハイブースタ,Passive,+25% to Phys damage.,Self,21,,,
-passive,Fire Amp,火炎ハイブースタ,Passive,+25% to Fire damage.,Self,21,,,
-passive,Ice Amp,氷結ハイブースタ,Passive,+25% to Ice damage.,Self,21,,,
-passive,Elec Amp,電撃ハイブースタ,Passive,+25% to Elec damage.,Self,21,,,
-passive,Force Amp,衝撃ハイブースタ,Passive,+25% to Force damage.,Self,21,,,
-passive,Light Amp,破魔ハイブースタ,Passive,+25% to Light damage.,Self,21,,,
-passive,Dark Amp,呪殺ハイブースタ,Passive,+25% to Dark damage.,Self,21,,,
-passive,Recovery Amp,回復ハイブースタ,Passive,+25% to Healing skill effectiveness.,Self,21,,,
-passive,Phys Pierce,物理貫通,Passive,Phys attacks bypass resistances,Self,32,,,1
-passive,Superior Power,帝の権威,Passive,+20% to Phys hit rate and adds Phys Pierce.,Self,,,,1
-passive,Fire Pierce,火炎貫通,Passive,Fire attacks bypass resistances,Self,32,,,1
-passive,Ice Pierce,氷結貫通       ,Passive,Ice attacks bypass resistances,,,,,1
-passive,Elec Pierce,電撃貫通,Passive,Elec attacks bypass resistances,Self,32,,,1
-passive,Force Pierce,衝撃貫通,Passive,Force attacks bypass resistances,Self,32,,,1
-passive,Resist Phys,物理耐性,Passive,Adds Phys Resist.,Self,12,,,
-passive,Resist Fire,火炎耐性,Passive,Adds Fire Resist.,Self,8,,,
-passive,Resist Ice,氷結耐性,Passive,Adds Ice Resist.,Self,8,,,
-passive,Resist Elec,電撃耐性,Passive,Adds Elec Resist.,Self,8,,,
-passive,Resist Force,衝撃耐性,Passive,Adds Force Resist.,Self,8,,,
-passive,Resist Light,破魔耐性,Passive,Adds Light Resist.,Self,8,,,
-passive,Resist Dark,呪殺耐性,Passive,Adds Dark Resist.,Self,8,,,
-passive,Null Phys,物理無効,Passive,Adds Phys Null.,Self,18,,,
-passive,Null Fire,火炎無効,Passive,Adds Fire Null.,Self,12,,,1
-passive,Null Ice,氷結無効,Passive,Adds Ice Null.,Self,12,,,1
-passive,Null Elec,電撃無効,Passive,Adds Elec Null.,Self,12,,,1
-passive,Null Force,衝撃無効,Passive,Adds Force Null.,Self,12,,,1
-passive,Null Light,破魔無効,Passive,Adds Light Null.,Self,12,,,1
-passive,Null Dark,呪殺無効,Passive,Adds Dark Null.,Self,12,,,1
-passive,Repel Phys,氷結反射,Passive,Adds Phys Repel.,Self,24,,,1
-passive,Repel Fire,火炎反射,Passive,Adds Fire Repel.,Self,16,,,1
-passive,Repel Ice,氷結反射,Passive,Adds Ice Repel.,Self,16,,,1
-passive,Repel Elec,電撃反射,Passive,Adds Elec Repel.,Self,16,,,1
-passive,Repel Force,衝撃反射,Passive,Adds Force Repel.,Self,16,,,1
-passive,Repel Light,破魔反射,Passive,Adds Light Repel.,Self,16,,,1
-passive,Repel Dark,呪殺反射,Passive,Adds Dark Repel.,Self,16,,,1
-passive,Drain Phys,物理吸収,Passive,Adds Phys Drain.,Self,30,,,1
-passive,Drain Fire,火炎吸収,Passive,Adds Fire Drain.,Self,20,,,1
-passive,Drain Ice,氷結吸収,Passive,Adds Ice Drain.,Self,20,,,1
-passive,Drain Elec,電撃吸収,Passive,Adds Elec Drain.,Self,20,,,1
-passive,Drain Light,破魔吸収,Passive,Adds Light Drain.,Self,20,,,1
-passive,Drain Dark,???,Passive,Adds Dark Drain.,Self,20,,,1
-passive,Resist Poison,毒耐性,Passive,Chance of being Poisoned reduced by 50%.,Self,4,,,
-passive,Resist Bind,緊縛耐性,Passive,Chance of being Bound reduced by 50%.,Self,4,,,
-passive,Resist Charm,魅了耐性,Passive,Chance of being Charmed reduced by 50%.,Self,4,,,
-passive,Resist Mute,魔封耐性,Passive,Chance of being Muted reduced by 50%.,Self,4,,,
-passive,Resist Curse,呪い耐性,Passive,Chance of being Cursed reduced by 50%.,Self,4,,,
-passive,Resist Weak,虚弱耐性,Passive,Chance of being Weakened reduced by 50%.,Self,4,,,
-passive,Null Poison,毒無効,Passive,Adds Null Poison.,Self,12,,,
-passive,Null Bind,緊縛無効,Passive,Adds Null Bind.,Self,12,,,
-passive,Null Charm,魅了無効,Passive,Adds Null Charm.,Self,12,,,
-passive,Null Mute,魔封無効,Passive,Adds Null Mute.,Self,12,,,
-passive,Null Curse,呪い無効,Passive,Adds Null Curse.,Self,12,,,
-passive,Null Weak,虚弱無効,Passive,Adds Null Weak.,Self,12,,,
-passive,Speedster,スピードスター,Passive,+50% to Battle Speed of this demon.,Self,10,,,
-passive,Good Aim,百発百中,Passive,+10% to Phys hit rate.,Self,4,,,
-passive,Great Aim,千発千中,Passive,+20% to Phys hit rate.,Self,16,,,
-passive,Dragon Sense,龍の反応,Passive,+15% to Phys hit rate and +15% Phys evasion rate.,Self,,,,1
-passive,Dodge,見切り,Passive,+10% Phys evasion rate.,Self,4,,,
-passive,Evade,寸分の見切り,Passive,+20% Phys evasion rate.,Self,16,,,
-passive,Vahana,ヴァーハナ,Passive,+15% to Phys evasion rate. -30% chance of receiving status ailments.,Self,,,,1
-passive,Stealth,ステルス,Passive,"HP will stop at 1 upon receiving the first killing blow, and increases Phys evasion rate by +20%.",Self,,,,1
-passive,Madness,乱れ狂い,Passive,+10% chance to inflict status ailments.,Self,8,,,
-passive,Insanity,狂い咲き,Passive,+20% chance to inflict status ailments.,Self,24,,,
-passive,Hellish Mask,地獄のマスク,Passive,-35% chance of receiving status ailments.,Self,8,,,
-passive,Infernal Mask,奈落のマスク,Passive,-60% chance of receiving status ailments.,Self,16,,,
-passive,Mutant,マレビト,Passive,Becomes immune to all status ailments.,Self,,,,1
-passive,Fast Recovery,自然治癒,Passive,+20% to status ailment auto cure rate.,Self,8,,,
-passive,Epic Recovery,超自然治癒,Passive,+30% to status ailment auto cure rate.,Self,16,,,
-passive,Bloody Glee,コロシの愉悦,Passive,+15% to Critical hit rate.,Self,8,,,
-passive,Savage Glee,ミナゴロシの愉悦,Passive,+25% to Critical hit rate.,Self,14,,,
-passive,Wild Guess,野生の勘,Passive,-15% to Critical hit rate of damage received.,Self,8,,,
-passive,Wild Instinct,野獣の勘,Passive,-25% to Critical hit rate of damage received.,Self,14,,,
-passive,Life Bonus,一分の活泉,Passive,+10% to Max HP.,Self,3,,,
-passive,Life Gain,二分の活泉,Passive,+20% to Max HP.,Self,7,,,
-passive,Life Surge,三分の活泉,Passive,+30% to Max HP.,Self,15,,,
-passive,Mana Bonus,一分の魔脈,Passive,+1 to max MP.,Self,8,,,
-passive,Mana Gain,二分の魔脈,Passive,+2 to max MP.,Self,15,,,
-passive,Strength Amp I,初段の剛力,Passive,+5 to Strength.,Self,3,,,
-passive,Strength Amp II,二段の剛力,Passive,+10 to Strength.,Self,13,,,
-passive,Strength Amp III,三段の剛力,Passive,+15 to Strength.,Self,32,,,
-passive,Vitality Amp I,初段の恵体,Passive,+5 to Vitality.,Self,3,,,
-passive,Vitality Amp II,二段の恵体,Passive,+10 to Vitality.,Self,13,,,
-passive,Vitality Amp III,三段の恵体,Passive,+15 to Vitality.,Self,32,,,
-passive,Agility Amp I,初段の猛速,Passive,+5 to Agility.,Self,3,,,
-passive,Agility Amp II,二段の猛速,Passive,+10 to Agility.,Self,13,,,
-passive,Agility Amp III,三段の猛速,Passive,+15 to Agility.,Self,32,,,
-passive,Magic Amp I,初段の賢魔,Passive,+5 to Magic.,Self,3,,,
-passive,Magic Amp II,二段の賢魔,Passive,+10 to Magic.,Self,13,,,
-passive,Magic Amp III,三段の賢魔,Passive,+15 to Magic.,Self,32,,,
-passive,Luck Amp I,初段の強運,Passive,+5 to Luck.,Self,3,,,
-passive,Luck Amp II,二段の強運,Passive,+10 to Luck.,Self,13,,,
-passive,Luck Amp III,三段の強運,Passive,+15 to Luck.,Self,32,,,
-passive,Assassin,暗殺者,Passive,+10% to single-target attack skill damage.,Self,8,,,
-passive,Serial Killer,虐殺者,Passive,+10% to multiple-target attack skill damage.,Self,8,,,
-passive,Butcher,大虐殺者,Passive,+20% to multiple-target attack skill damage.,Self,24,,,
-passive,Deadly Poison,毒追撃,Passive,+30% damage to Poisoned enemies.,Self,13,,,
-passive,Deadly Bondage,緊縛追撃,Passive,+30% damage to Bound enemies.,Self,13,,,
-passive,Deadly Charm,魅了追撃,Passive,+30% damage to Charmed enemies.,Self,13,,,
-passive,Deadly Mute,魔封追撃,Passive,+30% damage to Muted enemies.,Self,13,,,
-passive,Deadly Curse,???,Passive,+30% damage to Cursed enemies.,Self,13,,,
-passive,Berserker,狂戦士,Passive,"+10% to damage dealt, but +20% to damage received.",Self,18,,,
-passive,Back Attack,追い打ち,Passive,+10% damage when attacking the enemy's weak point.,Self,12,,,
-passive,Merciless Blow,無慈悲な一撃,Passive,+20% damage when attacking the enemy's weak point.,Self,12,,,
+Lv4: 20% chance of 1 MP recovery. MP cost -1.",All Enemies,,,
+passive,Phys Boost,物理ブースタ,Passive,+15% to Phys damage.,Self,6,,
+passive,Fire Boost,火炎ブースタ,Passive,+15% to Fire damage.,Self,6,,
+passive,Ice Boost,氷結ブースタ,Passive,+15% to Ice damage.,Self,6,,
+passive,Elec Boost,電撃ブースタ,Passive,+15% to Elec damage.,Self,6,,
+passive,Force Boost,衝撃ブースタ,Passive,+15% to Force damage.,Self,6,,
+passive,Light Boost,破魔ブースタ,Passive,+15% to Light damage.,Self,6,,
+passive,Dark Boost,呪殺ブースタ,Passive,+15% to Dark damage.,Self,6,,
+passive,Recovery Boost,回復ブースタ,Passive,+15% to Healing skill effectiveness.,Self,6,,
+passive,Phys Amp,物理ハイブースタ,Passive,+25% to Phys damage.,Self,21,,
+passive,Fire Amp,火炎ハイブースタ,Passive,+25% to Fire damage.,Self,21,,
+passive,Ice Amp,氷結ハイブースタ,Passive,+25% to Ice damage.,Self,21,,
+passive,Elec Amp,電撃ハイブースタ,Passive,+25% to Elec damage.,Self,21,,
+passive,Force Amp,衝撃ハイブースタ,Passive,+25% to Force damage.,Self,21,,
+passive,Light Amp,破魔ハイブースタ,Passive,+25% to Light damage.,Self,21,,
+passive,Dark Amp,呪殺ハイブースタ,Passive,+25% to Dark damage.,Self,21,,
+passive,Recovery Amp,回復ハイブースタ,Passive,+25% to Healing skill effectiveness.,Self,21,,
+passive,Phys Pierce,物理貫通,Passive,Phys attacks bypass resistances,Self,32,,
+passive,Superior Power,帝の権威,Passive,+20% to Phys hit rate and adds Phys Pierce.,Self,,,
+passive,Fire Pierce,火炎貫通,Passive,Fire attacks bypass resistances,Self,32,,
+passive,Ice Pierce,氷結貫通       ,Passive,Ice attacks bypass resistances,,32,,
+passive,Elec Pierce,電撃貫通,Passive,Elec attacks bypass resistances,Self,32,,
+passive,Force Pierce,衝撃貫通,Passive,Force attacks bypass resistances,Self,32,,
+passive,Resist Phys,物理耐性,Passive,Adds Phys Resist.,Self,12,,
+passive,Resist Fire,火炎耐性,Passive,Adds Fire Resist.,Self,8,,
+passive,Resist Ice,氷結耐性,Passive,Adds Ice Resist.,Self,8,,
+passive,Resist Elec,電撃耐性,Passive,Adds Elec Resist.,Self,8,,
+passive,Resist Force,衝撃耐性,Passive,Adds Force Resist.,Self,8,,
+passive,Resist Light,破魔耐性,Passive,Adds Light Resist.,Self,8,,
+passive,Resist Dark,呪殺耐性,Passive,Adds Dark Resist.,Self,8,,
+passive,Null Phys,物理無効,Passive,Adds Phys Null.,Self,18,,
+passive,Null Fire,火炎無効,Passive,Adds Fire Null.,Self,12,,
+passive,Null Ice,氷結無効,Passive,Adds Ice Null.,Self,12,,
+passive,Null Elec,電撃無効,Passive,Adds Elec Null.,Self,12,,
+passive,Null Force,衝撃無効,Passive,Adds Force Null.,Self,12,,
+passive,Null Light,破魔無効,Passive,Adds Light Null.,Self,12,,
+passive,Null Dark,呪殺無効,Passive,Adds Dark Null.,Self,12,,
+passive,Repel Phys,氷結反射,Passive,Adds Phys Repel.,Self,24,,
+passive,Repel Fire,火炎反射,Passive,Adds Fire Repel.,Self,16,,
+passive,Repel Ice,氷結反射,Passive,Adds Ice Repel.,Self,16,,
+passive,Repel Elec,電撃反射,Passive,Adds Elec Repel.,Self,16,,
+passive,Repel Force,衝撃反射,Passive,Adds Force Repel.,Self,16,,
+passive,Repel Light,破魔反射,Passive,Adds Light Repel.,Self,16,,
+passive,Repel Dark,呪殺反射,Passive,Adds Dark Repel.,Self,16,,
+passive,Drain Phys,物理吸収,Passive,Adds Phys Drain.,Self,30,,
+passive,Drain Fire,火炎吸収,Passive,Adds Fire Drain.,Self,20,,
+passive,Drain Ice,氷結吸収,Passive,Adds Ice Drain.,Self,20,,
+passive,Drain Elec,電撃吸収,Passive,Adds Elec Drain.,Self,20,,
+passive,Drain Light,破魔吸収,Passive,Adds Light Drain.,Self,20,,
+passive,Drain Dark,???,Passive,Adds Dark Drain.,Self,20,,
+passive,Resist Poison,毒耐性,Passive,Chance of being Poisoned reduced by 50%.,Self,4,,
+passive,Resist Bind,緊縛耐性,Passive,Chance of being Bound reduced by 50%.,Self,4,,
+passive,Resist Charm,魅了耐性,Passive,Chance of being Charmed reduced by 50%.,Self,4,,
+passive,Resist Mute,魔封耐性,Passive,Chance of being Muted reduced by 50%.,Self,4,,
+passive,Resist Curse,呪い耐性,Passive,Chance of being Cursed reduced by 50%.,Self,4,,
+passive,Resist Weak,虚弱耐性,Passive,Chance of being Weakened reduced by 50%.,Self,4,,
+passive,Null Poison,毒無効,Passive,Adds Null Poison.,Self,12,,
+passive,Null Bind,緊縛無効,Passive,Adds Null Bind.,Self,12,,
+passive,Null Charm,魅了無効,Passive,Adds Null Charm.,Self,12,,
+passive,Null Mute,魔封無効,Passive,Adds Null Mute.,Self,12,,
+passive,Null Curse,呪い無効,Passive,Adds Null Curse.,Self,12,,
+passive,Null Weak,虚弱無効,Passive,Adds Null Weak.,Self,12,,
+passive,Speedster,スピードスター,Passive,+50% to Battle Speed of this demon.,Self,10,,
+passive,Good Aim,百発百中,Passive,+10% to Phys hit rate.,Self,4,,
+passive,Great Aim,千発千中,Passive,+20% to Phys hit rate.,Self,16,,
+passive,Dragon Sense,龍の反応,Passive,+15% to Phys hit rate and +15% Phys evasion rate.,Self,,,
+passive,Dodge,見切り,Passive,+10% Phys evasion rate.,Self,4,,
+passive,Evade,寸分の見切り,Passive,+20% Phys evasion rate.,Self,16,,
+passive,Vahana,ヴァーハナ,Passive,+15% to Phys evasion rate. -30% chance of receiving status ailments.,Self,,,
+passive,Stealth,ステルス,Passive,"HP will stop at 1 upon receiving the first killing blow, and increases Phys evasion rate by +20%.",Self,,,
+passive,Madness,乱れ狂い,Passive,+10% chance to inflict status ailments.,Self,8,,
+passive,Insanity,狂い咲き,Passive,+20% chance to inflict status ailments.,Self,24,,
+passive,Hellish Mask,地獄のマスク,Passive,-35% chance of receiving status ailments.,Self,8,,
+passive,Infernal Mask,奈落のマスク,Passive,-60% chance of receiving status ailments.,Self,16,,
+passive,Mutant,マレビト,Passive,Becomes immune to all status ailments.,Self,,,
+passive,Fast Recovery,自然治癒,Passive,+20% to status ailment auto cure rate.,Self,8,,
+passive,Epic Recovery,超自然治癒,Passive,+30% to status ailment auto cure rate.,Self,16,,
+passive,Bloody Glee,コロシの愉悦,Passive,+15% to Critical hit rate.,Self,8,,
+passive,Savage Glee,ミナゴロシの愉悦,Passive,+25% to Critical hit rate.,Self,14,,
+passive,Wild Guess,野生の勘,Passive,-15% to Critical hit rate of damage received.,Self,8,,
+passive,Wild Instinct,野獣の勘,Passive,-25% to Critical hit rate of damage received.,Self,14,,
+passive,Life Bonus,一分の活泉,Passive,+10% to Max HP.,Self,3,,
+passive,Life Gain,二分の活泉,Passive,+20% to Max HP.,Self,7,,
+passive,Life Surge,三分の活泉,Passive,+30% to Max HP.,Self,15,,
+passive,Mana Bonus,一分の魔脈,Passive,+1 to max MP.,Self,8,,
+passive,Mana Gain,二分の魔脈,Passive,+2 to max MP.,Self,15,,
+passive,Strength Amp I,初段の剛力,Passive,+5 to Strength.,Self,3,,
+passive,Strength Amp II,二段の剛力,Passive,+10 to Strength.,Self,13,,
+passive,Strength Amp III,三段の剛力,Passive,+15 to Strength.,Self,32,,
+passive,Vitality Amp I,初段の恵体,Passive,+5 to Vitality.,Self,3,,
+passive,Vitality Amp II,二段の恵体,Passive,+10 to Vitality.,Self,13,,
+passive,Vitality Amp III,三段の恵体,Passive,+15 to Vitality.,Self,32,,
+passive,Agility Amp I,初段の猛速,Passive,+5 to Agility.,Self,3,,
+passive,Agility Amp II,二段の猛速,Passive,+10 to Agility.,Self,13,,
+passive,Agility Amp III,三段の猛速,Passive,+15 to Agility.,Self,32,,
+passive,Magic Amp I,初段の賢魔,Passive,+5 to Magic.,Self,3,,
+passive,Magic Amp II,二段の賢魔,Passive,+10 to Magic.,Self,13,,
+passive,Magic Amp III,三段の賢魔,Passive,+15 to Magic.,Self,32,,
+passive,Luck Amp I,初段の強運,Passive,+5 to Luck.,Self,3,,
+passive,Luck Amp II,二段の強運,Passive,+10 to Luck.,Self,13,,
+passive,Luck Amp III,三段の強運,Passive,+15 to Luck.,Self,32,,
+passive,Assassin,暗殺者,Passive,+10% to single-target attack skill damage.,Self,8,,
+passive,Serial Killer,虐殺者,Passive,+10% to multiple-target attack skill damage.,Self,8,,
+passive,Butcher,大虐殺者,Passive,+20% to multiple-target attack skill damage.,Self,24,,
+passive,Deadly Poison,毒追撃,Passive,+30% damage to Poisoned enemies.,Self,13,,
+passive,Deadly Bondage,緊縛追撃,Passive,+30% damage to Bound enemies.,Self,13,,
+passive,Deadly Charm,魅了追撃,Passive,+30% damage to Charmed enemies.,Self,13,,
+passive,Deadly Mute,魔封追撃,Passive,+30% damage to Muted enemies.,Self,13,,
+passive,Deadly Curse,???,Passive,+30% damage to Cursed enemies.,Self,13,,
+passive,Berserker,狂戦士,Passive,"+10% to damage dealt, but +20% to damage received.",Self,18,,
+passive,Back Attack,追い打ち,Passive,+10% damage when attacking the enemy's weak point.,Self,12,,
+passive,Merciless Blow,無慈悲な一撃,Passive,+20% damage when attacking the enemy's weak point.,Self,12,,
 passive,Arms Mastery,武道の素養,Passive,"+15% to Phys damage and Phys hit rate.
 
 Lv2: +2% to Phys damage, +2% to AC.
 Lv3: +3% to Phys damage, +3% to AC.
 Lv4: +4% to Phys damage, +4% to AC.
 Lv5: +5% to Phys damage, +5% to AC.
-Lv6: +10% to Phys damage, +10% to AC.",Self,,,,1
-passive,Rasetsu,???,Passive,+10% to Phys hit rate and casts Rebellion on self at the beginning of the 1st turn.,Self,,,,1
-passive,Counter,反撃,Passive,"When receiving a Phys Attack, 50% chance to counter dealing Phys damage with 50 power.",Self,6,,,
-passive,Retaliate,猛反撃,Passive,"When receiving a Phys Attack, 50% chance to counter dealing Phys damage with 100 power.",Self,12,,,
-passive,Death Counter,デスカウンター,Passive,"When receiving a Phys Attack, 50% chance to counter dealing Phys damage with 150 power.",Self,18,,,
-passive,Endure,食いしばり,Passive,HP stops at 1 HP upon receiving the first killing blow.,Self,6,,,
-passive,Enduring Soul,不屈の闘志,Passive,Heals 200 HP upon receiving the first killing blow.,Self,18,,,
+Lv6: +10% to Phys damage, +10% to AC.",Self,,,
+passive,Rasetsu,???,Passive,+10% to Phys hit rate and casts Rebellion on self at the beginning of the 1st turn.,Self,,,
+passive,Counter,反撃,Passive,"When receiving a Phys Attack, 50% chance to counter dealing Phys damage with 50 power.",Self,6,,
+passive,Retaliate,猛反撃,Passive,"When receiving a Phys Attack, 50% chance to counter dealing Phys damage with 100 power.",Self,12,,
+passive,Death Counter,デスカウンター,Passive,"When receiving a Phys Attack, 50% chance to counter dealing Phys damage with 150 power.",Self,18,,
+passive,Endure,食いしばり,Passive,HP stops at 1 HP upon receiving the first killing blow.,Self,6,,
+passive,Enduring Soul,不屈の闘志,Passive,Heals 200 HP upon receiving the first killing blow.,Self,18,,
 passive,Avatar,アヴァターラ,Passive,"Heals 500 HP upon receiving the first killing blow. Heals 50% HP when clearing a wave.
 
 Lv2:  +2 to Ma, +2% to HP.
 Lv3: +3 to Ma, +3% to HP.
 Lv4: +4 to Ma, +4% to HP.
 Lv5: +5 to Ma, +5% to HP.
-Lv6: +10 to Ma, +10% to HP.",Self,,,,1
-passive,Life Aid,勝利の息吹,Passive,Heals 30% HP when clearing a wave.,Self,6,,,
-passive,Mana Aid,勝利のチャクラ,Passive,Recovers 10 MP when clearing a wave.,Self,12,,,
-passive,Infinite Chakra,無限のチャクラ,Passive,Increases naturally recovered MP by 1 MP.,Self,18,,,1
-passive,Tetra Shift,テトラカシフト,Passive,Casts Tetrakarn at the beginning of a battle if the enemy attacks first.,Self,18,,,
-passive,Makara Shift,マカラカシフト,Passive,Casts Makarakarn at the beginning of a battle if the enemy attacks first.,Self,18,,,
-passive,Repel Pierce,貫反の霊圧,Passive,"While the demon with this skill is alive, Pierce will have no effect on any party member that can repel the attribute they are attacked with.",Self,,,,1
-passive,Drain Pierce,貫吸の気魄,Passive,"While the demon with this skill is alive, Pierce will have no effect on any party member that can drain the attribute they are attacked with.",Self,,,,1
-passive,Kongo Zaou,金剛蔵王,Passive,All party members in the state of Might gain Phys Pierce while the demon with this skill is alive.,Self,,,,1
+Lv6: +10 to Ma, +10% to HP.",Self,,,
+passive,Life Aid,勝利の息吹,Passive,Heals 30% HP when clearing a wave.,Self,6,,
+passive,Mana Aid,勝利のチャクラ,Passive,Recovers 10 MP when clearing a wave.,Self,12,,
+passive,Infinite Chakra,無限のチャクラ,Passive,Increases naturally recovered MP by 1 MP.,Self,18,,
+passive,Tetra Shift,テトラカシフト,Passive,Casts Tetrakarn at the beginning of a battle if the enemy attacks first.,Self,18,,
+passive,Makara Shift,マカラカシフト,Passive,Casts Makarakarn at the beginning of a battle if the enemy attacks first.,Self,18,,
+passive,Repel Pierce,貫反の霊圧,Passive,"While the demon with this skill is alive, Pierce will have no effect on any party member that can repel the attribute they are attacked with.",Self,,,
+passive,Drain Pierce,貫吸の気魄,Passive,"While the demon with this skill is alive, Pierce will have no effect on any party member that can drain the attribute they are attacked with.",Self,,,
+passive,Kongo Zaou,金剛蔵王,Passive,All party members in the state of Might gain Phys Pierce while the demon with this skill is alive.,Self,,,
 passive,Guards of Tartarus,???,Passive,"While the demon with this skill is alive, all party members will receive the following effect: 
-Reduces damage received by 15% when the attacker attacks all party members.",Self,,,,1
-passive,Curse of Distress,???,Passive,+10% damage to Cursed enemies. -10% damage from Cursed enemies.,Self,,,,1
-passive,Curse of Anguish,???,Passive,+15% damage to Cursed enemies. -15% damage from Cursed enemies.,Self,,,,1
-passive,Empress' Libido,,Passive,+25% damage to Charmed enemies. Has a 30% to Charm all enemies at the beginning of the 1st turn.,,,,,1
-passive,Auto-Taruka,タルカオート,Passive,Casts Tarukaja at the beginning of the 1st turn.,Self,12,,,
-passive,Auto-Rakuka,ラクカオート,Passive,Casts Rakukaja at the beginning of the 1st turn.,Self,12,,,
-passive,Auto-Sukuka,スクカオート,Passive,Casts Sukukaja at the beginning of the 1st turn.,Self,12,,,
-passive,Auto-Tarunda,タルンダオート,Passive,Casts Tarunda at the beginning of the 1st turn.,Self,12,,,
-passive,Auto-Rakunda,ラクンダオート,Passive,Casts Rakunda at the beginning of the 1st turn.,Self,12,,,
-passive,Auto-Sukunda,スクンダオート,Passive,Casts Sukunda at the beginning of the 1st turn.,Self,12,,,
-passive,Intimidating Stance,威圧の構え,Passive,Reduces 1 enemy Press Turn at the beginning of a battle if the enemy attacks first. Only up to 2 Press Turn Icons can be reduced by skills or effects.,Self,21,,,1
-passive,Suppress Stance Drain,制圧の構え：吸,Passive,"As long as the demon who has this skill is alive, the enemy loses an extra Press Turn Icon every time you drain their attack.",Self,,,,1
-passive,Faith in Wealth,富の信仰,Passive,Increases max HP by 10%. Recover 1 MP every time your Press Turn Icon decreases due to enemy skills.,Self,,,,1
-passive,Trickster,トリックスター,Passive,20% chance to avoid using Press Turn Icons when attacking the enemy's weak point.,Self,,,,1
-passive,Lunar Blessing,月の加護,Passive,Reduces consumed MP by 1 MP.,Self,,,,1
-passive,Luck,コウウン,Passive,Increases Exp gained by Dx2 and all party members by 20% and Macca obtained during battle by 20%.,Self,,,,1
-passive,Dmg Panel V I,毒床歩き,Passive,-25% to damage received from Damage Panels in the Aura Gate.,Self,2,,,
-passive,Dmg Panel V II,毒床渡り,Passive,-50% to damage received from Damage Panels in the Aura Gate.,Self,4,,,
-passive,Dmg Panel Immunity,毒床無効,Passive,Nullifies Damage Panels in the Aura Gate.,Self,8,,,
-passive,Trap Free,ワナフーリ,Passive,"-30% to damage received from Damage Panels in the Aura Gate, and nullifies Dark Zone effects.",Self,,,,1
-passive,Void Dark Zones,ダークゾーン無効,Passive,Nullifies Dark Zone effects in the Aura Gate.,Self,,,,1
-passive,Deadly Poison,,Passive,+30% damage to Poisoned enemies.,Self,13,,,
-passive,Fog of Death,,Passive,"When an enemy is Weakened, reduces all enemy EV/AC by 20% (3 turns) and 100% chance to inflict Poison.",Self,,,,1
-passive,Call to Helheim,,Passive,"When the demon with this skill downs an enemy, reduces all enemy ATK and DEF by 20%. (3 turns)",Self,,,,1
+Reduces damage received by 15% when the attacker attacks all party members.",Self,,,
+passive,Curse of Distress,???,Passive,+10% damage to Cursed enemies. -10% damage from Cursed enemies.,Self,,,
+passive,Curse of Anguish,???,Passive,+15% damage to Cursed enemies. -15% damage from Cursed enemies.,Self,,,
+passive,Empress' Libido,,Passive,+25% damage to Charmed enemies. Has a 30% to Charm all enemies at the beginning of the 1st turn.,,,,
+passive,Auto-Taruka,タルカオート,Passive,Casts Tarukaja at the beginning of the 1st turn.,Self,12,,
+passive,Auto-Rakuka,ラクカオート,Passive,Casts Rakukaja at the beginning of the 1st turn.,Self,12,,
+passive,Auto-Sukuka,スクカオート,Passive,Casts Sukukaja at the beginning of the 1st turn.,Self,12,,
+passive,Auto-Tarunda,タルンダオート,Passive,Casts Tarunda at the beginning of the 1st turn.,Self,12,,
+passive,Auto-Rakunda,ラクンダオート,Passive,Casts Rakunda at the beginning of the 1st turn.,Self,12,,
+passive,Auto-Sukunda,スクンダオート,Passive,Casts Sukunda at the beginning of the 1st turn.,Self,12,,
+passive,Intimidating Stance,威圧の構え,Passive,Reduces 1 enemy Press Turn at the beginning of a battle if the enemy attacks first. Only up to 2 Press Turn Icons can be reduced by skills or effects.,Self,21,,
+passive,Suppress Stance Drain,制圧の構え：吸,Passive,"As long as the demon who has this skill is alive, the enemy loses an extra Press Turn Icon every time you drain their attack.",Self,,,
+passive,Faith in Wealth,富の信仰,Passive,Increases max HP by 10%. Recover 1 MP every time your Press Turn Icon decreases due to enemy skills.,Self,,,
+passive,Trickster,トリックスター,Passive,20% chance to avoid using Press Turn Icons when attacking the enemy's weak point.,Self,,,
+passive,Lunar Blessing,月の加護,Passive,Reduces consumed MP by 1 MP.,Self,,,
+passive,Luck,コウウン,Passive,Increases Exp gained by Dx2 and all party members by 20% and Macca obtained during battle by 20%.,Self,,,
+passive,Dmg Panel V I,毒床歩き,Passive,-25% to damage received from Damage Panels in the Aura Gate.,Self,2,,
+passive,Dmg Panel V II,毒床渡り,Passive,-50% to damage received from Damage Panels in the Aura Gate.,Self,4,,
+passive,Dmg Panel Immunity,毒床無効,Passive,Nullifies Damage Panels in the Aura Gate.,Self,8,,
+passive,Trap Free,ワナフーリ,Passive,"-30% to damage received from Damage Panels in the Aura Gate, and nullifies Dark Zone effects.",Self,,,
+passive,Void Dark Zones,ダークゾーン無効,Passive,Nullifies Dark Zone effects in the Aura Gate.,Self,8,,
+passive,Deadly Poison,,Passive,+30% damage to Poisoned enemies.,Self,13,,
+passive,Fog of Death,,Passive,"When an enemy is Weakened, reduces all enemy EV/AC by 20% (3 turns) and 100% chance to inflict Poison.",Self,,,
+passive,Call to Helheim,,Passive,"When the demon with this skill downs an enemy, reduces all enemy ATK and DEF by 20%. (3 turns)",Self,,,
 almighty,Rattle,,9 MP,"Inflicts Almighty (Magic) damage with 100 power on All Enemies and reduces all enemy EV/AC by 20% for 3 turns.
 
 Lv2: +4% to damage dealt using this skill.
 Lv3: +8% to damage dealt using this skill.
-Lv4: +8% to damage dealt using this skill. MP cost of this skill -1.",All Enemies,12,,,1
+Lv4: +8% to damage dealt using this skill. MP cost of this skill -1.",All Enemies,12,,
 passive,Harmonious Death,,Passive,"At the beginning of every second turn, damage dealt by the demon with this skill will increase by 20% (up to 60%) and all party members receive 1 additional Press Turn Icon.
 
 Lv2: +2 Magic. +2% to Max HP.
 Lv3: +3 Magic. +3% to Max HP.
 Lv4: +4 Magic. +4% to Max HP.
 Lv5: +5 Magic. +5% to Max HP.
-Lv6: +10 Magic. +10% to Max HP.",Self,,,,1
-passive,Meslamtaea,,Passive,"Increases AC by 20%, and enters a state of Rebellion when the enemy is Poisoned.",Self,,,,1
+Lv6: +10 Magic. +10% to Max HP.",Self,,,
+passive,Meslamtaea,,Passive,"Increases AC by 20%, and enters a state of Rebellion when the enemy is Poisoned.",Self,,,
 support,Plague of Babylon,,6 MP,"80% chance to inflict Weak on all enemies after removing Barriers from all enemies.
 
 Lv2: 10% chance of 1 MP recovery.
 Lv3: 20% chance of 1 MP recovery.
-Lv4: 20% chance of 1 MP recovery. MP cost -1.",All Enemies,,,,1
-passive,Fruit of the Dead,,Passive,"While the demon with this skill is alive, any enemy demon that is revived will only have 1 HP.",Self,,,,1
-passive,Euphoric Frenzy,,Passive,50% chance to Charm the assailant when receiving a Phys Attack.,Self,,,,1
+Lv4: 20% chance of 1 MP recovery. MP cost -1.",All Enemies,,,
+passive,Fruit of the Dead,,Passive,"While the demon with this skill is alive, any enemy demon that is revived will only have 1 HP.",Self,,,
+passive,Euphoric Frenzy,,Passive,50% chance to Charm the assailant when receiving a Phys Attack.,Self,,,
 passive,Yomotsu Okami,,Passive,"While the demon with this skill is alive, all party members gain +10% damage to Elec and Dark attacks.
 
 Lv2: +3 Magic.
 Lv3: +6 Magic.
 Lv4: +9 Magic.
 Lv5: +12 Magic.
-Lv6: +20 Magic.",Self,,,,1
-passive,You're Next,,Passive,"If the demon with this skill kills an enemy with a single target attack, and that enemy is revived, they will come back as a Lv. 1 Reiko Kashima.",Self,,,,1
+Lv6: +20 Magic.",Self,,,
+passive,You're Next,,Passive,"If the demon with this skill kills an enemy with a single target attack, and that enemy is revived, they will come back as a Lv. 1 Reiko Kashima.",Self,,,
 passive,Yaxche,,Passive,"When downed during the enemy turn, inflicts Almighty (Power:100) damage to the attacker, with 100% chance to inflict Mortal. Nullifies all death prevention skills. Won't activate when your party is wiped out.
 
 Lv2: +2 to Ma, +2% to Ailment Infliction.
 Lv3: +3 to Ma, +3% to Ailment Infliction.
 Lv4: +4 to Ma, +4% to Ailment Infliction.
 Lv5: +5 to Ma, +5% to Ailment Infliction.
-Lv6: +10 to Ma, +10% to Ailment Infliction.",Self,,,,1
-passive,Offensive Cry,,7 MP,Reduces all enemy DEF and increases own parties ATK by 20% for 3 turns.,All Enemies/Party Members,,,,1
-almighty,Mind Blast,,7 MP,Inflicts Almighty (Magic) damage on a single enemy with 100 power and reduces MP by 4.,All Enemies,,,,1
-support,War Dance,,6 MP,Increases own parties ATK and DEF by 20% for 3 turns.,All Enemies/Party Members,,,,1
+Lv6: +10 to Ma, +10% to Ailment Infliction.",Self,,,
+passive,Offensive Cry,,7 MP,Reduces all enemy DEF and increases own parties ATK by 20% for 3 turns.,All Enemies/Party Members,15,,
+almighty,Mind Blast,,7 MP,Inflicts Almighty (Magic) damage on a single enemy with 100 power and reduces MP by 4.,All Enemies,8,,
+support,War Dance,,6 MP,Increases own parties ATK and DEF by 20% for 3 turns.,All Enemies/Party Members,8,,
 light,Hamaon L,,4 MP,"Inflicts Light (Magic) damage with 140 power on Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",Single Enemy,6,,,
+Lv5: +10% to damage.",Single Enemy,6,,
 dark,Mudoon L,,4 MP,"Inflicts Dark (Magic) damage with 140 power on Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",Single Enemy,6,,,
+Lv5: +10% to damage.",Single Enemy,6,,
 force,Zanma L,,4 MP,"Inflicts Force (Magic) damage with 140 power on Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",Single Enemy,6,,,
+Lv5: +10% to damage.",Single Enemy,6,,
 elec,Zionga L,,4 MP,"Inflicts Elec (Magic) damage with 140 power on Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",Single Enemy,6,,,
+Lv5: +10% to damage.",Single Enemy,6,,
 ice,Bufula L,,4 MP,"Inflicts Ice (Magic) damage with 140 power on Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",Single Enemy,6,,,
+Lv5: +10% to damage.",Single Enemy,6,,
 fire,Agilao L,,4 MP,"Inflicts Fire (Magic) damage with 140 power on Single Enemy.
 
 Lv2: +4% to damage.
 Lv3: +6% to damage.
 Lv4: +8% to damage.
-Lv5: +10% to damage.",Single Enemy,6,,,
+Lv5: +10% to damage.",Single Enemy,6,,
 fire,MahaLantine,,7 MP,"Inflicts Fire (Magic) damage with 50 power on All Enemies twice.
 
 Lv2: +5% to all damage.
 Lv3: +10% to all damage.
 Lv4:+15% to all damage.
 Lv5: +20% to all damage.
-Lv6: +20% to all damage. MP cost -1.",All Enemies,,,,1
+Lv6: +20% to all damage. MP cost -1.",All Enemies,,,
 ice,MahaFrosty,,7 MP,"Inflicts Ice (Magic) damage with 50 power on All Enemies twice.
 
 Lv2: +5% to all damage.
 Lv3: +10% to all damage.
 Lv4:+15% to all damage.
 Lv5: +20% to all damage.
-Lv6: +20% to all damage. MP cost -1.",All Enemies,,,,1
+Lv6: +20% to all damage. MP cost -1.",All Enemies,,,
 almighty,Necro Dogma,,9 MP,"Inflicts Almighty (Magic) damage on all enemies with 100 power and increases own parties DEF by 20%. (3 turns)
 
 Lv2: +4% to damage dealt using this skill.
 Lv3: +8% to damage dealt using this skill.
-Lv4: +8% to damage dealt using this skill. MP cost of this skill -1.",All Enemies,12,,,1
-almighty,Demon Birth Cry,,9 MP,Inflicts Almighty (Magic) damage on all enemies with 100 power and reduces all enemy ATK by 20%. (3 turns),All Enemies,12,,,1
-phys,Bleeder,,6 MP,Inflicts Phys (Physical) damage with 120 power on a Single Enemy and reduces MP by 2.,Single Enemy,8,,,1
-passive,Arcane Ritual,,passive,"While the demon with this skill is alive, all party members gain +20% increase in status ailment auto cure rate.",Self,,,,1
-support,Nocturne,,6 MP,Increases own party's DEF and EV/AC by 20% for 3 turns.,All Party Members,8,,,1
-passive,Hell's Gate,,passive,"While the demon with this skill is alive, all party members will receive the following effect: For every Weak attribute, all party members will receive 5% less multiple-target attack damage that target all or random allies. (Max reduction: 50%)",Self,,,,1
+Lv4: +8% to damage dealt using this skill. MP cost of this skill -1.",All Enemies,12,,
+almighty,Demon Birth Cry,,9 MP,Inflicts Almighty (Magic) damage on all enemies with 100 power and reduces all enemy ATK by 20%. (3 turns),All Enemies,12,,
+phys,Bleeder,,6 MP,Inflicts Phys (Physical) damage with 120 power on a Single Enemy and reduces MP by 2.,Single Enemy,8,,
+passive,Arcane Ritual,,passive,"While the demon with this skill is alive, all party members gain +20% increase in status ailment auto cure rate.",Self,,,
+support,Nocturne,,6 MP,Increases own party's DEF and EV/AC by 20% for 3 turns.,All Party Members,8,,
+passive,Hell's Gate,,passive,"While the demon with this skill is alive, all party members will receive the following effect: For every Weak attribute, all party members will receive 5% less multiple-target attack damage that target all or random allies. (Max reduction: 50%)",Self,,,
 passive,Law of Hell,,passive,"As long as the demon with this skill is alive, no bonus turn will be granted when a party member's weak point is attacked.
 
 Lv2: +2% to HP. +2% to Ailment Resistance.
 Lv3: +3% to HP. +3% to Ailment Resistance.
 Lv4: +4% to HP. +4% to Ailment Resistance.
 Lv5: +5% to HP. +5% to Ailment Resistance.
-Lv6: +10% to HP. +10% to Ailment Resistance.",Self,,,,1
+Lv6: +10% to HP. +10% to Ailment Resistance.",Self,,,
 passive,Warlord's Wrath,,passive,"Adds Phys Pierce.
 Reduces 1 enemy Press Turn Icon at the beginning of a battle if the enemy attacks first. Only up to 2 Press Turn Icons can be reduced by skills or effects. When receiving a Phys Attack, 100% chance to counter dealing Phys damage.
-Power: 100",Self,,,,1
+Power: 100",Self,,,
 phys,Occult Flash,,8 MP,"Inflicts Phys (Physical) damage with 50% crit rate on a single enemy, with 100% chance to inflict Mortal.
 Power: 200
 
@@ -1377,30 +1377,30 @@ Lv2: +5% to AC.
 Lv3: +10% to AC.
 Lv4: +15% to AC.
 Lv5: +20% to AC.
-Lv6: +20% to AC. MP cost -1.",Single Enemy,,,,1
-passive,Nightlife,,passive,Increases Macca obtained during battle by 5%.,Self,,,,1
+Lv6: +20% to AC. MP cost -1.",Single Enemy,,,
+passive,Nightlife,,passive,Increases Macca obtained during battle by 5%.,Self,,,
 passive,Sass,,passive,"When an enemy is Charmed, reduces all enemy DEF by 20% (3 turns).
 
 Lv2: +2% to Ailment hit rate. +2% Damage to Charmed enemies.
 Lv3: +3% to Ailment hit rate. +3% Damage to Charmed enemies.
 Lv4: +4% to Ailment hit rate. +4% Damage to Charmed enemies.
 Lv5: +5% to Ailment hit rate. +5% Damage to Charmed enemies.
-Lv6: +10% to Ailment hit rate. +10% Damage to Charmed enemies.",Self,,,,1
-support,Blood Rush,,6 MP,Increases own parties ATK and EV/AC by 20%. (3 turns),Party Members,,,,1
+Lv6: +10% to Ailment hit rate. +10% Damage to Charmed enemies.",Self,,,
+support,Blood Rush,,6 MP,Increases own parties ATK and EV/AC by 20%. (3 turns),Party Members,6,,
 almighty,Foresight,,9 MP,"Inflicts Almighty (Magic) damage on all enemies and increases own parties EV/AC by 20%. (3 turns)
 
 Lv2: +4% to damage dealt using this skill.
 Lv3: +8% to damage dealt using this skill.
-Lv4: +8% to damage dealt using this skill. MP cost of this skill -1.",All Enemies/Party Members,,,,1
-support,Agile Cry,,7 MP,Reduces all enemy EV/AC and increases own parties EV/AC by 20%. (3 turns),All Enemies/Party Members,,,,
+Lv4: +8% to damage dealt using this skill. MP cost of this skill -1.",All Enemies/Party Members,12,,
+support,Agile Cry,,7 MP,Reduces all enemy EV/AC and increases own parties EV/AC by 20%. (3 turns),All Enemies/Party Members,15,,
 phys,Gomorrah (B),,8 MP,"Can be used from the 3rd turn. Inflicts Phys (Physical) damage with 50% crit rate on a single enemy 5 times and a 50% chance to inflict Charm on all enemies.
 Power: 50
-*Damage inflicted by this skill is 50% dependent on Phys ATK, 50% on Mag ATK and will have Phys Pierce effect.",All Enemies,,,,1
+*Damage inflicted by this skill is 50% dependent on Phys ATK, 50% on Mag ATK and will have Phys Pierce effect.",All Enemies,,,
 phys,Gomorrah (J),,8 MP,"Can be used from the 3rd turn. Inflicts Phys (Physical) damage with 50% crit rate on all enemies 5 times and a 50% chance to inflict Bind on all enemies.
 Power: 180
-*Damage inflicted by this skill is 50% dependent on Phys ATK, 50% on Mag ATK and will have Phys Pierce effect.",All Enemies,,,,1
+*Damage inflicted by this skill is 50% dependent on Phys ATK, 50% on Mag ATK and will have Phys Pierce effect.",All Enemies,,,
 phys,Beloved Slash,,6 MP,"Inflicts Phys (Physical) damage on all enemies twice.
-Power: 60",All Enemies,,,,1
+Power: 60",All Enemies,,,
 passive,Madama Stomp,,passive,"When landing a critical hit, inflicts Almighty (Magic) damage on a single enemy with a 30% chance to inflict Charm.
 Power: 100
 
@@ -1408,11 +1408,11 @@ Lv2: +4% to Ailment hit rate. +4% Critical hit rate.
 Lv3: +6% to Ailment hit rate. +6% Critical hit rate.
 Lv4: +8% to Ailment hit rate. +8% Critical hit rate.
 Lv5: +10% to Ailment hit rate. +10% Critical hit rate.
-Lv6: +20% to Ailment hit rate. +25% Critical hit rate.",Self,,,,1
+Lv6: +20% to Ailment hit rate. +25% Critical hit rate.",Self,,,
 passive,Madama Uppercut,,passive,"When an enemy is Charmed, inflicts Almighty (Magic) damage on a single enemy with a 30% chance to inflict Bind. Power: 100?
 
 Lv2: +4% to Ailment hit rate. +4% Phys evasion rate.
 Lv3: +6% to Ailment hit rate. +6% Phys evasion rate.
 Lv4: +8% to Ailment hit rate. +8% Phys evasion rate.
 Lv5: +10% to Ailment hit rate. +10% Phys evasion rate.
-Lv6: +20% to Ailment hit rate. +20% Phys evasion rate.",Self,,,,1
+Lv6: +20% to Ailment hit rate. +20% Phys evasion rate.",Self,,,

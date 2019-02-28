@@ -1416,3 +1416,17 @@ Lv3: +6% to Ailment hit rate. +6% Phys evasion rate.
 Lv4: +8% to Ailment hit rate. +8% Phys evasion rate.
 Lv5: +10% to Ailment hit rate. +10% Phys evasion rate.
 Lv6: +20% to Ailment hit rate. +20% Phys evasion rate.",Self,,,
+passive,Pussyfoot,,passive,"While the demon with this skill is alive, all party members will recieve the following effect: +20% EV.
+
+Lv2: +3 to Ag.
+Lv3: +6 to Ag.
+Lv4: +9 to Ag.
+Lv5: +12 to Ag.
+Lv6: +20 to Ag.",Self,,,
+passive,Lord of the Abyss,,passive,"Removes all status buffs of all enemies at the beginning of the first turn in a boss battle and decreases the ATK, DEF and EV/AC of all enemies by 20%. (3 turns)
+
+Lv2: +4% to HP.
+Lv3: +6% to HP.
+Lv4: +8% to HP.
+Lv5: +10% to HP.
+Lv6: +20% to HP.",Self,,,

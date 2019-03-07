@@ -1,4 +1,4 @@
-Element,Name,JP Name,Cost,Description,Target,Skill Points,Learned By,Transferable From
+﻿Element,Name,JP Name,Cost,Description,Target,Skill Points,Learned By,Transferable From
 phys,Cleave,スラッシュ,4 MP,"Inflicts Phys (Physical) damage with 120 power on a Single Enemy.
 
 Lv2: +5% to damage.
@@ -1199,7 +1199,7 @@ passive,Luck Amp I,初段の強運,Passive,+5 to Luck.,Self,3,,
 passive,Luck Amp II,二段の強運,Passive,+10 to Luck.,Self,13,,
 passive,Luck Amp III,三段の強運,Passive,+15 to Luck.,Self,32,,
 passive,Assassin,暗殺者,Passive,+10% to single-target attack skill damage.,Self,8,,
-passive,Master Assassin,暗殺者,Passive,+20% to single-target attack skill damage.,Self,8,,
+passive,Master Assassin,暗殺者,Passive,+20% to single-target attack skill damage.,Self,24,,
 passive,Serial Killer,虐殺者,Passive,+10% to multiple-target attack skill damage.,Self,8,,
 passive,Butcher,大虐殺者,Passive,+20% to multiple-target attack skill damage.,Self,24,,
 passive,Deadly Poison,毒追撃,Passive,+30% damage to Poisoned enemies.,Self,13,,

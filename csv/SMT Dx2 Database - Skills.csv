@@ -996,7 +996,7 @@ support,Tetrakarn,テトラカーン,7 MP,All Party Members repels Physical dama
 support,Makarakarn,マカラカーン,7 MP,All Party Members repels Magic damage for 1 turn.,All Party Members,8,,
 support,Tetra Break,テトラコワース,3 MP,Removes Repel Phys from All Enemies.,All Enemies,6,,
 support,Makara Break,マカラコワース,3 MP,Removes Repel Mag from All Enemies.,All Enemies,6,,
-support,Tetraja,テトラジャ,4 MP,All Party Members will evade Instant Kill for 1 turn,All Party Members,,,
+support,Tetraja,テトラジャ,4 MP,All Party Members will evade Instant Kill for 1 turn,All Party Members,4,,
 support,Tarukaja,タルカジャ,5 MP,"Increases ATK of All Party Members by 20% for 3 turns.
 
 Lv2: +3% chance of 1 MP recovery.

@@ -1091,7 +1091,11 @@ Lv2: +10% chance of 1 MP recovery.
 Lv3: +20% chance of 1 MP recovery.
 Lv4: +20% chance of 1 MP recovery. MP cost -1.",All Party Members,,,
 support,Five Elements ,五行思想,6 MP,All Party Members repels Magic (including Almighty) damage for 1 turn.,All Party Members,,,
-support,Barong Dance,バロンダンス,7 MP,"Heals All Party Members with 95 power and increases ATK, DEF, EV/AC of All Party Members by 20% for 3 turns. (3 uses)",All Party Members,,,
+support,Barong Dance,バロンダンス,7 MP,"Heals All Party Members with 95 power and increases ATK, DEF, EV/AC of All Party Members by 20% for 3 turns. (3 uses)
+
+Lv2: +5% to Healing amount of this skill.
+Lv3: +5% to Healing amount of this skill.
+Lv4: +10% to Healing amount of this skill. MP cost of this skill -1.",All Party Members,,,
 support,Tenson Kourin,天孫降臨,8 MP,"Increases ATK, DEF, EV/AC of All Party Members by 20% for 6 turns. (3 uses)",All Party Members,,,
 support,Dark Pandemic,,5 MP,"Remove buffs from All Enemies, and reduces either ATK, DEF or EV/AC of All Enemies by 20% for 3 turns.
 

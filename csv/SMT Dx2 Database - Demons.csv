@@ -63,7 +63,7 @@ Hanuman,Genma,60,4,,,,wk,nu,,,938,223,84,121,132,150,Resist Phys,Vorpal Blade,Ma
 Hare of Inaba,UMA,41,3,,wk,,,,,,919,117,98,117,182,156,Dekaja,Media,Trap Free,Recarm,,,,,,,,,Heal,575,517,535,507,,10,,,10,,,,,,10,,,10,
 Hathor,Megami,27,2,wk,,rs,,rs,rs,,1183,106,124,173,167,106,Amrita,Zan,Zionga,Meposumudi,Mazio,Mecharmdi,Mana Bonus,Null Force,,,,,Heal,552,573,590,582,10,5,,10,5,,,,,,,,,,
 Hecatoncheires,Jaki,74,4,nu,,,,wk,wk,,1399,219,76,219,61,166,Megaton Press,Bloody Glee,Guards of Tartarus,Auto-Rakuka,Binge Eating,Charge,Life Surge,Drain Phys,Phys Boost,Deadly Curse,Acid Breath,Resist Light,Attack,789,680,489,608,,,,,,,,15,5,,15,5,,,
-Hel,Reaper,60,4,,wk,nu,,,,,981,92,202,130,141,140,Mabufula,Mamudo,Call of Helheim,Ice Breath,Bufudyne,Rattle,Ice Boost,Repel Ice,Merciless Blow,Enduring Soul,Bufudyne,Resist Fire,Attack,522,518,753,573,,,,,,,,,,,,,,,
+Hel,Reaper,60,4,,wk,nu,,,,,981,92,202,130,141,140,Mabufula,Mamudo,Call of Helheim,Ice Breath,Bufudyne,Rattle,Ice Boost,Repel Ice,Merciless Blow,Enduring Soul,Bufudyne,Resist Fire,Attack,522,518,753,573,,,,,,,15,5,,15,5,,,,
 Hell Biker,Fiend,77,4,,rp,,,rs,wk,,1004,156,156,135,229,87,Maragion,Speedster,Red Zone,Power Hit,Mamudoon,Recarmdra,Auto-Sukuka,Repel Light,Agidyne,War Cry,Deadly Bondage,Resist Dark,Attack,657,556,657,556,,,5,,,5,,,,,,5,,,5
 Helper Frost,Fairy,63,4,,wk,ab,,,,,1075,79,179,150,105,140,Bufula,Hamaon,Endure,MahaFrosty,,,,,,,,,Attack,495,534,705,584,,30,,,30,,,,,,30,,,30,
 Heqet,Holy,27,2,,,,rs,wk,,,952,143,134,124,148,115,Media,Mazio,Meposumudi,Zionga,Shock,Dekunda,Life Gain,Resist Fire,,,,,Heal,630,537,611,533,10,5,,,,,10,5,,,,,,,
@@ -208,8 +208,8 @@ Masakado,General,98,5,nu,,,,,rs,ab,938,256,111,121,118,186,Vorpal Blade,Warlord'
 Bayonetta☆,Witch,85,5,,,,,,rs,rs,877,181,158,108,156,158,Mortal Jihad,Madama Stomp,Gomorrah (B),,Myriad Arrows,Sweet Bite,Savage Glee,Null Dark,Strength Amp III,Deadly Charm,Assassin,Titanomachia,Attack,,,,,,,,,,,,,,,,,,,
 Jeanne☆,Witch,85,5,,,,,,rs,rs,877,158,181,108,156,158,Hades Blast,Madama Uppercut,Gomorrah (J),,Tempest Slash,Dark Sword,Evade,Null Light,Magic Amp III,Deadly Bondage,Assassin,Megidola,Attack,,,,,,,,,,,,,,,,,,,
 Beloved,Divine,70,4,rs,,,,,rs,wk,1192,195,94,175,106,153,Bloody Glee,Oni-Kagura,Beloved Slash,Life Gain,Power Hit,Rebellion,Retaliate,Null Light,Good Aim,Phys Boost,Wild Guess,Hellish Mask,Attack,,,,,,,,,,,,,,,,,,,
-Bayonetta,Witch,65,4,,,,,,rs,rs,854,172,151,103,145,151,Mortal Jihad,Berserker,Soul Drain,Strength Amp II,Myriad Arrows,Sweet Bite,Savage Glee,Null Dark,Strength Amp II,Deadly Charm,Phys Boost,Speedster,Attack,,,,,,,,,,,,,,,,,,,
-Jeanne,Witch,65,4,,,,,,rs,rs,854,151,172,103,145,151,Hades Blast,Berserker,Soul Drain,Magic Amp II,Myriad Arrows,Dark Sword,Evade,Null Light,Magic Amp II,Deadly Bondage,Retaliate,Speedster,Attack,,,,,,,,,,,,,,,,,,,
+Bayonetta,Witch,65,4,,,,,,rs,rs,854,172,151,103,145,151,Mortal Jihad,Berserker,Soul Drain,Strength Amp II,Myriad Arrows,Sweet Bite,Savage Glee,Null Dark,Strength Amp II,Deadly Charm,Phys Boost,Speedster,Attack,,,,,,,,,,,,,,,,,,,,30,15,,
+Jeanne,Witch,65,4,,,,,,rs,rs,854,151,172,103,145,151,Hades Blast,Berserker,Soul Drain,Magic Amp II,Myriad Arrows,Dark Sword,Evade,Null Light,Magic Amp II,Deadly Bondage,Retaliate,Speedster,Attack,,,,,,,,,,,,,,,,,,,,30,15,,
 Kusi Mitama,Mitama,31,2,,,,,rs,rs,rs,976,106,106,129,144,106,Agility Amp I,Charge,Concentrate,Vitality Amp I,Wind Breath,Sukukaja,Dodge,Null Force,,,,,Support,,,,,,,,,,,,,,,,,,,
 Nigi Mitama,Mitama,26,2,,,rs,,,rs,rs,863,105,147,105,102,129,Magic Amp I,Media,Recarm,Luck Amp I,Ice Breath,Diara,Fast Recovery,Null Ice,,,,,Support,,,,,,,,,,,,,,,,,,,
 Ara Mitama,Mitama,21,2,,rs,,,,rs,rs,862,146,105,105,122,105,Strength Amp I,Charge,Lunge,Agility Amp I,Fire Breath,Tarukaja,Good Aim,Null Fire,,,,,Support,,,,,,,,,,,,,,,,,,,
@@ -219,6 +219,6 @@ Nekomata A,Beast,60,4,,rs,,wk,rs,,,849,130,102,102,226,160,Speedster,Evade,Pussy
 Nero☆,Fiend,90,5,,,,rs,,,rs,1028,160,195,140,169,129,Elec Boost,Voltage,Overture,,Ziodyne,Necro Dogma,Auto-Rakuka,Null Dark,Elec Amp,Mana Aid,Merciless Blow,Null Elec,Attack,,,,,,,,,,,,,,,,,,,
 Dante☆,Fiend,90,5,,rs,,,,,rs,1286,217,109,195,126,150,Phys Boost,Rapid Shot,Million Stab,,Megaton Raid,Taunt,Death Counter,Null Dark,Life Aid,Phys Amp,Savage Glee,Null Fire,Attack,,,,,,,,,,,,,,,,,,,
 V☆,??,90,5,,,,,,rs,rs,934,129,183,120,158,172,Enduring Soul,Shadow-Shock,Griffon-Bolt,,Sea of Chaos,Rattle,Infernal Mask,Null Dark,Butcher,Wild Instinct,Megidolaon,Null Light,Attack,,,,,,,,,,,,,,,,,,,
-Nero,Fiend,70,4,,,,rs,,,rs,995,153,186,133,157,123,Elec Boost,Back Attack,Mazionga,Agility Amp II,Ziodyne,Necro Dogma,Auto-Rakuka,Null Dark,Agility Amp II,Magic Amp II,Ziodyne,Resist Ice,Attack,,,,,,,,,,,,,,,,,,,
-Dante,Fiend,70,4,,rs,,,,,rs,1244,207,104,186,117,144,Phys Boost,Fatal Sword,Titanomachia,Strength Amp II,Megaton Raid,Taunt,Death Counter,Null Dark,Strength Amp II,Tempest Slash,Vitality Amp II,Resist Phys,Attack,,,,,,,,,,,,,,,,,,,
-V,??,70,4,,,,,,rs,rs,905,123,175,114,147,164,Enduring Soul,Soul Drain,Megido,Magic Amp II,Sea of Chaos,Rattle,Infernal Mask,Null Dark,Magic Amp II,Luck Amp II,Hamadyne,Resist Force,Attack,,,,,,,,,,,,,,,,,,,
+Nero,Fiend,70,4,,,,rs,,,rs,995,153,186,133,157,123,Elec Boost,Back Attack,Mazionga,Agility Amp II,Ziodyne,Necro Dogma,Auto-Rakuka,Null Dark,Agility Amp II,Magic Amp II,Ziodyne,Resist Ice,Attack,,,,,,,,,,,,,,,,,,,,,,30,15
+Dante,Fiend,70,4,,rs,,,,,rs,1244,207,104,186,117,144,Phys Boost,Fatal Sword,Titanomachia,Strength Amp II,Megaton Raid,Taunt,Death Counter,Null Dark,Strength Amp II,Tempest Slash,Vitality Amp II,Resist Phys,Attack,,,,,,,,,,,,,,,,,,,,,,30,15
+V,??,70,4,,,,,,rs,rs,905,123,175,114,147,164,Enduring Soul,Soul Drain,Megido,Magic Amp II,Sea of Chaos,Rattle,Infernal Mask,Null Dark,Magic Amp II,Luck Amp II,Hamadyne,Resist Force,Attack,,,,,,,,,,,,,,,,,,,,,,30,15

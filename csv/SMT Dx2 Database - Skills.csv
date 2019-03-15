@@ -1466,4 +1466,4 @@ passive,Phys Pierce [weak],,passive,"Gains Phys Pierce.Damage reduced by 70% if 
 
 Lv2: Decreases Phys Pierce damage reduction by 5%.
 Lv3: Decreases Phys Pierce damage reduction by 10%.
-Lv4: Decreases Phys Pierce damage reduction by 20%.",Self,,,
+Lv4: Decreases Phys Pierce damage reduction by 20%.",Self,16,,

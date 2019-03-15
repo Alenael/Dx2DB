@@ -1462,3 +1462,8 @@ Lv3: +10% to damage dealt using this skill.
 Lv4: +15% to damage dealt using this skill.
 Lv5: +20% to damage dealt using this skill.
 Lv6: +20% to damage dealt using this skill. MP cost of this skill -1.",All Enemies,,,
+passive,Phys Pierce [weak],,passive,"Gains Phys Pierce.Damage reduced by 70% if the enemy has Null, Repel or Drain Phys attribute.
+
+Lv2: Decreases Phys Pierce damage reduction by 5%.
+Lv3: Decreases Phys Pierce damage reduction by 10%.
+Lv4: Decreases Phys Pierce damage reduction by 20%.",Self,,,

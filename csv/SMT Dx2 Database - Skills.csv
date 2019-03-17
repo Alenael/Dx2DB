@@ -1455,7 +1455,7 @@ Lv3: +15% to Phys attack hit rate of this skill.
 Lv4: +20% to Phys attack hit rate of this skill.
 Lv5: +25% to Phys attack hit rate of this skill.
 Lv6: +25% to Phys attack hit rate of this skill. 10% chance of 2MP recovery when using this skill.",All Enemies,,,
-phys,Overture,,7 MP,"After inflicting Elec (Magic) damage (Power: 80) on all enemies, enters into a state of Concentrate, increasing next Mag attack damage by 125%. This skill will have Elec Peirce.
+elec,Overture,,7 MP,"After inflicting Elec (Magic) damage (Power: 80) on all enemies, enters into a state of Concentrate, increasing next Mag attack damage by 125%. This skill will have Elec Peirce.
 
 Lv2: +5% to damage dealt using this skill.
 Lv3: +10% to damage dealt using this skill.

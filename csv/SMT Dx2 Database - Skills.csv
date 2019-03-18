@@ -366,7 +366,6 @@ Element,Name,JP Name,Cost,Description,Target,Skill Points,Learned By,Transferabl
 "passive","Dmg Panel Immunity","毒床無効","Passive","Nullifies Damage Panels in the Aura Gate.","Self","8","",""
 "passive","Trap Free","ワナフーリ","Passive","-30% to damage received from Damage Panels in the Aura Gate, and nullifies Dark Zone effects.","Self","","",""
 "passive","Void Dark Zones","ダークゾーン無効","Passive","Nullifies Dark Zone effects in the Aura Gate.","Self","8","",""
-"passive","Deadly Poison","","Passive","+30% damage to Poisoned enemies.","Self","13","",""
 "passive","Fog of Death","","Passive","When an enemy is Weakened, reduces all enemy EV/AC by 20% (3 turns) and 100% chance to inflict Poison.","Self","","",""
 "passive","Call to Helheim","","Passive","When the demon with this skill downs an enemy, reduces all enemy ATK and DEF by 20%. (3 turns)","Self","","",""
 "almighty","Rattle","","9 MP","Inflicts Almighty (Magic) damage with 100 power on All Enemies and reduces all enemy EV/AC by 20% for 3 turns.\nLv2: +4% to damage dealt using this skill.\nLv3: +8% to damage dealt using this skill.\nLv4: +8% to damage dealt using this skill. MP cost of this skill -1.","All Enemies","12","",""

@@ -242,6 +242,7 @@
 "passive","Fire Pierce","火炎貫通","Passive","Fire attacks bypass resistances","Self","32","","","","",""
 "passive","Ice Pierce","氷結貫通","Passive","Ice attacks bypass resistances","","32","","","","",""
 "passive","Elec Pierce","電撃貫通","Passive","Elec attacks bypass resistances","Self","32","","","","",""
+"passive","Dark Pierce","電撃貫通","Passive","Dark attacks bypass resistances","Self","32","","","","",""
 "passive","Force Pierce","衝撃貫通","Passive","Force attacks bypass resistances","Self","32","","","","",""
 "passive","Resist Phys","物理耐性","Passive","Adds Phys Resist.","Self","12","","","","",""
 "passive","Resist Fire","火炎耐性","Passive","Adds Fire Resist.","Self","8","","","","",""

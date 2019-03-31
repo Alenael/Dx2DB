@@ -354,7 +354,7 @@ Element,Name,JP Name,Cost,Description,Target,Skill Points,Learned By,Transferabl
 "passive","Guards of Tartarus","???","Passive","While the demon with this skill is alive, all party members will receive the following effect: \nReduces damage received by 15% when the attacker attacks all party members.","Self","","","","","",""
 "passive","Curse of Distress","???","Passive","+10% damage to Cursed enemies. -10% damage from Cursed enemies.","Self","","","","","",""
 "passive","Curse of Anguish","???","Passive","+15% damage to Cursed enemies. -15% damage from Cursed enemies.","Self","","","","","",""
-"passive","Empress' Libido","","Passive","+25% damage to Charmed enemies. Has a 30% to Charm all enemies at the beginning of the 1st turn.","","","","","","",""
+"passive","Death Lust","","Passive","+25% damage to Charmed enemies. Has a 30% to Charm all enemies at the beginning of the 1st turn.","","","","","","",""
 "passive","Auto-Taruka","タルカオート","Passive","Casts Tarukaja at the beginning of the 1st turn.","Self","12","","","","",""
 "passive","Auto-Rakuka","ラクカオート","Passive","Casts Rakukaja at the beginning of the 1st turn.","Self","12","","","","",""
 "passive","Auto-Sukuka","スクカオート","Passive","Casts Sukukaja at the beginning of the 1st turn.","Self","12","","","","",""

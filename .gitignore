@@ -1,3 +1,4 @@
 *.db
 DemonData
 SkillData
+csv/Migration.sql

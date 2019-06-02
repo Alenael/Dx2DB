@@ -443,3 +443,5 @@ Element,Name,JP Name,Cost,Description,Target,Skill Points,Learned By,Transferabl
 "passive","Loyal God of War","","Passive","Adds Phys Pierce.\nActivates the following Chain Effect when the demon with this skill downs an enemy:\nRecovers 3 MP and heals own HP by 30%.\n\nLv2: +4% to AC.\nLv3:+6% to AC. \nLv4:+8% to AC. \nLv5:+10% to AC. \nLv6: +20% to AC.","","","","","","",""
 "physical","Dragon Blade","","7 MP","Inflicts Phys (Physical) damage (power: 150) with 30% crit rate on a single enemy. Activates the following Chain Effect when an attack is successful: Inflicts Phys (Physical) damage (power: 80) with 30% crit rate on all enemies.","Single Enemy","","","","","",""
 "passive","Null Mortal","","Passive","Adds Null Mortal.","Self","12","","","","",""
+"passive","Epitome of Aggression","","Passive","+15% to Phys hit rate, -45% chance of receiving status ailments.","Self","16","","","","",""
+"passive","Epitome of Madness","","Passive","+15% chance to inflict status ailments, +15% to EV.","Self","16","","","","",""

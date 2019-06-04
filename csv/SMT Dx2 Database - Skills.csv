@@ -445,3 +445,4 @@ Element,Name,JP Name,Cost,Description,Target,Skill Points,Learned By,Transferabl
 "passive","Null Mortal","","Passive","Adds Null Mortal.","Self","12","","","","",""
 "passive","Epitome of Aggression","","Passive","+15% to Phys hit rate, -45% chance of receiving status ailments.","Self","16","","","","",""
 "passive","Epitome of Madness","","Passive","+15% chance to inflict status ailments, +15% to EV.","Self","16","","","","",""
+"passive","Joy Song","","Passive","+15％ to Healing skill effectiveness.Activates the following Chain Effect when a Press Turn Icon is lost due to an enemy skill:All party members recover 1 MP.","Self","","","","","",""

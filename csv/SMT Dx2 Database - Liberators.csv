@@ -116,3 +116,10 @@ Xana,,,,,12,,Xana,"A Hollow emanated from the Aura. Unlike other Hollows, her wi
 [Always Strike First I - II] 5% - 10% chance of casting Rakunda on the first turn when attacking first.
 [Gotta Sterilize Demons!] 50% chance to inflict 10% fractional damage on all enemies based on their max HP (max: 1,000) at the end of own turn during Aura Gate 2 battles.
 [Here's the Main Event] Reduces MP use of your party members in the Aura Gate 2 by 1"
+Carbon Black,,12,,,,,Vinec,"Formerly a Dx2 of the Acolytes, Vince specializes in Physical attacks.\nAside from increasing physical damage, he also has support skills that can enhance Physical attacks.","Specializes in Physical attacks. Aside from increasing physical damage, Vince also has support skills that can enhance Phsyical attacks.","[Assist] -20% DEF of all enemies. (1 turn)
+[St Plus I - V] +3 - +5 - + 7 - + 10 - +12 to St of all party members
+[Hollow-point I - II] +5% - +10% damage to critical attacks of own party.
+[Backup I - II] Extends enemy DEF debuffs by 1 - 2 turn(s).
+[If Looks Can Kill I-III] 5% - 10% - 15% chance of casting Rakunda when entering a state of Might.
+[Counterattack I - III] 10% - 25% - 50% chance of casting Tarukaja when a party member is Muted.
+[Intimidation I - II] 5% - 10% chance of casting Tarunda at the beginning of enemy turn."

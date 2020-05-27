@@ -67,7 +67,7 @@ Red gives Killing Wind which circumvent Force Anti-Pierce such as Rama + Susano-
 Without Panel 2, his PVP and PVE tier rating are lower than 8.
 Expensive to fuse and only available in clear. Colored variants are Gacha exclusive.
 Only has pierce through Tempest."
-"Barong",TY,,6,4.5,4.5,"Barong Dance heals and buffs all stats.
+"Barong",TY,Any,6,4.5,4.5,"Barong Dance heals and buffs all stats.
 With max lvl + Divine Brands, it can be cast on PVP Turn 1.
 High AGI means, equipped with Speedster, he is suitable for PVP fast teams.
 Niche use in Aura Gate as giving him Support AI and keeping his MAtk low enough guarantees he'll heal you with Barong Dance no matter your HP.
@@ -76,7 +76,7 @@ Mediocre Magic and Bulk is bad as healer/support.
 Barong Dance is limited to 3 uses making him a bad healer for PVE Bossing.
 Panels are rather lackluster.
 Outclassed by better PVE support like Asherah and Amaterasu."
-"Bayonetta☆",P,,5,6,6,"Madama Stomp levels and Savage Glee in purple give her enormous crit rates.
+"Bayonetta☆",P,Any,5,6,6,"Madama Stomp levels and Savage Glee in purple give her enormous crit rates.
 Madama Stomp autocasts an Almighty attack that also charms whenever she lands a crit. Deals decent damage after being buffed to scale off her PATK.
 Recent buffs have made her a lot more viable. Panel 2 in particular gives her Pierce which she desperately needs.
 Gomorrah (B) has high base damage and crit chance, letting you delete an enemy and charm the rest of the team.","Gomorrah (B) takes two turns to charge: impossible to use T1.
@@ -84,7 +84,7 @@ Difficult to build due to Gomorrah (B) scaling off both PATK and MATK.
 Mediocre overall stats, bad bulk.
 Absolutely requires at least P2 to have any relevancy in PVP: get a PVP rating much lower than 6 if not paneled.
 No longer meme&#160;:("
-"Black Frost",,,7,5,5,"High Magic stat and innate Pierce on Go to Hell! makes him a good magic sweeper.
+"Black Frost",Any,Any,7,5,5,"High Magic stat and innate Pierce on Go to Hell! makes him a good magic sweeper.
 Curse of Anguish and Panels pair well with Yama who automatically curses everyone at the start of the Boss wave.
 Yellow gains access to Concentrate to further increase his sweeping potential.
 His innate Mabufudyne and Ice Amp (in Purple) is excellent for Democalypse.","Light Weakness
@@ -119,12 +119,12 @@ Magna Mater provides a team-wide Fire damage boost, incredible for Democalypse.
 Innate Merciless Blow further increases her Democalypse potential.","Heavy fire specialisation + lack of Fire Pierce means she will struggle against Fire NDR.
 In PVP, Fire Pierce (weak) is insufficient due to the popularity of Asherah and Rama
 Expensive multi-fusion that requires clear Asherah."
-"Daisoujou",,P,8,9,8,"Preach makes him immune to all ailments and will punish enemy teams attempting to use Charm. Cleansing Shout is an Ailment and Debuff Cleanse packed into one skill. This makes him the best Counter to Ailments.
+"Daisoujou",Any,P,8,9,8,"Preach makes him immune to all ailments and will punish enemy teams attempting to use Charm. Cleansing Shout is an Ailment and Debuff Cleanse packed into one skill. This makes him the best Counter to Ailments.
 Good stats, no weaknesses and perfect base kit allow freedom in builds.
 Can work as a bulky tank, evasion tank, healer and/or revive support based on build.
 Very useful for Brands of Sin Sloth 11 auto-runs.","Gacha Exclusive
 Is a hard support unit, relies on transfer skills to offer anything outside cleanse."
-"Dante☆",,RP,5,5,5,"High Str plus Auto-Rebellion from Rapid Shot makes him a good Phys Sweeper.
+"Dante☆",Any,RP,5,5,5,"High Str plus Auto-Rebellion from Rapid Shot makes him a good Phys Sweeper.
 Very bulky with no weaknesses.
 Million Stab is a multihit AOE skill, breaking Endures and piercing while in Might.
 Pairs well with Hell Biker for free Rebellion setup.
@@ -157,7 +157,7 @@ Brilliant Wings fits well in an evasion based team together with Nekomata A.
 Gale Talon is very damaging against lone targets like Bosses, making him very potent for Democalypse.","Needs a team built around him to be really effective
 Useless against Magic teams
 Gale Talon takes time to reach full potential, reducing his T1 potential."
-"Garuda",,YRP,8,8,8,"One of the fastest and most flexible demons in the game. Good set of resistances plus battlespeed makes him useful for most PVE content including Aura Gate and Brands of Sin Vanity 11.
+"Garuda",Any,YRP,8,8,8,"One of the fastest and most flexible demons in the game. Good set of resistances plus battlespeed makes him useful for most PVE content including Aura Gate and Brands of Sin Vanity 11.
 Auto-Rakunda: excellent offensive skill that synergizes with his Turn 1 focus.
 Vahana, excellent defensive passive. Allows dodge-tank builds or even cleric ones if Prayer is transferred.
 Red gives him access to 6-MP Maragidyne, giving him a Turn 1 nuke.
@@ -224,7 +224,7 @@ Easy 4x4 fusion paths and good panels make her a decent P3 goal to strive toward
 Mesopotamian Star has low base power.
 2 weaknesses
 Low AGI stat and bad bulk."
-"Ixtab",,YRP,5,8,6,"Yaxche autocast is almighty Mortal spell and ignores Endure-type skills.
+"Ixtab",Any,YRP,5,8,6,"Yaxche autocast is almighty Mortal spell and ignores Endure-type skills.
 You can leave her at Lv 1 to bait the AI into killing her and trigger Yaxche. Use teammates with Revive to repeat this cycle. Nidhoggr is perfect for this.
 At Lv 1, she works well in Intimidating Stance Teams as she'd lower Battle Speed.
 Yellow gives her a good Ailment skill to spam.
@@ -251,13 +251,13 @@ Mortal Jihad plus Great Aim means he will rarely miss, while having a good crit 
 No weaknesses and innate Speedster gives him great flexibility over transfer slots and lets him fulfill a variety of roles.
 Important demon in the Hero Masakado T1 strategy, one of the strongest strategy.","No innate pierce means he will have trouble with Tetra Shift, unless you inherit Phys Pierce (weak).
 Very expensive to fuse and panel."
-"Lakshmi",,TP,5,5,5,"Extremely high Magic and Luck stats allow her to be built as either a Sweeper or an Ailment inflictor.
+"Lakshmi",Any,TP,5,5,5,"Extremely high Magic and Luck stats allow her to be built as either a Sweeper or an Ailment inflictor.
 Her High Luck, Insanity combined with Lotus Dance's high Charm rate virtually guarantees she will Charm everything that does not Null it.
 P3 allows her to generate MP for the team, enabling certain first-turn kill strats like Shiva A.","Force weakness
 Lack of good innate offensive skills wastes her sweeper potential.
 Countered very hard by Daisoujou clearing her charms and punishing her for using them.
 Very bad bulk"
-"Lilith",,C,4.5,6,6.5,"Two strong Dark and Elec AOE skills.
+"Lilith",Any,C,4.5,6,6.5,"Two strong Dark and Elec AOE skills.
 Decent Magic allows her to deal damage while also inflicting ailments on the enemy.
 P3 casts a teamwide Bind whenever an enemy is charmed, and can be triggered multiple times per turn.
 Easy 4x4 fusion paths and good panels make her a decent P3 goal to strive toward.","No pierce, requires Dark Pierce (weak) to really shine.
@@ -296,7 +296,7 @@ High MP-cost skills.
 Expensive to fuse, and needs to be Panel 3 to become good in Late PvE.
 Middling AGI means he does not fit slow or fast PvP teams.
 Get countered hard by Anti-Pierce units like Rama, Alilat and Atavaka in PvP."
-"Masakado A",,P,9,9,10,"Guardian of the East provides 1 extra Press Turn when going first. Press Turn generation is in general very strong.
+"Masakado A",Any,P,9,9,10,"Guardian of the East provides 1 extra Press Turn when going first. Press Turn generation is in general very strong.
 Kuyo Flash can be cast 1st PVP turn and swings insane offensive buffs and debuffs.
 Ultimate Demon for PVP Defense Teams targetting people who Random Battle.
 Used in the most fearsome PVP Defense Teams: the Hero Masakado T1.","Easily countered by outspeeding.
@@ -329,12 +329,12 @@ Yellow gives him access to discounted Mediarahan, allowing him to double as a Pv
 Good set of resistances for early PvE, especially in Teal.","No innate Pierce and mediocre Stats
 High STR stat is wasted on a Mage.
 Needs good transfers and/or panels to boost Damage."
-"Mot",,YRP,5,7,6,"His high bulk pairs well with Harmonious Death which is strong in extended fights.
+"Mot",Any,YRP,5,7,6,"His high bulk pairs well with Harmonious Death which is strong in extended fights.
 Harmonious Death makes Mot a must-have in Prelim Parties for Democalypse.
 Has two strong AOE spells.
 Amazing set of panels that provide him MP reduction, Null Mortal and even more Press Turns.","Elec weakness
 High MP costs"
-"Mother Harlot",,T,5,8,8,"Babylon Goblet drains MP from all enemies while providing her MP sustain, allowing her to loop the same attack over and over even without Divine Brands.
+"Mother Harlot",Any,T,5,8,8,"Babylon Goblet drains MP from all enemies while providing her MP sustain, allowing her to loop the same attack over and over even without Divine Brands.
 Teal gives her Drain Phys, ideal for pairing with Rama. Notably, she is the only Drain Phys unit that can function as a magic sweeper.
 Has access to discounted Debilitate in Yellow, letting her play a more support role if needed.
 Works very well with slow Ailment teams. When paired with a P3 Samael or her own P1, Death Lust lets her charm without consuming press turns, and increases her damage dealt.","Force weakness
@@ -349,7 +349,7 @@ Is a very strong set up based sweeper.","Ailments fall flat in late/endgame PvE 
 Hard countered by Ailment Cleansers like Daisoujou or Kinmamon in PVP.
 AGI too low for Ailment Teams standards.
 P3 Samael offers similar barrier break without consuming a Press Turn. This is vital versus double Intimidating Stance Teams, as Nergal consuming a Press Turn means you are left with a single Press for casting a true ailment."
-"Nero☆",,RP,8,6,6,"Overture deals Piercing damage while giving him free Concentrate, letting him sweep hard.
+"Nero☆",Any,RP,8,6,6,"Overture deals Piercing damage while giving him free Concentrate, letting him sweep hard.
 Voltage synergises perfectly with Overture and gives your party attack and accuracy/evasions buffs.
 Very good for Democalypse where he does not have to worry about MP issues and can repeatedly spam Concentrated Overtures while on Spell Brands for insane damage.","Hard countered by Anti-Pierce, as Overture will not autocast Concentrate (and by extension Voltage) if the attack hits into NDR.
 Mediocre stats, relies on Concentrate from Overture to deal damage.
@@ -373,7 +373,7 @@ Pestilence only kicks in at the end of enemy's turn, giving them one whole turn 
 Requires a specific team built around him to really work.
 P1 and P2 don't contribute to the Ailment build.
 Not obtainable through the general gem banner or the summon files."
-"Quetzalcoatl",,TP,4,6,6,"Usually run as a support demon. Ce Acatls' Return is an incredible ressurection spell that brings all fallen party members back to life.
+"Quetzalcoatl",Any,TP,4,6,6,"Usually run as a support demon. Ce Acatls' Return is an incredible ressurection spell that brings all fallen party members back to life.
 Repel Phys in Teal pairs well with Alilat or Atavaka as an Anti-Pierce unit.
 Has 2 strong AOE spells, 3 if in Red.","High MP costs
 Dark weakness
@@ -384,7 +384,7 @@ Pairs well with Rama as he has Drain Fire. It counters Archangels (PVP) Team.
 Red gives him access to discounted Trisagion, useful versus Fire Anti-Pierce.","Ce Acatl press turn generation only cancels out the lost press turn from his death.
 Dark is a bad weakness to have: Alice and Hecate are very common in high PVP.
 Purple has troubles versus Fire Anti-Pierce like Atavaka-Vairocana or Rama-Surt."
-"Rama",,TYP,8,9,9,"While alive, Drain Pierce will prevent pierce skills from going through Drain resistances. This is very useful when combined with demons that have high innate Drain (like Shiva) or against popular attack elements like Physical.
+"Rama",Any,TYP,8,9,9,"While alive, Drain Pierce will prevent pierce skills from going through Drain resistances. This is very useful when combined with demons that have high innate Drain (like Shiva) or against popular attack elements like Physical.
 Drain Pierce makes him the center of Drain Teams, a Metagame PVP Team.
 Brahmastra is a three-hit Almighty skill that functions as an Endure-breaker.
 Yellow Rama can function as a good support demon with discounted Luster Candy.
@@ -475,7 +475,7 @@ Great set of Transferable skills and only source of Death Blow and Auto-Rebellio
 Without Panel 2 and/or Auto-Rebellion transfered, he would get a PVP rating around 6 or less.
 Only has pierce through Amakusa Uprising, no Piercing AOE.
 Needs accuracy investment for PVP, as Amakusa Uprising can miss."
-"Trumpeter",,YRP,5,6.5,6.5,"Apocalypse deals strong Almighty AOE damage while having a high mute chance for a low MP cost.
+"Trumpeter",Any,YRP,5,6.5,6.5,"Apocalypse deals strong Almighty AOE damage while having a high mute chance for a low MP cost.
 Access to Concentrate to further increase his damage.
 No weaknesses and 2 Nulls give him a lot of flexibility in skill transfers.","Mute from Apocalypse is blocked by Barrier, requires a teammate with Barrier Break or P2 to effectively work.
 Apocalypse does not get higher damage from leveling up the skill or from Panels, and as an Almighty skill can only be boosted by passives such as Butcher, Serial Killer...
@@ -510,7 +510,7 @@ Healing and MP reduction from Panels further his tanky Mage role.","Low AGI.
 Fire weakness.
 Low damage output compared to Top Tier demons.
 Needs heavy investment from Brands and Panels to become really effective."
-"V☆",,YR,5,8,8.5,"Griffon-Bolt is borderline oppressive when combined with Turn 1 teams with lots of Crit passing for Press Turn generation. Good teammates include Masakado A, Asura Lord and Kartikeya.
+"V☆",Any,YR,5,8,8.5,"Griffon-Bolt is borderline oppressive when combined with Turn 1 teams with lots of Crit passing for Press Turn generation. Good teammates include Masakado A, Asura Lord and Kartikeya.
 Will virtually never have MP issues thanks to Shadow-Shock giving him a free Almighty ST attack.
 Balanced stats and no weaknesses give him flexibility in transfer skills.
 Red and Yellow give him an Almighty AOE skills that debuffs.

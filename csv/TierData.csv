@@ -177,12 +177,16 @@ Heal on weakness gimmick is heavily punished by Black Rider.
 No innate pierce and is a bad choice for Hell Gongen due to his AGI.
 As a sweeper, he is quite subpar. Prefer a support build."
 "Guan Yu",TR,TP,8,9,9,"No weaknesses and high VIT stats make him very tanky, especially with Life Brands.
-High STR and native Phys Pierce make him a physical powerhouse.
+Hit extremely hard and has Pierce Phys.
 Loyal God of War refunds MP and heals him on a kill, giving him insane amounts of self-sustain.
-Innate Savage Glee lets him Crit and generate Press Turns effectively, especially if given Epitome of Carnage or paired with Crit boosters like Asura Lord or Kartikeya.
+Very high innate crit rate (passive + unique attack), transfer him Epitome of Carnage or pair him with Crit boosters like Asura Lord or Kartikeya to make him a Crit Machine.
 Null Mortal in Purple, Drain Phys for pairing with Rama in Teal, Red for pure PvE.","Low Agi stat means he will have accuracy issues. Dragon Blade's chain effect will not activate if it misses on the first target.
 Highly dependant on the first kill for tempo. Failing to secure the first kill will result in him not having enough MP for the next turn.
-Only has ST skills unless in Red, which reduces his overall PvP usefulness"
+No true AOE unless Red, reducing his overall PvP usefulness."
+"Guts",P,P,8.5,6.5,6.5,"Extremely high innate critical rate thanks to innate Savage Glee and The Struggler.
+Dragon Slayer does massive AOE Piercing Physical damage and bypasses Endure effects. This is further augmented by Butcher in purple and his naturally high crit rate.
+Is decently tanky thanks to good bulk and The Struggler providing him a better Enduring Soul.
+Panel 1 synergizes well with his bulk and gives him access to another AOE.","Lack of ST skills unless Red"
 "Hecate",TP,TP,8,8,8,"Hell's Trivia is a cheap, hard-hitting spell that also functions as an Endure breaker. Coupled with her respectable Mag stat and Dark Enhancement in purple, she can be built as a powerful dark mage.
 Virtually immune to ailments thanks to Null Bind and Lunar Awakening.
 Transferring Prayer or Silent Prayer makes her a cleanser with offensive ability.
@@ -217,12 +221,12 @@ High Burst Damage in Lightning Shower, which refunds MP on kill allowing him to 
 Casts Five Elements on kill, which completely walls off Almighty attackers like Mother Harlot.
 Maxed Lightning Shower lets him use Spell Brands and still cast it Turn 1 in PvP","Highly dependant on the first kill for tempo. Failing to kill will result in MP Problems.
 Ice Weakness (Sort of mitigated by Five Elements on kill, but beware pierce users as well as being outsped)"
-"Ishtar",TYR,TY,5,4,4,"Extremely high magic, combined with her Panels make her one of the strongest magic sweepers in the game.
+"Ishtar",TYR,TY,5,4,4,"Extremely high magic, combined with her Panels, compensates her lack of high damage attacks.
 Her unique spell Mesopotamian Star deals Almighty damage while autocasting Tarukaja and Tarunda. At Panel 3, this further applies Rakukaja and Sukukaja.
 Gains Concentrate in Yellow, letting her nuke even harder.
-Easy 4x4 fusion paths and good panels make her a decent P3 goal to strive toward.","Very high MP costs
+Easy 4x4 fusion paths and good panels.","Very high MP costs.
 Mesopotamian Star has low base power.
-2 weaknesses
+2 weaknesses.
 Low AGI stat and bad bulk."
 "Ixtab",Any,YRP,5,8,6,"Yaxche autocast is almighty Mortal spell and ignores Endure-type skills.
 You can leave her at Lv 1 to bait the AI into killing her and trigger Yaxche. Use teammates with Revive to repeat this cycle. Nidhoggr is perfect for this.
@@ -334,6 +338,10 @@ Harmonious Death makes Mot a must-have in Prelim Parties for Democalypse.
 Has two strong AOE spells.
 Amazing set of panels that provide him MP reduction, Null Mortal and even more Press Turns.","Elec weakness
 High MP costs"
+"Mozgus",TR,TY,4,5,5,"The only unit in the game that has a Critical Counter, God 1000 Fist Cannon will unleash a random barrage of piercing Physical attacks whenever the enemy scores a crit.
+Extremely high bulk and damage reduction from Bloody Scripture make him a powerful tank. Building him as a tank also increases God 1000 Fist Cannon and Muscle Punch damage, as they both depend on Phys DEF for damage. Earthquake in red furthers this synergy.
+Yellow gives him access to discounted War Cry, letting him play a support role if required.","Does not have Pierce outside of God 1000 Fist Cannon.
+Needs a lot of Accuracy investment due to bad AGI."
 "Mother Harlot",Any,T,5,8,8,"Babylon Goblet drains MP from all enemies while providing her MP sustain, allowing her to loop the same attack over and over even without Divine Brands.
 Teal gives her Drain Phys, ideal for pairing with Rama. Notably, she is the only Drain Phys unit that can function as a magic sweeper.
 Has access to discounted Debilitate in Yellow, letting her play a more support role if needed.
@@ -407,9 +415,15 @@ Not obtainable through the general gem banner or the summon files."
 Infinite Chakra helps to reduce MP requirements, allowing him to spam God's Malice.
 P3 is insanely powerful, providing free Barrier Break and Makara Break at the start of turn without consuming Press Turns.
 Great set of Panels that provide additional Ailment Infliction, reduce MP costs and the aforementioned breaks. Easy 4x4 fusion paths make him a good P3 goal to strive toward.
-Mana Aid is a great transfer skill.","Elec weakness
+Mana Aid is a great transfer skill.","Elec weakness.
+NEEDS Panel 3, without it he is worth 4 or less in PVP
 Countered very hard by Daisoujou clearing his ailments and punishing him for using Charm.
 Middling AGI hurts battle speed for fast Ailment teams."
+"Schierke",Any,Any,5,4,4,"Summon Elementals debuffs a fixed stat depending on Element. The Rakunda effect from Fire Elemental Summon makes her particularly good for Fire Democalypse.
+Access to three elements and innate Mana Aid makes her a useful PvE and Democalypse sweeper.","You are at the AI's Mercy on which Element gets casted.
+Summon Elementals is only useable once every two turns.
+Both her skills have levels, making her a very costly investment Kasane-wise.
+No pierce on Elemental Magic."
 "Seraph",C,C,5,2,2,"Very high Magic stat, combined with Garden of Eden and Merciless Blow lets him hit weaknesses hard.
 Innate Trisagion and Thunderclap deal massive damage when targeting weakness.
 Garden of Eden provides a teamwide boost to damage on hitting weakness, making him perfect for Democalypse.
@@ -441,6 +455,12 @@ Drain Phys and no weaknesses makes him an ideal demon to pair with Rama in Drain
 Panels give him much needed Phys Pierce and reduces the damage from piercing Phys attacks.","Heavily reliant on panels; without P2, his Offense PVP rating is much lower than 8.
 No AOE outside of Red.
 Mediocre AGI and LUK stats."
+"Skull Knight",TP,TP,8,8.5,9,"Demons die when they are killed by Sword of Actuation, unable to be revived. This makes him a powerful counter to Revive team/strats.
+Sword of Actuation has a ridiculously low MP cost at max level (5 MP) - Even without Panels it can be cast Turn 1 with War Brands. Panel 2 further reduces it to 4 MP, allowing it to be cast twice on Turn 1.
+Foe of Demons defensively buffs your team at the start of your opponent's turn, increasing your odds of surviving.
+Repel Phys in Teal makes him a good partner for Alilat and Atavaka.","Difficult to boost Sword of Actuation further due to it being Almighty Phys.
+Requires a good team setup around him to truly shine. His PVP rating drops if he is not paired with optimal teammates.
+Middling AGI makes him slightly awkward to fit in fast or slow teams."
 "Surt",CP,C,5.5,7,7,"Great demon for slow teams, as he provides Intimidating Stance and Tetra Shift.
 Ragnarok hits like a truck and has an MP refund when maxed.
 Purple provides Fire Pierce if preferred for PVE.","Ice weakness

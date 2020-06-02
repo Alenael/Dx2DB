@@ -27,7 +27,7 @@ Relies heavily on transfer skills to function well. Unfortunately most good tran
 "Anat",P,CRP,8,8.5,8.5,"Thunderstorm is an extremely powerful piercing AOE.
 High MAG stat, passive skills and Panels further her AOE DPS.
 Killer Impulse may add another layer of damage.
-Red gives Thunder Reign which can circumvent Elec Anti-Pierce such as Rama + Mother Harlot. Note that it does not pierce though!","Ice weakness
+Red gives Thunder Reign which can circumvent Elec Anti-Pierce such as Rama + Mother Harlot. Note that it does not pierce though!","Force weakness
 Without Panel 2, her PVP and PVE tier rating are lower than 8.
 Expensive to fuse and only available in clear. Colored variants are Gacha exclusive.
 Only Thunderstorm and Killer Impulse have pierce."
@@ -38,12 +38,14 @@ Innate Mediarama and Recovery Amp in purple makes her a good healer for PVE.","H
 Two weaknesses to common attacking elements.
 Low AGI means she will need Lead Brands or even slower teammates to work as a Ailment cleanser.
 Resurrection is not useful in PVE as your demons are not supposed to die. Healing is also subpar in PVE."
-"Asura",TR,TP,8,5,5,"High STR and Ashura are devastating once/if the Boss is alone.
+"Asura",TR,T,8,5,5,"High STR and Ashura are devastating once/if the Boss is alone.
 Three Faces Six Arms and his good innate bulk are the perfect counter to skills like Fire of Sinai and Griffon-Bolts.
 Extremely strong for Phys Democalypse.
-Mana Aid is fantastic for PVE farming as it lets him spam Ashura between waves.
-Single-handedly trivializes Brands of Sin Deceit 11.","As nothing in his kit provides damage, damage booster transfers are mandatory.
-Random Targetting makes him unusable in PvP. Using Ashura against Masakado means your death."
+Mana Aid is fantastic for PVE farming as it lets him spam Ashura.
+Single-handedly trivializes Brands of Sin Deceit 11.
+Repel Phys in Teal and high VIT make him a good PVP offensive-support in Repel Teams if transferred support/revive skills.","As nothing in his kit provides damage, damage booster transfers are mandatory.
+His only Piercing attack being Random Target makes him near unusable in PvP. Using Ashura against Masakado means your death.
+Underwhelming even as a support demon in Repel Teams."
 "Asura Lord",TRP,TRP,9,8.5,9,"Very high ST damage that also generates press turns thanks to his high Crit Rate.
 Slaughter All is fully unblockable and ignores Endure-type skills, allowing you to delete key demons in PVP.
 Endless War passively increases Crit Rate and Crit Damage of the team. Paired with Kartikeya, the total is +40% Crit Rate.
@@ -99,13 +101,13 @@ Decent Magic stat and good Panels can make him a strong Ice mage.","Soul Divide 
 Healing is not very common rendering his utility niche at best.
 Needs Panels (especially P2) to be an effective Mage."
 "Cu Chulainn",P,P,6,6,6,"Best budget pierce sweeper, he can be fused cheaply through 4x4 fusions.
-One of the best demons to fuse early as he will trivialize a lot of early content.
+One of the best demons to fuse early: trivializes early PVE.
 No weaknesses reduce reliance on transfer skills.
-Panels help him maintain relevance late game. It is cheap to Panel him.
+Panels maintain his relevance late game. He's cheap to Panel.
 While not common, he can be run as a physical nuker to some degree. He has innate Savage Glee and Gae Bolg hits hard against bosses (especially after Panels).
 Low AGI makes him useable in Intimidating Stance teams.","High MP costs, cannot sweep Turn 1 in PVP unless P3.
 Mediocre Magic stat: needs passives to be transferred for decent damage.
-No ST attacks means he will have trouble against Anti-Force-Pierce in PVP.
+No Single-Target attack: he will have trouble against Anti-Force-Pierce like Rama + Susano-o A, popular in PVP.
 Low AGI and LUK hinders his Phys potential."
 "Cu Chulainn A",TR,TP,8.5,8.5,8.5,"Has full pierce on two elements.
 Barbed Spear deals three separate hits, allowing it to function as an Endure breaker. He is a good candidate for Hero Masakado T1
@@ -124,20 +126,20 @@ Good stats, no weaknesses and perfect base kit allow freedom in builds.
 Can work as a bulky tank, evasion tank, healer and/or revive support based on build.
 Very useful for Brands of Sin Sloth 11 auto-runs.","Gacha Exclusive
 Is a hard support unit, relies on transfer skills to offer anything outside cleanse."
-"Dante☆",Any,RP,5,5,5,"High Str plus Auto-Rebellion from Rapid Shot makes him a good Phys Sweeper.
+"Dante☆",Any,RP,5,4,4,"High Str plus Auto-Rebellion from Rapid Shot makes him a good Phys Sweeper.
 Very bulky with no weaknesses.
 Million Stab is a multihit AOE skill, breaking Endures and piercing while in Might.
-Pairs well with Hell Biker for free Rebellion setup.
-Meme","Low AGI and LUK affects his accuracy.
+Pairs well with Hell Biker for free Rebellion setup.","Low AGI and LUK affects his accuracy.
 Will not autocast Rebellion if any of his Rapid Shot misses.
-Mediocre Awakening skills."
-"Fafnir",T,TP,4,5,5,"Innate Drain Phys makes him usable in Drain Teams.
-High STR. Dragon Sense provides him additional accuracy and evasion.
-Golden Greed increases poison damage ticks, dealing consistent damage each turn.","Ailments generally fall flat in late/endgame PvE because of inflated enemy stats.
-Hard countered by Ailment Cleansers like Daisoujou or Kinmamon in PVP.
+Million Stab is high MP-cost and need difficult setup to Pierce.
+This is bad in PVP to the point it's probably better to use Megaton Raid and a transferred Hades Blast in a Hell Gongen Teams than playing him as it was intended with Rapid Shot and Million Stab."
+"Fafnir",T,T,4,4.5,4.5,"Innate Drain Phys makes him usable in Drain Teams.
+Dragon Sense provides him additional accuracy and evasion.
+Golden Greed highly increases poison damage.","In PvP Drain Teams, can at most be a mediocre support.
 2 Weaknesses.
-Blight has low base damage.
-Is outclassed pretty much in every way by Pale Rider as a Poison caster."
+Ailments fall flat in late PvE because of inflated enemy stats.
+Hard countered by Ailment Cleansers like Daisoujou in PVP.
+Comprehensively outclassed by Pale Rider as Poison caster."
 "Frost Ace",P,RP,6,6,6,"Very good Ice Nuker with built-in Ice Boost and Master Assassin in purple.
 Good Ice sweeper with Mabufula in red
 Vengeful Frost Fist is a heavy hitting Ice-element Physical attack that can Crit and autocasts Rebellion on hit. This allows him to crit infinitely at the cost of a measly 4 MP.
@@ -157,15 +159,13 @@ Brilliant Wings fits well in an evasion based team together with Nekomata A.
 Gale Talon is very damaging against lone targets like Bosses, making him very potent for Democalypse.","Needs a team built around him to be really effective
 Useless against Magic teams
 Gale Talon takes time to reach full potential, reducing his T1 potential."
-"Garuda",Any,YRP,8,8,8,"One of the fastest and most flexible demons in the game. Good set of resistances plus battlespeed makes him useful for most PVE content including Aura Gate and Brands of Sin Vanity 11.
-Auto-Rakunda: excellent offensive skill that synergizes with his Turn 1 focus.
+"Garuda",Any,YRP,8,7.5,7.5,"One of the fastest and most flexible demons in the game. Good set of resistances plus battlespeed makes him useful for most PVE content including Aura Gate and Brands of Sin Vanity 11.
+Auto-Rakunda: excellent offensive skill for Turn 1 Teams.
 Vahana, excellent defensive passive. Allows dodge-tank builds or even cleric ones if Prayer is transferred.
-Red gives him access to 6-MP Maragidyne, giving him a Turn 1 nuke.
-Yellow makes him more support-oriented with Fog Breath.
-Purple gives him extra damage range for easier Turn 1 Damage.
-Easy 4x4 fusion paths and good panels make him worth the fusion(s).","Does not have Speedster innately, requires a transfer which in turn reduces his skill slots.
-Ice weakness
-One of the lowest bulk in the game."
+Red gives 6-MP Maragidyne, allowing him a Turn 1 nuke.
+Yellow makes him more support-oriented with Fog Breath.","Doesn't have innate Speedster: you must use a transfer slot for it.
+Very low bulk and has an Ice weakness.
+Is outclassed by Hresvelgr in PVP Turn 1 Teams."
 "Gogmagog",TR,CTR,7.5,7,6,"Very high bulk and innate Earthquake lets him hit hard off that bulk.
 Three weaknesses makes him a good partner for Orcus.
 Less competition for Brands compared to your other demons, as he relies on PDEF for damage.
@@ -183,15 +183,16 @@ Very high innate crit rate (passive + unique attack), transfer him Epitome of Ca
 Null Mortal in Purple, Drain Phys for pairing with Rama in Teal, Red for pure PvE.","Low Agi stat means he will have accuracy issues. Dragon Blade's chain effect will not activate if it misses on the first target.
 Highly dependant on the first kill for tempo. Failing to secure the first kill will result in him not having enough MP for the next turn.
 No true AOE unless Red, reducing his overall PvP usefulness."
-"Guts",P,P,8.5,6.5,6.5,"Extremely high innate critical rate thanks to innate Savage Glee and The Struggler.
-Dragon Slayer does massive AOE Piercing Physical damage and bypasses Endure effects. This is further augmented by Butcher in purple and his naturally high crit rate.
-Is decently tanky thanks to good bulk and The Struggler providing him a better Enduring Soul.
-Panel 1 synergizes well with his bulk and gives him access to another AOE.","Lack of ST skills unless Red"
-"Hecate",TP,TP,8,8,8,"Hell's Trivia is a cheap, hard-hitting spell that also functions as an Endure breaker. Coupled with her respectable Mag stat and Dark Enhancement in purple, she can be built as a powerful dark mage.
-Virtually immune to ailments thanks to Null Bind and Lunar Awakening.
+"Guts",P,P,8.5,7,7,"Very high Crit rate thanks to Savage Glee and The Struggler.
+Dragon Slayer does insane AOE Piercing Physical damage and bypasses Endure-type skills. It can also be cast Turn 1 due to its low MP cost.
+Butcher in purple further augments his damage.
+Excellent set of Panels that give him access to a Piercing Fire AOE chain, Phys Pierce and more damage.","Having no innate ST skills means he will be walled by Drain Teams. It is recommended to pair him with demons like Alice to eliminate Phys Anti-Pierce demons that prevent him from sweeping.
+No natural Pierce outside P2 might cause issues when out of MP."
+"Hecate",TP,TP,8,9,9,"Hell's Trivia is a cheap, hard-hitting spell that also functions as an Endure breaker. Coupled with her respectable Mag stat and Dark Enhancement in purple, she can be built as a powerful dark mage.
+Null Bind and Lunar Awakening make her immune to ailments.
 Transferring Prayer or Silent Prayer makes her a cleanser with offensive ability.
 Innate Repel Dark means she can't be sniped by Alice if paired with Alilat or Atavaka. This hard-counters people who use Ailment Teams for Random PVP Battles.
-Amazing Panels: P2 lets her run Life or Spell Brands while not worrying about MP.","Not very bulky. Light weakness is dangerous in the Archangels matchup.
+Amazing Panels: with P2 you don't worry about running out of MP.","Not very bulky. Light weakness is bad against Archangels.
 Lunar Awakening only triggers at the end of the enemy's turn. This makes her useless for Brands of Sin Sloth 11, as the ailments trigger at the beginning of the turn."
 "Hresvelgr",RP,YRP,8,8,8,"Highest Base AGI and +20% to his Battle Speed on Panel 3: invaluable for fast teams.
 His unique North Wind deals AOE Ice damage whenever an opposing demon dies. This adds to the damage of fast Turn 1 teams and allows him to clear Endures.
@@ -199,16 +200,13 @@ Auto-Rakunda in Purple further increases Turn 1 kill potential.
 Decent MAG with innate Ice Boost lets him fire off strong Bufudynes.","No ice pierce.
 No innate Speedster. You MUST transfer it to him.
 2 weaknesses. Phys weakness is particularly bad."
-"Huang Di",R,RP,8,6,6,"Superior Power gives him Phys Pierce and an accuracy boost.
+"Huang Di",R,RP,8,5.5,5,"Superior Power gives him Phys Pierce and an accuracy boost.
 Yinglong Killer hits incredibly hard and has a high crit rate, demolishing teams without anti-Pierce.
-Extremely good PvE demon if you can Panel him.
-No weaknesses","Needs to rely on transfer skills to increase his damage.
+Extremely good PvE demon if you can Panel him.","Needs to rely on transfer skills to increase his damage.
 Lack of ST skills unless Red.
-High MP costs.
 AI is very unreliable for defense; will occasionally Yinglong Killer into Anti-Pierce and lose press turns.
-No longer the absolute nightmare he was on release, needs Panels to keep up with newer demons."
-"Huang Long",YP,YP,8,5,5,"High AGI means that combined with Speedster he can greatly boost your battle speed.
-Combined with his decent MAG: makes him a suitable candidate for a fast mage pvp team.
+Middling AGI, low bulk and his only excellent attack being 7MP mean he can't fit in well-built PvP Teams."
+"Huang Long",YP,YP,8,4.5,4.5,"High AGI means that combined with Speedster he can greatly boost your battle speed.
 Five Elements walls magical demons without Pierce, such as Mother Harlot, Masakado A and non-purple Rama.
 Luster Candy in Yellow gives him even more support utility in buff control.
 Trivializes Brands of Sin stage 10, opening up brand farming on Auto.","Pierce destroys him through Five Elements.
@@ -357,7 +355,7 @@ Is a very strong set up based sweeper.","Ailments fall flat in late/endgame PvE 
 Hard countered by Ailment Cleansers like Daisoujou or Kinmamon in PVP.
 AGI too low for Ailment Teams standards.
 P3 Samael offers similar barrier break without consuming a Press Turn. This is vital versus double Intimidating Stance Teams, as Nergal consuming a Press Turn means you are left with a single Press for casting a true ailment."
-"Nero☆",Any,RP,8,6,6,"Overture deals Piercing damage while giving him free Concentrate, letting him sweep hard.
+"Nero☆",Any,RP,8,6,5,"Overture deals Piercing damage while giving him free Concentrate, letting him sweep hard.
 Voltage synergises perfectly with Overture and gives your party attack and accuracy/evasions buffs.
 Very good for Democalypse where he does not have to worry about MP issues and can repeatedly spam Concentrated Overtures while on Spell Brands for insane damage.","Hard countered by Anti-Pierce, as Overture will not autocast Concentrate (and by extension Voltage) if the attack hits into NDR.
 Mediocre stats, relies on Concentrate from Overture to deal damage.
@@ -365,12 +363,13 @@ No ST skills if not in Red.
 High MP costs and no MP recovery prevent him from spamming his spells freely.
 Limited-time Collaboration unit, unlikely to return in the future.
 As such, he has no Panels, meaning he is missing a lot of potential power."
-"Orcus",TY,TY,6,8,8,"Very good bulk and survivability thanks to Hell's Gate providing AOE reduction.
+"Orcus",TY,TY,6,8.5,8,"Very good bulk and provide AOE reduction with Hell's Gate.
 Law of Hell and Hell's Gate pair well with demons with multiple weakness like Asherah and Hecatoncheires. Not only does it save them a transfer slot for covering weakness, it also provides the team additional AOE reduction.
-Very good buff control with innate War Cry and Nocturne in Yellow.
-Law of Hell eliminates his need to cover weaknesses. This allows him to further support the team through transfers like Samarecarm, Recarmdra, Auto-Tarunda etc.","You will still receive extra damage from open weaknesses.
+Very good buff control with War Cry and Nocturne in Yellow.
+Further buff control abilities at Panel 2 or 3.
+Law of Hell eliminates his need to cover weaknesses. This allows him to further support the team through transfers like Samarecarm, Recarmdra, Auto-Tarunda etc.","You still receive extra damage from open weaknesses.
 Law of Hell only works on AOE damage. Single target skills will still hurt especially if they hit weakness.
-Very MP Hungry, Divines help with the MP costs but in turn reduce his bulk.
+Very MP Hungry, Divines help with MP costs but reduce his bulk.
 Needs specific team compositions to work well."
 "Pale Rider",TP,TY,5,8,8,"Very good in Ailment Team, as Pestilence will kill any enemy after 2 turns! This is very important as Ailment Teams struggle to build demons combining high damage, ailment rates and speed (they want to go first).
 Good synergy with a set-up based sweeper Nergal. Nergal helps to remove any barriers and poison in turn triggers his own Meslamtaea passive.
@@ -450,15 +449,16 @@ At Panel 3, he's the best 4th Demon candidate for the Masakado A+Shiva A+P3 Zaou
 Without Panel 3, his PVP tier rating is lower than 6.
 Do not possess innate Pierce: absolutely requires Zaou-Gongen's pierce set-up.
 Very expensive to fuse."
-"Siegfried",YRP,R,8,8,8,"Arms Mastery provides him free Phys Amp and +25% Accuracy when maxed.
-Drain Phys and no weaknesses makes him an ideal demon to pair with Rama in Drain Teams.
-Panels give him much needed Phys Pierce and reduces the damage from piercing Phys attacks.","Heavily reliant on panels; without P2, his Offense PVP rating is much lower than 8.
-No AOE outside of Red.
+"Siegfried",YRP,R,8,7.5,7.5,"Arms Mastery gives Phys Amp and +25% Accuracy when maxed.
+Drain Phys and strong offense: decent candidate for Drain Teams.
+Panels give him much needed Phys Pierce and reduces the damage from piercing Phys attacks.","Heavily reliant on panels; without P2, he needs Phys Pierce (weak) transferred and even then would be worth at best 5 in PvP rating.
+No unique attack makes him Mid Tier in offensive ability.
 Mediocre AGI and LUK stats."
-"Skull Knight",TP,TP,8,8.5,9,"Demons die when they are killed by Sword of Actuation, unable to be revived. This makes him a powerful counter to Revive team/strats.
-Sword of Actuation has a ridiculously low MP cost at max level (5 MP) - Even without Panels it can be cast Turn 1 with War Brands. Panel 2 further reduces it to 4 MP, allowing it to be cast twice on Turn 1.
+"Skull Knight",TP,TP,8,8.5,8,"Demons die when they are killed by Sword of Actuation, unable to be revived. This makes him a powerful counter to Revive team/strats.
+Sword of Actuation has a ridiculously low MP cost at max level (5 MP) - Even without Panels it can be cast Turn 1 with War Brands. Panel 2 further reduces it to 4 MP, allowing it to be cast twice on Turn 1 regardless of brands.
 Foe of Demons defensively buffs your team at the start of your opponent's turn, increasing your odds of surviving.
 Repel Phys in Teal makes him a good partner for Alilat and Atavaka.","Difficult to boost Sword of Actuation further due to it being Almighty Phys.
+Has AI issues when used on defense - AI will target demons with high HP instead of trying to finish off demons with Sword of Actuation.
 Requires a good team setup around him to truly shine. His PVP rating drops if he is not paired with optimal teammates.
 Middling AGI makes him slightly awkward to fit in fast or slow teams."
 "Surt",CP,C,5.5,7,7,"Great demon for slow teams, as he provides Intimidating Stance and Tetra Shift.
@@ -543,11 +543,13 @@ Only true Dark Pierce demon in Purple.
 Enma's Judgement provides team-wide Null Mortal and Rakukaja, which can be very powerful in PVP depending on tier.
 Trivializes Brands of Sin Vanity 11, works well for Aura Gate.","Guilty only works on Boss wave, rendering it useless for PVP and most of PVE.
 No AOE spell unless Red (which then loses Dark Pierce)."
-"Yoshitsune",TP,TP,10,5,5,"Carries a native Mana Aid giving him 10 MP per wave to repeatedly Vorpal Blade or Hassou Tobi.
-Innate Mana Aid, strong AoE and the best Multi-hit Phys Spell in the game, combined with Phys Amp in Purple makes him the best Phys Attacker for PvE, usable pretty much anywhere.
-Fully upgraded Hassou Tobi sports a massive amount of phys damage on single targets.
-Teal can be used to cheese certain PvE Content.","Only native pierce on Hassou Tobi.
-Random Targetting on Hassou Tobi makes it bad against Waves and in PvP"
+"Yoshitsune",TP,TP,10,5,5,"Innate Mana Aid, strong AoE and the best Multi-hit Phys Spell, combined with Phys Amp in Purple makes him the best Phys Attacker for PvE, usable pretty much anywhere.
+Hassou Tobi does humongous damage if/once the Boss is alone.
+All his Panels are excellent for PvE.
+Drain Phys in Teal with Rama cheese certain PvE Content.
+Teal makes him usable in Drain Teams in low PvP rank.
+Phys Amp in Purple, high AGI and good Panels make him a candidate for Hell Gongen Teams in PVP, granted you transfer 5/6MP attacks.","Hassou Tobi is Random Target: bad against Waves and PvP.
+No innate Pierce outside of Hassou Tobi is bad for PvP."
 "Zaou-Gongen",R,R,9,6,8.5,"Kongo Zaou grants Phys Pierce to teammates under Rebellion.
 Is one of the core demons of Hell Gongen, one of the best PVE Team Comps.
 With Panel 3 he can start a crit loop, providing infinite Crits for the whole team and negating the need for Hell Biker.

@@ -303,12 +303,15 @@ High MP-cost skills.
 Expensive to fuse, and needs to be Panel 3 to become good in Late PvE.
 Middling AGI means he does not fit slow or fast PvP teams.
 Get countered hard by Anti-Pierce units like Rama, Alilat and Atavaka in PvP."
-"Masakado",P,TP,9,10,10,"Has THE highest Strength stat and the second/third highest Luck stat in-game.
-Powerful and loaded passive in Warlord's Wrath.
-A really strong ST Phys skill which can also inflict Mortal in Occult Flash.
-Has no weakness and a perfect base kit, allowing you to tailor his remaining transfer slots however you like.
-Teal paired with Rama allows him to act as an Anti-Pierce unit.","Low agility and high MP cost skills reduces his PVE viability, especially for battles over waves. This requires him to inherit certain skills or be paired with certain teammates to be fully effective in PVE.
-Doesn't have the best Vitality stat.
+"Masakado",P,TP,9,10,10,"Highest STR and strong Phys Attacks make him hit hard. In Purple, Phys Amp will increase his damage even more.
+Occult Flash inflicts Mortal, an one-shot ability, it also has high Crit rate, allowing you to get more Press Turns after Mortaling enemies.
+It still deals massive damage even to enemies with Null Mortal.
+Warlord's Wrath is an insane passive combining Intimidating Stance, Faithful Counter and Phys Pierce.
+Intimidating Stance, low AGI and extreme DPS make him THE demon for the PVP Meta-defining Intimidating Stance Teams.
+Drain Phys, in Teal, makes him an excellent partner to Rama: combined with innate Drain Dark, he gets protection against the main Mortal demons, Alice and Masakado.
+Broken Panels that covers all his weakness and more.","Low AGI and high MP cost skills reduces his PVE viability.
+Occult Flash doesn't one-shot enemies with Endure skills and, unless Panel 3, is 7-MP preventing spamming or first-turn uses.
+Has low base VIT affecting his survavibility.
 Unable to be paired with Masakado A."
 "Masakado A",Any,P,9,9,10,"Guardian of the East provides 1 extra Press Turn when going first. Press Turn generation is in general very strong.
 Kuyo Flash can be cast 1st PVP turn and swings insane offensive buffs and debuffs.
@@ -515,14 +518,14 @@ Part of a very strong PVP strategy: Archangels
 Good for PVE content like Brands of Sin Sloth, the general story and Aura Gate (note that his passive will kill demons before they have a chance to talk)","Needs Team built around him.
 Countered severely by P2 Asherah, a very common demon.
 Non-fusable and not obtainable through the general gem banner or the summon files."
-"Vairocana",TP,TP,6,7,7.5,"Good repel resistances makes him a natural partner for Alilat and Atavaka. Fire and Light repel is especially useful to counter Archangel teams, as it makes him immune to both their AOE elements.
-High MAG, Butcher in purple and innate almighty AOE: he is a strong sweeper.
-Radiant Mantra resets all buffs and debuffs at the start of enemy turn. When used in a slow team, this allows him to nullify auto-skills.
-Path of Prominence and Radiant Mantra make him an excellent buff control demon.
+"Vairocana",TP,TP,6,7,7.5,"Good repel resistances makes him a natural partner for Alilat and Atavaka. Fire and Light repel, in particular, counter Archangel teams, as it repels both their AOE elements.
+High MAG, Butcher in Purple and Path of Prominence, an almighty AOE that buffs before hitting, make him a strong sweeper.
+Radiant Mantra resets all buffs/debuffs at the start of every enemy turns. If used in slow teams, this nullifies auto-skills.
+These 2 unique skills make him an insane buff control demon.
 No weaknesses and a self-sufficient kit gives him full flexibility over skill transfers.","Very hard to further boost almighty damage.
 Wants to go second to fully abuse Radiant Mantra but his AGI is quite high.
 Requires good teammates to shine.
-Very high MP costs. Even with maxed Path of Prominence and Divine Brands, he won't be able to spam it consistently unless Panel 2 is also unlocked.
+Very high MP costs. Even with maxed Path of Prominence and Divine Brands, he can't to spam it consistently unless he is Panel 2.
 Almighty is shut down hard by Five Elements or Lord of Clouds."
 "Vasuki",RP,CR,5,4,4,"Has Innate Insanity and Ice Boost for both Ailment infliction and damage.
 Innate Butcher in Purple.

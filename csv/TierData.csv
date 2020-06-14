@@ -214,7 +214,8 @@ Panels are lackluster."
 High Burst Damage in Lightning Shower, which refunds MP on kill allowing him to loop it again.
 Casts Five Elements on kill, which completely walls off Almighty attackers like Mother Harlot.
 Maxed Lightning Shower lets him use Spell Brands and still cast it Turn 1 in PvP","Highly dependant on the first kill for tempo. Failing to kill will result in MP Problems.
-Ice Weakness (Sort of mitigated by Five Elements on kill, but beware pierce users as well as being outsped)"
+AI tries to hit Tanks he can't one-shot: bad for Defense PVP.
+Ice Weakness (Sort of mitigated by Five Elements on kill, but beware pierce users as well as being outsped)."
 "Ishtar",TYR,TY,5,4,4,"Extremely high magic, combined with her Panels, compensates her lack of high damage attacks.
 Her unique spell Mesopotamian Star deals Almighty damage while autocasting Tarukaja and Tarunda. At Panel 3, this further applies Rakukaja and Sukukaja.
 Gains Concentrate in Yellow, letting her nuke even harder.
@@ -261,7 +262,7 @@ At max Boost lvl, it also casts Five Elements, powerful for PVE.
 Diwali synergizes with demons with passive recovery such as Hecate and Guan Yu allowing her to constantly refund MPs.
 Virtuous perity is a strong PVP support skill as it protects the team from the popular Mortal-effect while combo-ing with Diwali MP refund.
 Very strong support skill in Yellow: 6-MP Defensive Cry.
-Decent AI: can cast Virtuous perity even at full HP.","Imperfect AI: she may not cast Virtuous Prosperity if Null Mortal is already up and, in Yellow, she casts Defensive Cry over it.
+Diwali activates from drain skills like Light Devourer.","In Yellow, AI prioritizes Defensive Cry which does not trigger Diwali.
 PVP is too fast-paced for the ailment cleanse &amp; Five Elements of the higher Boost lvls of Virtuous Prosperity to be reliable.
 Force weakness and mediocre bulk hurt her longevity."
 "Lilith",Any,C,4.5,6,6.5,"Two strong Dark and Elec AOE skills.

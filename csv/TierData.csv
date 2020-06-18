@@ -66,15 +66,12 @@ Red gives Killing Wind which circumvent Force Anti-Pierce such as Rama + Susano-
 Without Panel 2, his PVP and PVE tier rating are lower than 8.
 Expensive to fuse and only available in clear. Colored variants are Gacha exclusive.
 Only has pierce through Tempest."
-"Barong",TY,Any,6,4.5,4.5,"Barong Dance heals and buffs all stats.
-With max lvl + Divine Brands, it can be cast on PVP Turn 1.
-High AGI means, equipped with Speedster, he is suitable for PVP fast teams.
+"Barong",T,Any,7,4.5,4.5,"Barong Dance is a healing skill with infinite uses which is useful for drawn out battles in PvE while buffing the team.
+With max lvl + Panel 1, he can cast it turn 1 in PvP.
 Niche use in Aura Gate as giving him Support AI and keeping his MAtk low enough guarantees he'll heal you with Barong Dance no matter your HP.
 This is useful to recover HP lost from Talk and in F50 of Aura Gate 2 where you meet the Self Destruct Forneuses.","2 weaknesses.
 Mediocre Magic and Bulk is bad as healer/support.
-Barong Dance is limited to 3 uses making him a bad healer for PVE Bossing.
-Panels are rather lackluster.
-Outclassed by better PVE support like Asherah and Amaterasu."
+Outclassed by better PVE support like Amaterasu albeit Barong is more spammable."
 "Bayonetta☆",P,Any,5,6,6,"Madama Stomp levels and Savage Glee in purple give her enormous crit rates.
 Madama Stomp autocasts an Almighty attack that also charms whenever she lands a crit. Deals decent damage after being buffed to scale off her PATK.
 Recent buffs have made her a lot more viable. Panel 2 in particular gives her Pierce which she desperately needs.
@@ -202,7 +199,7 @@ Extremely good PvE demon especially if Paneled.","Needs to rely on transfer skil
 Lack of ST skills unless Red.
 AI is very unreliable for PvP Defense; will occasionally Yinglong Killer into Anti-Pierce and lose press turns.
 Middling AGI, low bulk and his only excellent attack being 7MP mean he can't fit in well-built PvP Teams."
-"Huang Long",YP,YP,8,4.5,4.5,"High AGI means that combined with Speedster he can greatly boost your battle speed.
+"Huang Long",YP,YP,7.5,4.5,4.5,"High AGI means that combined with Speedster he can greatly boost your battle speed.
 Five Elements walls magical demons without Pierce, such as Mother Harlot, Masakado A and non-purple Rama.
 Luster Candy in Yellow gives him even more support utility in buff control.
 Trivializes Brands of Sin stage 10, opening up brand farming on Auto.","Pierce destroys him through Five Elements.
@@ -257,7 +254,7 @@ Panel 3 allows her to generate MP for the team, enabling certain first-turn kill
 Lack of good innate offensive skills wastes her sweeper potential.
 Countered very hard by Daisoujou clearing her charms and punishing her for using them.
 Very bad bulk"
-"Lakshmi A",YP,TP,8,6.5,4,"One of the best PVE healer thanks to innate Recovery Amp combined with Virtuous perity that heals more strongly with each cast.
+"Lakshmi A",Y,TP,8,6.5,6,"One of the best PVE healer thanks to innate Recovery Amp and Virtuous perity that heals stronger with each cast.
 At max Boost lvl, it also casts Five Elements, powerful for PVE.
 Diwali synergizes with demons with passive recovery such as Hecate and Guan Yu allowing her to constantly refund MPs.
 Virtuous perity is a strong PVP support skill as it protects the team from the popular Mortal-effect while combo-ing with Diwali MP refund.
@@ -267,11 +264,11 @@ PVP is too fast-paced for the ailment cleanse and Five Elements of the higher Bo
 Force weakness and mediocre bulk hurt her longevity."
 "Lilith",Any,C,4.5,6,6.5,"Two strong Dark and Elec AOE skills.
 Decent Magic allows her to deal damage while also inflicting ailments on the enemy.
-P3 casts a teamwide Bind whenever an enemy is charmed, and can be triggered multiple times per turn.
-Easy 4x4 fusion paths and good panels make her a decent P3 goal to strive toward.","No pierce, requires Dark Pierce (weak) to really shine.
+Panel 3 casts a teamwide Bind whenever an enemy is charmed, and can be triggered multiple times per turn.
+Easy 4x4 fusion paths and good panels make her a decent Panel 3 goal to strive toward.","No pierce, requires Dark Pierce (weak) to really shine.
 Countered very hard by Daisoujou clearing her charms and punishing her for using them.
 2 weaknesses
-Underwhelming without P3. She is below 6 in PVP without P3."
+Weak without Panel 3. She is below 6 in PVP without P3."
 "Lucifer",P,P,5,6.5,6.5,"Morning Star is the most powerful Almighty AOE spell.
 Add to it Purple and Panels to make it the most powerful AOE.
 Good bulk especially with Panel 2 unlocked. This helps him live long enough to build up the MP necessary for Morning Star.
@@ -345,7 +342,7 @@ Harmonious Death makes Mot a must-have in Prelim Parties for Democalypse.
 Has two strong AOE spells.
 Amazing set of panels that provide him MP reduction, Null Mortal and even more Press Turns.","Elec weakness
 High MP costs"
-"Mozgus",TR,TY,4,5,5,"The only unit in the game that has a Critical Counter, God 1000 Fist Cannon will unleash a random barrage of piercing Physical attacks whenever the enemy scores a crit.
+"Mozgus",R,TY,5,5,5,"The only unit in the game that has a Critical Counter, God 1000 Fist Cannon will unleash a random barrage of piercing Physical attacks whenever the enemy scores a crit.
 Extremely high bulk and damage reduction from Bloody Scripture make him a powerful tank. Building him as a tank also increases God 1000 Fist Cannon and Muscle Punch damage, as they both depend on Phys DEF for damage. Earthquake in red furthers this synergy.
 Yellow gives him access to discounted War Cry, letting him play a support role if required.","Does not have Pierce outside of God 1000 Fist Cannon.
 Needs a lot of Accuracy investment due to bad AGI."
@@ -459,12 +456,12 @@ Insane set of panels that covers all his weak points.
 Incredible Elemental resistances especially in Teal. All these Elemental Drains make him an excellent partner for Rama in PVE.","Third Eye can miss.
 Third Eye is 7-MP at max level without Panel 3. This is very bad for PVP Turn 1 sweeping which is an issue as he is designed for T1 sweep. Without Panel 3, to counter this you need him paired with Parvati.
 His PVP rating is lower than 9.5 without Panel 3 and incredibly lower without Panel 2."
-"Siegfried",YRP,R,8,7.5,7.5,"Arms Mastery gives Phys Amp and +25% Accuracy when maxed.
+"Siegfried",YRP,R,7.5,7.5,7.5,"Arms Mastery gives Phys Amp and +25% Accuracy when maxed.
 Drain Phys and strong offense: decent candidate for Drain Teams.
 Panels give him much needed Phys Pierce and reduces the damage from piercing Phys attacks.","Heavily reliant on panels; without P2, he needs Phys Pierce (weak) transferred and even then would be worth at best 5 in PvP rating.
 No unique attack makes him Mid Tier in offensive ability.
 Mediocre AGI and LUK stats."
-"Skull Knight",TP,TP,8,8.5,8,"Demons die when they are killed by Sword of Actuation, unable to be revived. This makes him a powerful counter to Revive team/strats.
+"Skull Knight",TP,TP,6,8.5,8,"Demons die when they are killed by Sword of Actuation, unable to be revived. This makes him a powerful counter to Revive team/strats.
 Sword of Actuation has a ridiculously low MP cost at max level (5 MP) - Even without Panels it can be cast Turn 1 with War Brands. Panel 2 further reduces it to 4 MP, allowing it to be cast twice on Turn 1 regardless of brands.
 Foe of Demons defensively buffs your team at the start of your opponent's turn, increasing your odds of surviving.
 Repel Phys in Teal makes him a good partner for Alilat and Atavaka.","Difficult to boost Sword of Actuation further due to it being Almighty Phys.
@@ -511,6 +508,14 @@ No weaknesses and 2 Nulls give him a lot of flexibility in skill transfers.","Mu
 Apocalypse does not get higher damage from leveling up the skill or from Panels, and as an Almighty skill can only be boosted by passives such as Butcher, Serial Killer...
 Hard countered by Five Elements.
 Stiff competition from other Almighty sweepers like Mother Harlot."
+"Tzitzimitl",Any,TR,5,5,5,"Demons die when they are killed by Dark Premonition, unable to be revived.
+Revive seal is very useful in certain PVE content (HP100 and several AG2 bosses) and to counter revive strats in PVP.
+High innate dodge rate which compliments the Mute from Dark Premonition.
+Red gains discounted Mind Blast, which can be used to further disable enemies.","Needs to be below 50% HP to unlock most of her kit, making her a glass cannon.
+Dark Premonition only has mediocre base damage, and can be stopped by Dark Anti-Pierce such as Rama + Masakado.
+Mediocre stats.
+Ailments fall flat in late PvE because of inflated enemy stats.
+Hard countered by Ailment Cleansers like Daisoujou in PVP."
 "Uriel",TP,P,8,8,8,"When combined with two other Herald or Divine demons, God's Fire dishes out massive damage even before battle really begins. It also gives your party a Tarukaja attack buff.
 Chain effects do not consume press turns even when hitting NDR.
 Innate Pierce with decent Magic + Revive makes for a good unique Skill.
@@ -568,13 +573,11 @@ Absolute terror against people who do Random Battle in PVP if he is Panel 3 and 
 Without Panel 3, he is worth less than 6 in PVP ratings. Lack of Auto-Rebellion genome can also put a dent on his PVP rating.
 Middling AGI lowers a lot Hell Gongen team Battle Speed, a team that needs to be as fast as possible in PVP.
 Requires good Crit% Brands to run without Hell Biker at Panel 3, esp. Lead Brand Sets as you want him to go first to provide Rebellion for the team."
-"Abaddon A",TR,T,5.5,1,1,"Support demon for bosses due to Lord of the Abyss
-Excellent demon for all democ boss rounds
-Repel Phys in Teal is great paired with Alilat
-High VIT so he can make use of Muscle Punch
-Makes Deceit 11 easier to auto","Gacha/Banner only
-No role in PvP
-Drags speed down greatly due to low AGI.
+"Abaddon A",TR,T,5.5,4,4,"Lord of the Abyss's auto-debuffs make him a staple demon for all elements of Democalypse (Boss phase).
+It is also design to hard-counter Brands of Sin: Deceit 11.
+Repel Phys in Teal and innate Repel Fire are great paired with Alilat
+High VIT so he can make use of Muscle Punch","His PVP role is as Anti-Phys unit when paired with Alilat or Atavaka. But he is outclass by other Repel Phys demons.
+Drags speed down greatly due to low AGI which is bad in PVE.
 Not good for waves before boss."
 "Agni",YP,P,4.5,4,4,"Auto-Rakunda in Purple or Fog Breath in Yellow.
 Excellent in all non-Phys Boss Democalypse due to Ignite Def auto-debuff.
@@ -590,7 +593,7 @@ Doesn't benefit much from his high LUK stat
 No innate AOE and is not the best single target damage dealer either."
 "Anzu",RP,YR,4.5,3,3,"Decent AGI.
 5MP double debuff in Yellow. (also innately has another double debuff)
-Excellent demon for Elec Democalypse.","Ice weakness.
+Excellent demon for Elec Democalypse.","Force weakness.
 Low VIT.
 Underwhelming."
 "Attis",C,C,4,3.5,3.5,"Innate Enduring Soul and Recarmdra which are good support skills that synergyze well.
@@ -662,10 +665,11 @@ Panel 3 gives Orlean Prayer some buff ability. This is very useful for the shena
 Has a good AGI. Perfect for this strategy.","Healing is not very powerful in this game.
 Despite how good Orlean Prayer in P3 is, PVP is too fast and each turn press are too precious for such strategy to be good.
 The AI won't perform such T1 strategy."
-"Kama",C,C,2,1,1,"High AGI of 228 + Speedster
-A high damage unique in the form of Divine Bows' Allure with a chance of charming.","A pathetic MAG stat making his unique very weak.
-Only good stat is speed and that's not saying much when he as no good role.
-Should seriously only be used as Speedster fodder."
+"Kama",C,C,4.5,4,4,"Very high AGI and innate Speedster allow him to play the role of Battle Speed booster.
+A high damage unique in the form of Divine Bows' Allure with a chance of charming.
+Speedster is transferable: he is THE Speedster fodder.","A pathetic MAG stat making his unique very weak.
+Doesn't do anything except boosting Battle Speed.
+Outclassed as Battle Speed booster by most 210+ AGI demons."
 "Kikuri-Hime",TR,RP,3,2,2,"Has Tetraka Shift in Purple.
 Decent MAG.","Bad AGI.
 Low VIT.
@@ -683,15 +687,14 @@ Great support for teams that rely on speed like ailments while also boosting the
 Has a good luck stat to inflict ailments or could provide auto-buffs/debuffs in her transfers.
 Innate Evade helps her dodge and support role.","No real cons to speak of other than primary role is dependant on transfers/team and she doesn't have the capacity on killing the opposition.
 Investing Kasanes in Pussyfoot"
-"Nidhoggr",TP,TP,4,7,6,"High survivability due to Enduring Soul, Wild Instinct, High VIT/STR, and Nastrond.
-Nastrond furthers his survivability because when an ally is kill, he receives 80% of his Max HP/Null Mortal for a single turn. This repeated heal allows him to survive most T1 turns reliably, and turn the table through Recarmdra.
-With a decent LUK stat, he can make use of skills like Mahashibabooon.
-Two nulls in physical/ice.","Fairly passive due to serving a primarily supportive especially against teams with anti-ailments/cleansers.
+"Nidhoggr",TP,TP,4,7,6,"High survivability due to innate skills (esp. in Purple) and Stats.
+Nastrond is very strong in Offense PVP as the AI may not target him first. This allows him to survive popular Turn-1-Kill-Defense Teams reliably. Transfer him Recarmdra to turn the table.
+Decent LUK stat makes Mahashibabooon a decent transfer, which is to be cast before Recarmdra to make sure the revived allies won't die (Turn-1-Kill-Teams do not use Anti-Ailment techs).","Fairly passive due to serving a primarily supportive role especially against teams with anti-ailments/cleansers.
 Two weaknesses can be hindering."
 "Pallas Athena",P,R,6,2,2,"Good STR/LU/AGI supporting her role as an offensive unit.
 Functions as a budget Yoshitsune due to Mana Aid in Purple.
-Excellent choice for farming BoS/Aether and wave based story missions.","Outclassed by Yoshitsune in every way if you happen to own one.
-This is likely for anyone that's just started due to Yoshitsune step-up banner.
+Excellent choice for farming Brands of Sin/Aether and wave-based story missions.","Outclassed by Yoshitsune in every way if you happen to own one.
+Yoshitsune step-up banner for beginner exists.
 Holy Wrath and Resist Force are wasted skills on her."
 "Pazuzu",TYR,Y,6,2,2,"One of the best healers in the game due to high mag and considerable bulk
 Great for early-mid pve
@@ -715,11 +718,8 @@ Below Average AGI."
 One of the best unit to use for Celestial Gui Xian fight.
 Needs to be paired with Rama.","Too low AGI for an ailment team.
 Overally low stats."
-"Sleipnir",RP,RP,4.5,3,3,"Has a very good set of innate non-unique skills.
-Innate Speedster.
-Very good light skils.
-Decent AGI.
-Panel 3 increases his speed.","Has no unique skill.
+"Sleipnir",RP,RP,4.5,3,3,"Very good non-unique skills (Speedster and good light attacks).
+Decent AGI and a Panel 3 which increases his speed.","Has no unique skill.
 Fire weakness.
 No pierce."
 "Sphinx",TR,TP,4,3,3,"High MAG.

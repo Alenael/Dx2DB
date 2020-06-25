@@ -323,13 +323,13 @@ Easy 4x4 fusion paths and good panels make him a decent Panel 3 goal to strive t
 Excellent Demon for Brands of Sin: Sloth 11 auto-farming.","No innate pierce: Light Pierce (weak) mandatory for PVP.
 Fire weakness.
 Low AGI penalizes him in the Archangels PVP strat."
-"Metatron",CYR,CY,7,6.5,6.5,"Good HP and Vit stats paired with great resistances gives him decent of bulk, especially with innate Enduring Soul in Clear.
+"Metatron",R,CY,7,6.5,6.5,"Good HP and Vit stats paired with great resistances gives him decent of bulk, especially with innate Enduring Soul in Clear.
 High Magic stat and Infinite Chakra lets him function well as a magic sweeper.
 Pairs well with Uriel and Gabriel, as Fire of Sinai is great for cleaning up and breaking Endures.
 Gains discounted Mahamadyne in Red which is great for Brands of Sin Sloth 10 and 11 farming.
 P3 amplifies all Magic damage.","Very difficult to fuse, only 1 recipe available.
 Full Almighty / non-Piercing kit means he is shut down hard by Five Elements.
-Low luck stat."
+Low AGI stat penalizes him in the Archangels PVP strat."
 "Michael",TY,TR,5.5,5,5,"Soul Judgement deals massive damage against single targets, ideal for Bosses and Democalypse.
 Panels give him a lot of damage, especially P3.
 One of the fastest Herald demon, making him a candidate for the strong Archangels PVP Team if Speedster is transferred.
@@ -354,7 +354,7 @@ Full Almighty kit means she is shut down hard by Five Elements
 Low AGI and high MP costs makes her unsuitable for fast teams.
 Countered very hard by Daisoujou clearing her charms and punishing her for using them.
 The MP drain aspect of Babylon Goblet is less useful for PVE, as the AI has infinite MP. It does allow you to replenish her MP indefinitely though."
-"Nergal",RP,P,5,5,6,"Plague of Babylon removes Barriers and has a very high chance of landing Weak status, making him incredible setup for Ailment Teams.
+"Nergal",RP,P,5,5,6.5,"Plague of Babylon removes Barriers and has a very high chance of landing Weak status, making him incredible setup for Ailment Teams.
 High STR, Auto-Tarukaja and increased Accuracy from Meslamtaea make him a decent Physical demon, especially when Paneled.
 Auto-Rebellion on Poison boosts his damage and synergizes with Pale Rider.
 Is a very strong set up based sweeper.","Ailments fall flat in late/endgame PvE because of inflated enemy stats
@@ -647,7 +647,7 @@ Yaksha Claw cannot bind if it gets Nulled, Repeled or Drained.
 It makes the use of Phys Pierce (weak) mandatory for a PVP build."
 "Hanuman",C,C,4.5,2,2,"High STR
 Hits hard with Vorpal Blade
-Can work for Autoing BoS stages","Lacks a single target physical skill
+Can work for Autoing Brands of Sin stages","Lacks a single target physical skill
 Bad awakening skills
 Middling AGI and frail.
 Low MAG stat yet has Mazanma
@@ -687,7 +687,7 @@ Great support for teams that rely on speed like ailments while also boosting the
 Has a good luck stat to inflict ailments or could provide auto-buffs/debuffs in her transfers.
 Innate Evade helps her dodge and support role.","No real cons to speak of other than primary role is dependant on transfers/team and she doesn't have the capacity on killing the opposition.
 Investing Kasanes in Pussyfoot"
-"Nidhoggr",TP,TP,4,7,6,"High survivability due to innate skills (esp. in Purple) and Stats.
+"Nidhoggr",TP,TP,4,7.5,6,"High survivability due to innate skills (esp. in Purple) and Stats.
 Nastrond is very strong in Offense PVP as the AI may not target him first. This allows him to survive popular Turn-1-Kill-Defense Teams reliably. Transfer him Recarmdra to turn the table.
 Decent LUK stat makes Mahashibabooon a decent transfer, which is to be cast before Recarmdra to make sure the revived allies won't die (Turn-1-Kill-Teams do not use Anti-Ailment techs).","Fairly passive due to serving a primarily supportive role especially against teams with anti-ailments/cleansers.
 Two weaknesses can be hindering."
@@ -752,15 +752,16 @@ Low AGI forces her into slow teams which makes her low VIT a problem."
 "Tsukuyomi",RP,R,4.5,3,3,"Strong mage for early to mid PvE
 Lunar Blessing is a great unique allowing him to use any skill for 1 MP less; opening up tons of options.
 Red has a 3 MP Mudoon due to his unique; meaning no matter what you can cast it.
-2 Null and 2 resists.","Needs Resist Phys, which is objectively the worst weakness in the game and effectively losing a transfer slot.
-Needs good support/or brands as he has low VIT/AGI.
-Outclassed by other mages late game due to average base attacks/has no damage boosts. Still has a unique niche with Lunar Blessing regardless."
+2 Null and 2 resists.","Weak to Phys, forcing you to transfer him Resist Phys.
+No innate AOE, and his innate attacks are low tier. It mean Lunar Blessing is under-exploited unless you transfer a stronger skill.
+On top of that, he has no innate passive that boosts damage.
+Low VIT and AGI."
 "Wu Kong",R,R,5.5,4,4,"Top-tier physical demon for a 4* demon having 235 STR.
 Has access to a single target and aoe physical skill freeing up his transfer slots for skills that boost his damage or accuracy.
 Great panels that each benefit him
 Is an excellent choice for the popular Hell Gongen team as he needs pierce for full potential.","Low AGI forces him to run Speedster in PvP for full efficiency and overall drags down team speed.
 No innate pierce, 2 weaknesses and frail.
 Zaou-Gongen a demon part of the Hell Gongen core, is already slow himself."
-"Ym",CYP,CY,5,2,2,"Judgement of Nahar makes him an excellent pick for ice democ as he casts the equivalent of a Mabufudyne every 2nd turn.
-Relevantly high mag stat of 199","Judgement of Nahar lower EV/AC, which doesn't do much for him as he doesn't fear missing due to using magic.
-Expensive Fusion."
+"Ym",CYP,CY,5,3,3,"Judgement of Nahar makes him an excellent pick for ice Democalypse as he casts the equivalent of a Mabufudyne every 2nd turn.
+Relevantly high mag stat of 199 and innate Ice Boost.","Expensive Fusion.
+No innate pierce."

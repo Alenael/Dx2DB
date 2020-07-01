@@ -1,6 +1,6 @@
 Name,BestArchetypePvE,BestArchetypePvP,PvEScore,PvPOffenseScore,PvPDefScore,Pros,Cons
 "Alice",TP,TP,8.5,9.5,8,"Very powerful in PVP as Die for Me! bypasses Endure-type skills and Instant Kills a demon allowing her to swiftly delete key threats.
-Godly Panels, especially Panel 3, make her Top Tier.
+Godly Panels, especially Panel 3, as this allow her to spam Die for Me!: makes her Top Tier.
 High damage potential due to good stats and Dark Amp in Purple.
 Can be used to in most PVE content like Aura Gate, Brands of Sin (especially Vanity 11) and certain Kiwami.
 She's cute!!","Needs Dark Pierce (weak) and Panel 3 to really shine, without those her PVP rating would be around 7.
@@ -67,11 +67,11 @@ Without Panel 2, his PVP and PVE tier rating are lower than 8.
 Expensive to fuse and only available in clear. Colored variants are Gacha exclusive.
 Only has pierce through Tempest."
 "Barong",T,Any,7,4.5,4.5,"Barong Dance is a healing skill with infinite uses which is useful for drawn out battles in PvE while buffing the team.
-With max lvl + Panel 1, he can cast it turn 1 in PvP.
-Niche use in Aura Gate as giving him Support AI and keeping his MAtk low enough guarantees he'll heal you with Barong Dance no matter your HP.
+If Panel 1 + max lvl, it can be cast Turn 1 PvP or spammed in PvE.
+Niche use in Aura Gate as giving him Support AI with his MAtk low enough guarantees he'll heal you with Barong Dance no matter your HP.
 This is useful to recover HP lost from Talk and in F50 of Aura Gate 2 where you meet the Self Destruct Forneuses.","2 weaknesses.
-Mediocre Magic and Bulk is bad as healer/support.
-Outclassed by better PVE support like Amaterasu albeit Barong is more spammable."
+Mediocre Magic and Bulk is inconvenient for healer/support.
+PvP is too fast for healings that are not passives to be useful."
 "Bayonetta☆",P,Any,5,6,6,"Madama Stomp levels and Savage Glee in purple give her enormous crit rates.
 Madama Stomp autocasts an Almighty attack that also charms whenever she lands a crit. Deals decent damage after being buffed to scale off her PATK.
 Recent buffs have made her a lot more viable. Panel 2 in particular gives her Pierce which she desperately needs.
@@ -310,10 +310,12 @@ Broken Panels that covers all his weakness and more.","Low AGI and high MP cost 
 Occult Flash doesn't one-shot enemies with Endure skills and, unless Panel 3, is 7-MP preventing spamming or first-turn uses.
 Has low base VIT affecting his survavibility.
 Unable to be paired with Masakado A."
-"Masakado A",Any,P,9,9,10,"Guardian of the East provides 1 extra Press Turn when going first. Press Turn generation is in general very strong.
-Kuyo Flash can be cast 1st PVP turn and swings insane offensive buffs and debuffs.
-Ultimate Demon for PVP Defense Teams targetting people who Random Battle.
-Used in the most fearsome PVP Defense Teams: the Hero Masakado T1.","Easily countered by outspeeding.
+"Masakado A",Any,P,9,9,10,"Guardian of the East provides 1 extra Press Turn when his team goes first. Press Turn generation is very strong.
+Kuyo Flash can be cast 1st PVP turn and inflict a perfectly insane set of buffs and debuffs for offensive purposes.
+It can also inflicts decent damages due to very high STR stat.
+Panel 2 gives a decent teamwide defensive ability: null Mortal.
+Ultimate Demon for a PVP Defense Team targetting people who Random Battle: the Hero Masakado T1 Defense Teams.","Hero Masakado T1 Teams are easily beaten in targetted battles.
+A lot less powerful if his team is outsped.
 Unable to be paired with Masakado."
 "Mastema",P,P,7,7,7,"High Magic stat, level max Trial of Hate has very high Power. This makes him a high damage Light sweeper.
 Maxed Trial of Hate can be used Turn 1 in PVP with Divines.
@@ -457,8 +459,9 @@ Incredible Elemental resistances especially in Teal. All these Elemental Drains 
 Third Eye is 7-MP at max level without Panel 3. This is very bad for PVP Turn 1 sweeping which is an issue as he is designed for T1 sweep. Without Panel 3, to counter this you need him paired with Parvati.
 His PVP rating is lower than 9.5 without Panel 3 and incredibly lower without Panel 2."
 "Siegfried",YRP,R,7.5,7.5,7.5,"Arms Mastery gives Phys Amp and +25% Accuracy when maxed.
+Titanomachia at 6 MP, in Red, is an efficient AOE with high crit rate; transfer him a Crit Rate passive boost like Savage Glee or Epitome of Carnage for the AOE to be a devastating Crit machine.
 Drain Phys and strong offense: decent candidate for Drain Teams.
-Panels give him much needed Phys Pierce and reduces the damage from piercing Phys attacks.","Heavily reliant on panels; without P2, he needs Phys Pierce (weak) transferred and even then would be worth at best 5 in PvP rating.
+Panels give him Phys Pierce, increases his defense and offense.","Heavily reliant on panels; without Panel 2, he needs Phys Pierce (weak) transferred and even then would be worth at best 5 in PvP rating.
 No unique attack makes him Mid Tier in offensive ability.
 Mediocre AGI and LUK stats."
 "Skull Knight",TP,TP,6,8.5,8,"Demons die when they are killed by Sword of Actuation, unable to be revived. This makes him a powerful counter to Revive team/strats.
@@ -565,11 +568,11 @@ Drain Phys in Teal with Rama cheese certain PvE Content.
 Teal makes him usable in Drain Teams in low PvP rank.
 Phys Amp in Purple, high AGI and good Panels make him a candidate for Hell Gongen Teams in PVP, granted you transfer 5/6MP attacks.","Hassou Tobi is Random Target: bad against Waves and PvP.
 No innate Pierce outside of Hassou Tobi is bad for PvP."
-"Zaou-Gongen",R,R,9,6,8.5,"Kongo Zaou grants Phys Pierce to teammates under Rebellion.
+"Zaou-Gongen",R,R,9,6,9,"Kongo Zaou grants Phys Pierce to teammates under Rebellion.
 A core demon of Hell Gongen, one of the best PVE Team.
 With Panel 3 he can start a crit loop, providing infinite Crits for the whole team and negating the need for Hell Biker.
 Great set of Panels that provide additional damage, accuracy and team-wide Rebellion.
-Absolute terror against people who do Random Battle in PVP if he is Panel 3 and in a Hero Masakado T1 PVP Defense Team.","To put into practice his 8.5 Defense PVP rating you need Masakado A and Shiva A, very rare demons.
+Absolute terror against people who do Random Battle in PVP if he is Panel 3 and in a Hero Masakado T1 PVP Defense Team.","To put into practice his 9 Defense PVP rating you need Masakado A and Shiva A, very rare demons.
 Without Panel 3, he is worth less than 6 in PVP ratings. Lack of Auto-Rebellion genome can also put a dent on his PVP rating.
 Middling AGI lowers a lot Hell Gongen team Battle Speed, a team that needs to be as fast as possible in PVP.
 Requires good Crit% Brands to run without Hell Biker at Panel 3, esp. Lead Brand Sets as you want him to go first to provide Rebellion for the team."

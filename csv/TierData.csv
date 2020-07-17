@@ -577,6 +577,10 @@ Absolute terror against people who do Random Battle in PVP if he is Panel 3 and 
 Without Panel 3, he is worth less than 6 in PVP ratings. Lack of Auto-Rebellion genome can also put a dent on his PVP rating.
 Middling AGI lowers a lot Hell Gongen team Battle Speed, a team that needs to be as fast as possible in PVP.
 Requires good Crit% Brands to run without Hell Biker at Panel 3, esp. Lead Brand Sets as you want him to go first to provide Rebellion for the team."
+"Abaddon",TY,TY,2,1,1,"Null Phys in teal is handy for early-mid game.
+Good STR/VIT","Doesn't carve himself any niches that others don't do better.
+Maragion serves little use on him due to low MAG stat.
+Low AGI"
 "Abaddon A",TR,T,6,4,4,"Lord of the Abyss's auto-debuffs make him a staple demon for all elements of Democalypse (Boss phase).
 It is also designed to hard-counter Brands of Sin: Deceit 11.
 Repel Phys in Teal and innate Repel Fire are great paired with Alilat
@@ -618,11 +622,28 @@ One of the few Repel Ice demons (in Teal) as well as the cheapest one making him
 Glacial Blast is a redundant skill that serves him little.
 No Pierce meaning walled against demons that N/D/R Ice and Judgement isn't a reliable choice against them even at 7 MP.
 Vasuki is an upgraded Beiji-Weng in most aspects for PvP."
+"Beelzebub",CY,CY,7,5,5,"Has high survivability due to Gluttony, which deals good aoe damage and heals himself.
+Suitable option for Dark Democ and Vanity BoS
+No weaknesses.
+Synergy with Lucifuge in Yellow.","Suffers the same issues that Black Frost has in PvP that being Rama + Masakado and Atavaka + Hecate
+Stats are subpar even with panels other than MAG.
+Gluttony can't be used T1 in PvP.
+Requires P3 for Dark Pierce."
 "Chernobog",YP,YP,5,4,4,"Ailment chain effect inflicting poison and bind if P3.
 Perfect synergy with Nergal.","Somewhat low AGI: this is bad for Ailment Team
 Strongly needs Nergal to have some viability in PVP.
 ...but Nergal himself isn't the best demon for Ailment Team.
 Needs P3 to be viable in PVP. He would be lower than 4 in PVP if P3 were not taken into account."
+"Cerberus",Y,Y,3,1,1,"Hell Claw is a strong unique
+Versatile demon that can provide multiple roles early-mid pve as support with debuffs/buffs, Physical attacker or even provide some mage coverage.
+Works ok on boss wave of physical Democalypse you're lacking demons for it.","Falls off hard late game due to his jack of trade nature.
+Jack of all trades but only has average stats to boot.
+No use late game or in PvP."
+"Dantalian",TP,TP,3,2,1,"Overall decent stats and High MAG/VIT stat.
+Functions as tanky mage with supporting skills.
+3 resists and 1 null.","Two weaknesses hurts their viability for the most part.
+Doesn't have much niche other than being a tanky mage.
+MP expensive skills"
 "Dionysus",C,C,2,2,2,"Very high luck stat meaning he inflicts ailments often and doesn't take crits as often.
 Panels that benefit from his luck such as crit resist/ailment infliction
 Has some potential in stall teams","Has no attacking skill despite innate back attack
@@ -679,6 +700,16 @@ Decent MAG.","Bad AGI.
 Low VIT.
 2 weaknesses.
 Dark weakness is particularly bad in PVP."
+"King Frost",TY,TY,4,2,2,"Has High VIT for a mage meaning he's fairly bulky.
+Has a powerful ice skill Cold World, unique to him.
+Making him an excellent pick for ice Democalypse","Cold World has no levels and since it's an AOE without pierce Ice N/D/R are troublesome.
+Megaton Press doesn't have any merit on him.
+One of the slowest demons in the game with 76 AGI and only above average MAG stat."
+"Loki",CTRP,T,5,3,3,"Strong and surprisingly tanky mage
+Trickster gives him a 20% chance using no press turns when he hits weakness.
+Pairs well with the Dx2 Chalk Eater.
+Serves plenty of niches late game PvE such as Celestial Baihu.","Trickster doesn't work in democ.
+Low AGI"
 "Long",P,Y,5,2.5,2.5,"A good speed stat and mag for a 4*
 Purple gives Mana Aid an excellent PvE skill.
 Decent damage output for PvE if a Force AOE is transferred.
@@ -686,6 +717,9 @@ Functions fine in Force Democalypse
 High AGI + Dragon Sense allow him to be built as an evade tank.","Extremely low LUK penalizes the evade tank build.
 No innate AoE.
 Much better Force users exist for PvP."
+"Man Eater",TP,P,3,3.5,3.5,"Her unique passive Sass lowers the defense of the team for 3 turns when the enemy is charmed. Useful in wave based battle due to Auto-Rakunda only working on the first wave nor having to waste a turn casting a defense debuff.
+High LUK and access to a rare skill Insanity in purple making her good at inflicting ailments.","Fairly slow making her teams take the risk of being outsped.
+Low STR/MAG"
 "Nekomata A",TYP,YP,5,6,6,"Has a very high speed stat 226 but is 246 with max Pussyfoot + Innate Speedster
 Great support for teams that rely on speed like ailments while also boosting the entire parties EVA by 20%.
 Has a good luck stat to inflict ailments or could provide auto-buffs/debuffs in her transfers.
@@ -700,6 +734,13 @@ Functions as a budget Yoshitsune due to Mana Aid in Purple.
 Excellent choice for farming Brands of Sin/Aether and wave-based story missions.","Outclassed by Yoshitsune in every way if you happen to own one.
 Yoshitsune step-up banner for beginner exists.
 Holy Wrath and Resist Force are wasted skills on her."
+"Parvati",C,C,2,5.5,5.5,"Her unique Joy Song makes her function as a counter to the popular Intimidating Stance skill in PvP.
+Learn more at Parvati Team.
+Has [Auto-Sukuja]] a rare and useful skill for the teams, she functions in.","Average stats across the board
+Very lackluster for PvE even as a healer.
+No entirely useful innate skills albeit Recarm is niche... Still relies on transfers.
+Let's not speak about her panels
+18 Million MAG for 15% Healing'"
 "Pazuzu",TYR,Y,6,2,2,"One of the best healers in the game due to high mag and considerable bulk
 Great for early-mid pve
 Will hit for decent damage due to high mag.
@@ -707,6 +748,11 @@ Immune to the primary elements of the Dark Aether Quests if teal.","Healing fall
 Lowest luck stat in game meaning crits/ailments will hinder him greatly.
 Mediarama is MP expensive
 Purgatory isn't a great offensive skill."
+"Rangda",Y,Y,4,2,2,"One of the few demons with Phys Repel meaning she pairs well with Alilat
+Access to Recarmdra allowing her to function as a support role
+A good demon to have early on","Only average stat overall and has below average VIT making her somewhat frail.
+Outclassed by other demons with physical and repel and Quetzalcoatl
+All of her moves are MP expensive."
 "Sandalphon",YR,P,4,3.5,3.5,"Decent bulk.
 Somewhat decent AGI.
 No weakness.
@@ -733,6 +779,10 @@ Tetraka Shift has some (limited) use in PVP and early PVE.
 in Purple, he has Auto-Rakuka and excellent skill for slow and defensive team.","Subpar bulk.
 2 weaknesses.
 No unique support skill to complement his role in a PVP team."
+"Succubus",TR,T,4,2,1,"High MAG stat of 204
+Role is to charm the opposition and hit them with a hard hitting Bufudyne in combination with her passive Deadly Charm.","Too slow to be a viable ailment demon in PvP.
+Average luck stat
+No stand out colors that really assist her role"
 "Throne",TR,R,3,4,4,"Good AGI stat of 163.
 This AGI combined with his race being Divine means, with Speedster transferred, he becomes a decent candidate for the powerful Archangels PvP Team.
 Innate Void Dark Zones makes him a good candidate for Dmg Panel Immunity
@@ -760,6 +810,12 @@ Red has a 3 MP Mudoon due to his unique; meaning no matter what you can cast it.
 No innate AOE, and his innate attacks are low tier. It mean Lunar Blessing is under-exploited unless you transfer a stronger skill.
 On top of that, he has no innate passive that boosts damage.
 Low VIT and AGI."
+"White Rider",T,T,5,3,3,"High MAG stat and above average AGI making him a good mage.
+His unique God's Bow has a 50% chance of mortal giving him minor niche of killing boss adds plus it has 200 BP.
+Ziodyne isn't a bad skill either.","God's Bow is only 2 use, has only 50% chance of mortal, and has no pierce effect.
+Needs Light Pierce (weak) or requires Panel 3.
+Relies heavily on Ziodyne after uses are up... Making Light Pierce (weak) feel like a wasted slot.
+White Noise is one of the worst skills in the game."
 "Wu Kong",R,R,5.5,4,4,"Top-tier physical demon for a 4* demon having 235 STR.
 Has access to a single target and aoe physical skill freeing up his transfer slots for skills that boost his damage or accuracy.
 Great panels that each benefit him

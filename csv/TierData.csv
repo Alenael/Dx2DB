@@ -1,6 +1,6 @@
 Name,BestArchetypePvE,BestArchetypePvP,PvEScore,PvPOffenseScore,PvPDefScore,Pros,Cons
 "Alice",TP,TP,8.5,9.5,8,"Very powerful in PVP as Die for Me! bypasses Endure-type skills and Instant Kills a demon allowing her to swiftly delete key threats.
-Godly Panels, especially Panel 3, as this allow her to spam Die for Me!: makes her Top Tier.
+Godly Panels, especially Panel 3, as this allow her to spam Die for Me!: this makes her Top Tier.
 High damage potential due to good stats and Dark Amp in Purple.
 Can be used to in most PVE content like Aura Gate, Brands of Sin (especially Vanity 11) and certain Kiwami.
 She's cute!!","Needs Dark Pierce (weak) and Panel 3 to really shine, without those her PVP rating would be around 7.
@@ -170,10 +170,11 @@ No innate pierce and is a bad choice for Hell Gongen due to his AGI.
 As a sweeper, he is quite subpar. Prefer a support build."
 "Guan Yu",TR,TP,8,9,9,"Innate Savage Glee and Dragon Blade allow him to hit insanely hard, clear Endures, frequently gain Turn Press from Crit hit.
 Transfer him Epitome of Carnage to make him a Crit Machine.
-High VIT, no weakness and strong defensive awakening skills in Purple (Null Mortal) and Teal (Drain Phys to be paired with Rama).
+Null Mortal in Purple combats the Mortal Meta esp. Alice A Teams.
+Teal (Drain Phys) is decent if paired with Rama. It counters Phys-heavy teams (mirror match up, Masakado, Guts).
 Loyal God of War refunds MP and heals him each time he kills. The healing is based on max HP, thus can be amped by Life Brands.
-The high bulk, DPS and self-sustain allow to sweep teams on his own.","Dragon Blade's chain effect will not activate if it misses on the first target.
-Highly dependant on the first kill for tempo. Failing to secure the first kill will result in him not having enough MP for the next turn."
+He beats entire teams alone due to his healing, MP refill and DPS.","When Dragon Blade misses, its chain effect won't activate.
+Its high MP cost limits Guan Yu's power if your Team goes first."
 "Guts",P,P,8,7,8.5,"Very high Crit rate thanks to Savage Glee and The Struggler.
 Dragon Slayer does insane AOE Piercing Physical damage and bypasses Endure-type skills. It can also be cast Turn 1 due to its low MP cost.
 Butcher in purple further augments his damage.
@@ -477,10 +478,9 @@ Purple provides Fire Pierce if preferred for PVE.","Ice weakness, a very common 
 AI is very bad on Defense without Divine Brands, as he will only Ragnarok once and default to spamming Berserker God.
 No innate Fire Pierce if Clear."
 "Susano-o",P,CP,6,6,6,"Very powerful Force nuker. Kusanagi hits extremely hard and autocasts Tarukaja to further buff your team's attack.
+As Kusanagi is treated as a spell, it bypasses any accuracy checks letting him land it reliably.
 Easy 4x4 fusion paths and good panels make him a decent P3 goal to strive toward.
-Since Kusanagi scales from Phys Attack, Mortal Jihad is also a viable method of attack.
-His ability to effectively attack in two elements (Phys and Force) allows him to work around his lack of pierce in most situations.","Middling Accuracy means that Mortal Jihad will be prone to missing in higher tiers of PvP where evade builds are more common.
-No innate pierce.
+Both Kusanagi and Mortal Jihad scale from Phys Attack, allowing him cover two elements decently (albeit without pierce).","No innate pierce.
 Fire Weakness"
 "Susano-o A",TRP,TP,8,8,9,"Is a Phys powerhouse with proper brands and can be used to focus down enemies quickly with Violent Slash.
 Heavenly Valor punishes enemies who pass when used in PVP Defense teams.
@@ -659,9 +659,7 @@ Low AGI stat but is low enough that it's actually good for slow teams.
 Has a rare skill in the form of Auto-Tarunda","Two awful innate attacks making him very passive in PvE and PvP.
 Diminishing his support role.
 Fire Weakness."
-"Gurr",RP,RP,5,6,6,"Belongs to the class of demon you want at least one of in your team to go consistently first in PVE and PVP.
-For PVE, he is not the best one from that class.
-But he has innate Speedster.
+"Gurr",RP,RP,5,6,6,"He is a very high AGI demon with Speedster. In PVE, having one of those in the team is near mandatory.
 Yaksha Claw a passive quick effect that can inflict Bind: ailment passive quick effects are extremely precious for Ailment Team.
 This passive pairs perfectly with Pale Rider one of the strongest ailment demon of the game.","2 weaknesses
 Phys weakness is extremely disavantageous.

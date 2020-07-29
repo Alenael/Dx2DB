@@ -6,6 +6,13 @@ Can be used to in most PVE content like Aura Gate, Brands of Sin (especially Van
 She's cute!!","Needs Dark Pierce (weak) and Panel 3 to really shine, without those her PVP rating would be around 7.
 Needs to run Divines without Panel 2 for first turn Die for Me!.
 Skilled players will play around Alice defense, manipulating her to cast Mamudoon instead of Die for Me!. To mitigate this, have her MAtk as low as possible."
+"Alice A",T,TP,9.5,9.5,9.5,"The only demon in the game with AOE Mortal. When paired with curse support like Nebiros, she can easily decimate entire teams without Null Curse and/or Null Mortal.
+Drains 1 MP from the enemy at the start of their turn, which stops MANY T1 sweepers (eg Baal, Anat, Uriel) in their tracks.
+Trivializes almost all PVE content like Aura Gate and Hell's Park - pair her with an AOE curse inflictor and instakill everyone!
+Purple gains Null Mortal which prevents her from being killed by other Mortal users.
+She's cute!!","Hard countered by Null Curse and Null Mortal.
+Weak to light and by extension the Archangels matchup. Teal fixes this somewhat but you lose Null Mortal in return.
+Cannot be used in the same team with OG Alice."
 "Alilat",C,C,8,6,6,"While alive, Repel Pierce will prevent pierce skills from going through Repel resistances. Pair her with demons with a lot of Repels (like Asura Lord or Vairocana) or with Repel Phys (like Teal Gogmagog and Teal Quetzalcoatl).
 Very high LUK stat allows her to be built as an Ailment caster by transfering an Ailment skill.
 Thanks to stats and passives, she has extreme Ailment resistance: transfer her Silent Prayer or Prayer, she will be an Ailment cleanser.
@@ -80,6 +87,10 @@ Difficult to build due to Gomorrah (B) scaling off both PATK and MATK.
 Mediocre overall stats, bad bulk.
 Absolutely requires at least P2 to have any relevancy in PVP: get a PVP rating much lower than 6 if not paneled.
 No longer meme :("
+"Belial",P,P,7.5,7,7.5,"Flames of Gomorrah is a hard hitting fire phys skill that pierces, crits and can be cast T1 even with War brands. Fire Amp in Purple makes it even deadlier.
+When paired with Curse support, Sins of Sodom provides auto-Debilitate allowing him to sweep harder.
+P2 allows him to Crit indefinitely.","Lack of ST gives him trouble with Fire Anti-Pierce like Atavaka-Vairocana or Rama-Surt.
+Ice weakness."
 "Black Frost",Any,Any,7,5,5,"High Magic stat and innate Pierce on Go to Hell! makes him a good magic sweeper.
 Curse of Anguish and Panels pair well with Yama who automatically curses everyone at the start of the Boss wave.
 Yellow gains access to Concentrate to further increase his sweeping potential.
@@ -300,7 +311,7 @@ High MP-cost skills.
 Expensive to fuse, and needs to be Panel 3 to become good in Late PvE.
 Middling AGI means he does not fit slow or fast PvP teams.
 Get countered hard by Anti-Pierce units like Rama, Alilat and Atavaka in PvP."
-"Masakado",P,TP,9,10,10,"Highest STR and strong Phys Attacks make him hit hard. In Purple, Phys Amp will increase his damage even more.
+"Masakado",P,TP,8.5,10,10,"Highest STR and strong Phys Attacks make him hit hard. In Purple, Phys Amp will increase his damage even more.
 Occult Flash inflicts Mortal, an one-shot ability, it also has high Crit rate, allowing you to get more Press Turns after Mortaling enemies.
 It still deals massive damage even to enemies with Null Mortal.
 Warlord's Wrath is an insane passive combining Intimidating Stance, Faithful Counter and Phys Pierce.
@@ -358,6 +369,13 @@ Full Almighty kit means she is shut down hard by Five Elements
 Low AGI and high MP costs makes her unsuitable for fast teams.
 Countered very hard by Daisoujou clearing her charms and punishing her for using them.
 The MP drain aspect of Babylon Goblet is less useful for PVE, as the AI has infinite MP. It does allow you to replenish her MP indefinitely though."
+"Nebiros",TP,TP,8.5,9.5,9.5,"Call of the Dead is the only revive skill in the game without a usage limit. This enables infinite revives especially if paired with healing support like Nadja.
+As Call of the Dead triggers at the end of the enemy turn, it lets you start your turn with full press turns, and proc any start of turn chain effects like Archangels.
+Hand of Glory provides AOE Curse + Luster Candy on ally death. The Curse is great setup for Alice A (and his own passive) while the buffs increase your likelihood of surviving the turn.
+Highest LUK in the game paired with innate Epitome of Madness makes him a great Dodge tank.
+P2 grants Null Mortal which makes him even harder to kill.","Hard countered by Null Curse and revive sealing skills like Sword of Actuation.
+Weak to light and by extension the Archangels matchup. Teal fixes this somewhat but you lose Null Bind in return.
+Call of the Dead can be mitigated by a Cleric removing Curse before end of the turn."
 "Nergal",P,P,5,5,6.5,"Plague of Babylon removes Barriers and has a very high chance of landing Weak status, making him incredible setup for Ailment Teams.
 High STR, Auto-Tarukaja and increased Accuracy from Meslamtaea make him a decent Physical demon, especially when Paneled.
 Auto-Rebellion on Poison boosts his damage and synergizes with Pale Rider.
@@ -436,7 +454,7 @@ Innate Trisagion and Thunderclap deal massive damage when targeting weakness.
 Garden of Eden provides a teamwide boost to damage on hitting weakness, making him perfect for Democalypse.
 Panels give him and his teammates even more damage.","Only obtainable through Democalypse grinding.
 High MP costs make him unsuitable for anything outside Democalypse."
-"Seth",CT,CT,6,4.5,4.5,"Ouas is a very powerful ST nuke that has a high crit rate and a strong heal.
+"Seth",CT,CT,8,4.5,4.5,"Ouas is a very powerful ST nuke that has a high crit rate and a strong heal.
 Extremely high STR and LUK means he will hit hard and crit often.
 Teal covers his weakness while Clear gives him an AOE skill in Titanomachia.
 Yellow gives him Nocturne which allows him to play a more support-oriented role, especially with innate Debilitate.

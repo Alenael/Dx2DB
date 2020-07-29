@@ -87,9 +87,11 @@ Difficult to build due to Gomorrah (B) scaling off both PATK and MATK.
 Mediocre overall stats, bad bulk.
 Absolutely requires at least P2 to have any relevancy in PVP: get a PVP rating much lower than 6 if not paneled.
 No longer meme :("
-"Belial",P,P,7.5,7,7.5,"Flames of Gomorrah is a hard hitting fire phys skill that pierces, crits and can be cast T1 even with War brands. Fire Amp in Purple makes it even deadlier.
-When paired with Curse support, Sins of Sodom provides auto-Debilitate allowing him to sweep harder.
-P2 allows him to Crit indefinitely.","Lack of ST gives him trouble with Fire Anti-Pierce like Atavaka-Vairocana or Rama-Surt.
+"Belial",P,P,8,7,7.5,"Flames of Gomorrah is a hard hitting fire phys skill that pierces, crits and can be cast T1 even with War brands. Fire Amp in Purple makes it even deadlier.
+Sins of Sodom provides Fast-Debilitate if an enemy is cursed which pairs perfectly with the 80% curse-rate of Flames of Gomorrah.
+He pairs well with Nebiros who can curse before your turn.
+PvE enemies including Bosses are not immune to curse, making him an insane PvE Debuffer.
+Panel 2 allows him to Crit indefinitely.","Lack of ST gives him trouble with Fire Anti-Pierce like Atavaka-Vairocana or Rama-Surt.
 Ice weakness."
 "Black Frost",Any,Any,7,5,5,"High Magic stat and innate Pierce on Go to Hell! makes him a good magic sweeper.
 Curse of Anguish and Panels pair well with Yama who automatically curses everyone at the start of the Boss wave.
@@ -171,14 +173,13 @@ Brilliant Wings fits well in an evasion based team together with Nekomata A.
 Gale Talon is very damaging against lone targets like Bosses, making him very potent for Democalypse.","Needs a team built around him to be really effective
 Useless against Magic teams
 Gale Talon takes time to reach full potential, reducing his T1 potential."
-"Gogmagog",T,T,7.5,7,6,"Very high bulk and innate Earthquake lets him hit hard off that bulk.
+"Gogmagog",T,T,8,7,6,"Very high bulk and innate Earthquake lets him hit hard off that bulk.
 Three weaknesses makes him a good partner for Orcus.
 Less competition for Brands compared to your other demons, as he relies on PDEF for damage.
 Panels let him play a more support-oriented role, providing team-wide bonuses as long as he is alive. Crit resistance is especially valuable in the current PVP meta, which has heavy crit emphasis.
-Repel Phys in Teal pairs well with Alilat or Atavaka as an Anti-Pierce.","He misses. A lot.
+Repel Phys in Teal pairs well with Alilat or Atavaka as an Anti-Pierce.","Abysmal AGI means he misses. A lot.
 Added damage from Weakness can be too much for his passive heal.
-No innate pierce and is a bad choice for Hell Gongen due to his AGI.
-As a sweeper, he is quite subpar. Prefer a support build."
+No innate pierce and is a bad choice for Hell Gongen due to his AGI."
 "Guan Yu",TR,TP,8,9,9,"Innate Savage Glee and Dragon Blade allow him to hit insanely hard, clear Endures, frequently gain Turn Press from Crit hit.
 Transfer him Epitome of Carnage to make him a Crit Machine.
 Null Mortal in Purple combats the Mortal Meta esp. Alice A Teams.
@@ -478,7 +479,7 @@ Insane set of panels that covers all his weak points.
 Incredible Elemental resistances especially in Teal. All these Elemental Drains make him an excellent partner for Rama in PVE.","Third Eye can miss.
 Third Eye is 7-MP at max level without Panel 3. This is very bad for PVP Turn 1 sweeping which is an issue as he is designed for T1 sweep. Without Panel 3, to counter this you need him paired with Parvati.
 His PVP rating is lower than 9.5 without Panel 3 and incredibly lower without Panel 2."
-"Siegfried",R,R,7.5,7.5,7.5,"Arms Mastery gives Phys Amp and +25% Accuracy when maxed.
+"Siegfried",R,R,8,7.5,7.5,"Arms Mastery gives Phys Amp and +25% Accuracy when maxed.
 Titanomachia at 6 MP, in Red, is an efficient AOE with high crit rate; transfer him a Crit Rate passive boost like Savage Glee or Epitome of Carnage for the AOE to be a devastating Crit machine.
 Drain Phys and strong offense: decent candidate for Drain Teams.
 Panels give him Phys Pierce, increases his defense and offense.","Heavily reliant on panels; without Panel 2, he needs Phys Pierce (weak) transferred and even then would be worth at best 5 in PvP rating.

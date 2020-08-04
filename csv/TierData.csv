@@ -35,7 +35,7 @@ Relies heavily on transfer skills to function well. Unfortunately most good tran
 High MAG stat, passive skills and Panels further her AOE DPS.
 Killer Impulse may add another layer of damage.
 Red gives Thunder Reign which can circumvent Elec Anti-Pierce such as Rama + Mother Harlot. Note that it does not pierce though!","Force weakness
-Without Panel 2, her PVP and PVE tier rating are lower than 8.
+Without Panel 2, her PVP tier rating is lower than 8.
 Expensive to fuse and only available in clear. Colored variants are Gacha exclusive.
 Only Thunderstorm and Killer Impulse have pierce."
 "Asherah",TP,TY,6,9,8.5,"Mother's Creation is the best Resurrection spell; Press Turn Generation is really strong.
@@ -70,7 +70,7 @@ The fact the debuff from Enemy Annihilation only lasts 1 turn with high MP-cost 
 Rains of Canaan provides a teamwide Force damage boost.
 Good synergy with other Force sweepers like Susano-o and Garuda A
 Red gives Killing Wind which circumvent Force Anti-Pierce such as Rama + Susano-o A. Note that it does not pierce though!","Ice weakness
-Without Panel 2, his PVP and PVE tier rating are lower than 8.
+Without Panel 2, his PVP tier rating is lower than 8.
 Expensive to fuse and only available in clear. Colored variants are Gacha exclusive.
 Only has pierce through Tempest."
 "Barong",T,Any,7,4.5,4.5,"Barong Dance is a healing skill with infinite uses which is useful for drawn out battles in PvE while buffing the team.
@@ -254,6 +254,13 @@ Awkward combination of balanced stats and having both Physical and Magic skills 
 Very bad bulk means she will get shredded by Magic teams, which ignore her evasion.
 Pretty much outclassed by P3 Lilith, who does Bind upon Charm better.
 Panels do not benefit her much."
+"Kali",RP,P,8,8,7,"Violent Dance deals incredible burst damage to a single target and can be cast T1 even with War Brands (or with Divines if wary of Alice A).
+Can reliably crit for press turns thanks to Violent Dance putting her in a state of Rebellion.
+Gains Phys Amp in Purple turning her into a true Goddess of Slaughter.
+Panel 2 provides an MP refund, allowing her to spam Violent Dance.
+Red gives her access to discounted Hades Blast, giving her an AOE skill for PVE.","Requires a state of Rebellion to reach full potential. This mandates either one turn of warm up, or an Auto-Rebellion transfer.
+Loses turns if she misses even 1 of 6 Violent Dance hits.
+Weak to Ice."
 "Kartikeya",C,C,8.5,8.5,8,"Fastest demon in the game especially when passive is maxed, allowing you to hit battlespeed requirements in PVE easily.
 Skanda proides teamwide Accuracy and Crit chance boost.
 Mortal Jihad plus Great Aim means he will rarely miss, while having a good crit rate to generate press turns for your team.
@@ -574,6 +581,13 @@ Laughs at his enemies occasionally","Very harshly countered by Five Elements on 
 Relies on auto-attacks, does not contribute much if his teammates are spamming skills instead.
 Demons with AOE reduction passives like Hecatoncheires and Orcus significantly reduces his damage.
 Limited-time Collaboration unit, unlikely to return in the future."
+"Xi Wangmu",Any,P,6,9,9,"Peach of Immortality gives all your demons two extra lives. This is especially powerful if coupled with naturally tanky demons like Hecate and Guan Yu, or demons with on-death effects such as Ixtab and Nadja.
+Goddess' Fan removes all buffs from the opponent and fully debuffs them, swinging buff advantage in your favor.
+Above average bulk and Null Mortal in purple allows her to survive most onslaughts and resurrect her fallen teammates.
+Decent PVE Healer with innate Mediarama.","Hard countered by revive sealing skills such as Sword of Actuation.
+Demons are immediately raised by Peach of Immortality upon death. This can be a disadvantage against Hyper Offensive comps, who can simply kill said demon again in the same turn.
+Peach of Immortality can be blocked via Bind. Null Bind is recommended to circumvent this.
+If multiple demons are killed at once through the same AOE, Peach of Immortality will only trigger once. This slightly disadvantages her in regards to AOE sweeping."
 "Yama",RP,P,7,5,8,"Very powerful Dark Mage. Guilty passively increases his dark damage while dealing bonus damage at the start of a boss wave.
 Only true Dark Pierce demon in Purple.
 Enma's Judgement provides team-wide Null Mortal and Rakukaja, which can be very powerful in PVP depending on tier.

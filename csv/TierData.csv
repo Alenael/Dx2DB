@@ -110,13 +110,13 @@ Difficult to Panel due to Clear demons only giving 60 spirits."
 Good balanced stats coupled with no weaknesses and a perfect base kit allows total freedom in builds.
 Can work as a bulky tank, evasion tank, healer and/or revive support based on build.
 Very useful for Brands of Sin Sloth 11 auto-runs.","Is a hard support unit, relies on transfer skills to offer anything outside cleanse.","He is very good in the current Curse-focused Meta, particularly against Nebiros."
-"Dante☆",Any,RP,2,2,2,"High Str plus Auto-Rebellion from Rapid Shot makes him a good Phys Sweeper.
-Very bulky with no weaknesses.
-Million Stab is a multihit AOE skill, breaking Endures and piercing while in Might.","Low AGI and LUK affects his accuracy.
-Will not autocast Rebellion if any of his Rapid Shot misses.
-Million Stab is high MP-cost and requires setup in order to Pierce.","Pairs well with Hell Biker or Panel 3 Zaou-Gongen for free Rebellion setup.
-Limited-time Collaboration unit. Nobody knows if he will be rerun.
-Currently does not have panels, reducing his potential."
+"Dante☆",Any,RP,3,2,2,"Rapid Shot deals five hits and puts him in a state of Rebellion without consuming any MP. This can be useful versus MP Denial teams like Alice A.
+High STR and VIT make him a bulky Phys Sweeper with with no weaknesses, perfect for slower Intimidating Stance Teams.
+Million Stab is a piercing multihit AOE skill, useful for breaking Endures. At max levels it also refunds 2 MP on cast, making it easier to spam in PvE.","Low AGI and LUK affects his accuracy.
+Missing just one of Rapid Shot's 5 hits results in lost press turns. The Rebellion Autocast will also not trigger if any shot misses.
+Million Stab has high MP costs, making it difficult to use for PvP.
+No natural Pierce outside Panel 1 might cause issues when out of MP (Rapid Shot does not naturally Pierce).
+His Awakening Skills are mostly useless.","Limited-time Collaboration unit. Nobody knows if he will be rerun."
 "Demonee-Ho",Y,YP,2,2,2,"Desperate Hit deals damage to random enemies at the end of his turn. This is great for cleaning up lone surviving targets and/or breaking Endures.
 Desperate Hit deals Almighty (Phys) damage, which cannot be negated whatsoever.
 Iron Judgement deals Piercing Physical damage with a high chance to Bind, helping him land Desperate Hit shots. Low MP cost also makes it possible to be cast twice per turn even with War Brands.","Combination of ST, AOE, Phys and Almighty elements in his kit makes it difficult to further boost his damage.
@@ -359,8 +359,7 @@ Voltage synergises perfectly with Overture and gives your party attack and accur
 Very good for Democalypse where he does not have to worry about MP issues and can repeatedly spam Concentrated Overtures while on Spell Brands for insane damage.","Hard countered by Anti-Pierce, as Overture will not autocast Concentrate (and by extension Voltage) if the attack hits into NDR.
 Mediocre stats, relies on Concentrate from Overture to deal damage.
 No ST skills if not in Red.
-High MP costs and no MP recovery prevent him from spamming his spells freely.","Limited-time Collaboration unit. Nobody knows if he will be rerun.
-Currently does not have panels, reducing his potential."
+High MP costs and no MP recovery prevent him from spamming his spells freely.","Limited-time Collaboration unit. Nobody knows if he will be rerun."
 "Norn",C,C,3,1,1,"Moment of Fate procs Dekaja + Luster Candy on the boss wave. This is great for PVE content with Auto-Debilitate such as Brands of Sin Sloth 11 and 12 stages and certain Kiwami.
 High MAG Stat plus innate Merciless Blow makes her a great demon for Democalypse (provided you transfer an offensive skill).
 Recovery Amp and discounted Mediarahan let her function as a PVE Healer with a decent offensive presence.","Has no offensive skills despite possessing Merciless Blow. Heavily relies on transfers for an offensive presence or at least do more than heal.

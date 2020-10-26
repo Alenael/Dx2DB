@@ -32,6 +32,11 @@ Panel 2 is Mandatory for Turn 1 Thunderstorm.
 Expensive to fuse and only available in clear. Colored variants are Gacha exclusive.
 Only Thunderstorm and Killer Impulse have pierce.","Requires additional MP Support when going against Alice A teams
 Red gives her discounted Thunder Reign which can be used against Elec Anti-Pierce such as Rama + Mother Harlot. Note that it does not pierce though!"
+"Aniel",P,P,4,4,4,"Glorious Bolt restores 1 MP to the whole party (including himself) and costs a measly 5 MP to activate.
+The MP restoration aspect is very powerful in the current PVP meta as a counter to Alice A's passive MP Drain. This is most notable on an Archangels comp, who previously had to run suboptimal techs like Lakshmi A to avoid being crippled by Give me Jewels.
+Even outside Archangels, he can function as an offensive MP Battery to give T1 teams even more muscle.
+Innate Thunderclap and Light Enhancement in Purple make him a powerful nuker for Light Democalypse.
+Panel 3 unlocks a damage aura for your other Archangels, further elevating the damage ceiling of that team comp.","As Archangels are mostly used as Glass Cannon teams, God's Grace is irrelevant most the time (outside of the passive damage boost).","-"
 "Asherah",TP,TY,3,4,4,"Mother's Creation revives a unit with full HP while also generating Press Turn, allowing the resurrected unit to act immediately.
 Silent Prayer in Yellow allows her act as a Pseudo-Cleric and also remove Barrier, Tetraja, Charge etc.
 Innate Mediarama and Recovery Amp in Purple lets her function as a decent PVE healer.","Weak to Ice and Dark, both very common attacking elements.
@@ -133,11 +138,12 @@ Red Fafnir meme pull"
 Vengeful Frost Fist is a heavy hitting Ice-element Physical attack that can Crit and autocasts Rebellion on hit. This allows him to crit infinitely at the cost of a measly 4 MP.
 Icy Rage provides a teamwide Ice damage buff, incredible for Democalypse.","No added accuracy in his kit. Requires Accuracy investment as Vengeful Frost Fist is prone to missing.
 Vengeful Frost Fist cannot hit through Tetrakarn nor any Ice NDR without P3 or Ice Pierce (weak).","-"
-"Gabriel",TR,T,4,4,4,"One of the core demons in the Archangels archetype. When combined with two other Herald or Divine demons, God's Word dishes out massive damage even before battle really begins.
+"Gabriel",RP,P,4,4,4,"One of the core demons in the Archangels archetype. When combined with two other Herald or Divine demons, God's Word dishes out massive damage even before battle really begins.
 Chain effects do not consume press turns even when hitting NDR.
 Innate Thunderclap and Elec Enhancement in Purple means she can function well as an Elec Mage too, particularly for Democalypse.","Needs a specific team built fully around her.
 Chain effects kills demons before they have a chance to talk, making her less useful for Aura Gate.
-Weak to Dark","Requires additional MP Support when going against Alice A teams
+Weak to Dark","The 10% weakness damage bonus from Elec Enhancement applies even to non-Elec skills like God's Word. This allows her to further punish any Hecate, Nebiros and/or Alice A who leave Light Weakness open.
+Requires additional MP Support when going against Alice A teams
 Reflected God's Word will damage her because of innate pierce. Beware of Alilat and Atavaka."
 "Garuda",Any,RP,4,3,3,"One of the fastest and most flexible demons in the game. With Speedster transferred, he can help your team hit various PVE battle speed requirements, while fulfilling either a support or additional DPS role depending on build.
 Vahana provides additional Evasion and can stack with other evasion passives like Evade to make him a dodge tank.

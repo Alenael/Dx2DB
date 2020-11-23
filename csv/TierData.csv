@@ -26,7 +26,7 @@ Reasonable bulky with 3 Nulls makes him a decent support demon. War Cry or Recar
 Works well in slow double Intimidating Stance teams, and can be deliberately left at level 1 to lower battle speed if used as a pure buff bot.","Weak to Force
 Buffs disappear after a wave is cleared in PvE, so Auto-Skills aren't as valuable there.
 Relies heavily on transfer skills to function well. Unfortunately most good transfer skills are Gacha-only.","-"
-"Anat",P,CP,4,5,4,"Thunderstorm deals high piercing AOE damage and autocasts Tarunda.
+"Anat",P,CP,4,5,5,"Thunderstorm deals high piercing AOE damage and autocasts Tarunda.
 Killer Impulse lets her function as an Endure breaker, and has great synergy with Hresvelgr.","Weak to Force
 Panel 2 is Mandatory for Turn 1 Thunderstorm.
 Expensive to fuse and only available in clear. Colored variants are Gacha exclusive.
@@ -71,6 +71,13 @@ Requires a good team built around her.
 Awkward mix of 4 Elements plus having both ST and AOE skills makes it difficult to boost her damage outside Elemental Cycle.
 As Press Turns are calculated based on the number of demons alive at the start of the turn, any demons who survive Passionate Rage will gain access to multiple press turns. Several demons like Guts and Anat can abuse this to reverse sweep instead.
 Due to the way the Moirai Sisters archetype is typically built, Revive Sealing units like Skull Knight are a very powerful counter.","Tzitzimitl bears special mention here. If she can survive Passionate Rage, she will gain immediate access to Disastrous Eclipse and Star of Darkness, letting her fire off hard-hitting AOE Revive Seals."
+"Azazel",T,TP,2,3,3,"The only demon in the game with access to two innate Endures. He can stack up to 4 Endures as a result, giving him immense survivability as long as it is not bypassed.
+Fallen Grigori provides him HP and MP sustain every turn (as long as he is below the 50% threshold). Combined with his Endure stacks, this can make him very difficult to kill.
+Guillotine Blaze is a low MP single target Fire Nuke that pierces, ignores Endures and has high crit rate. This is further augmented by innate Fire Amp and constant Rebellion from Fallen Grigori.
+Panel 2 fire off a free Guillotine Blaze every turn, letting him deal extra damage without consuming MP.","Weak to Elec, which is currently a very bad weakness to have thanks to Atropos.
+Damage is lackluster in Fire Democalypse Boss Phase, as the Boss has +100% Crit Resist.
+Only Guillotine Blaze has pierce.
+Several skills like Sword of Actuation and Dragon Slayer completely ignore Endures, negating huge portion of his kit.","Red provides him discounted Maragidyne, giving him access to an AoE skill for PVE and/or Democalypse. Note that it will not pierce though!"
 "Baal",P,RP,4,4,4,"Tempest deals high piercing AOE damage and autocasts Sukunda.
 Rains of Canaan provides a teamwide Force damage boost.
 Good synergy with other Force sweepers like Susano-o and Garuda A","Weak to Ice
@@ -78,7 +85,8 @@ Expensive to fuse and only available in clear. Colored variants are Gacha exclus
 Only has pierce through Tempest.","Requires additional MP Support when going against Alice A teams.
 Red gives him discounted Killing Wind which can be used against Force Anti-Pierce such as Rama + Susano-o A. Note that it does not pierce though!"
 "Barong",T,Any,4,2,2,"Barong Dance provides a decent AOE heal while giving the party a full Luster Candy buff. It also has infinite uses and can be reduced to a mere 5 MP when maxed with Panel 1 unlocked.
-Very high AGI allows him to be used as a fast support, especially with Speedster transferred for Battle Speed requirements.","Weak to Force and Dark.
+Very high AGI allows him to be used as a fast support, especially with Speedster transferred for Battle Speed requirements.
+Can be used as a buffer for Elec Democalypse thanks to Barong Dance having high cast priority.","Weak to Force and Dark.
 Low MAG stat means he won't heal for much.
 Elec attack spells (and Elec Amp in purple) are wasted slots considering his bad Magic stat.","Niche use in Aura Gate as giving him Support AI with his MAtk low enough guarantees he'll heal you with Barong Dance no matter your HP. This is useful to recover HP lost from Talk and/or enemy encounters."
 "Bayonetta☆",P,Any,2,2,2,"Madama Stomp levels and Savage Glee in purple give her enormous crit rates.
@@ -99,6 +107,12 @@ Innate Mabufudyne and Ice Amp in Purple lets him function as an excellent Ice Sw
 Go to Hell! has low base power and does not gain damage on level up.
 His damage output is below average and needs his Curse gimmick.
 Dark element AOEs are severely countered by the PVP Meta (Masakado + Rama or Atavaka + Hecate)","-"
+"Black Maria",T,TP,2,2,2,"Black Beckoning grows stronger with every passing turn, culminating in a massive Fractional damage nuke on turn 4.
+Black Lullaby provides an AOE Heal while Muting all enemies. This further chains into a Rakukaja + Sukukaja buff with Panel 2 unlocked.
+High LUK helps her with landing ailments and run a Dodge Tank build relatively well, especially if you have access to Panel 1 and/or Epitome of Madness.","Weak to Force
+Black Beckoning has a low damage cap (3400 Max Damage combined). As a result, she will have trouble killing bulky units without additional damage support.
+Black Beckoning boost level only increases if she is alive at the start of your turn. By repeatedly killing her, you can delay the Fractional nuke indefinitely.
+Black Beckoning has a usage cap of 1 - once the max boost level nuke is fired, it will simply stop functioning for the rest of the battle.","Has decent synergy in a Moirai Sister team - she fulfills their skill requirements being of the Lady race, and the constant passive damage from Atropos brings targets down to Black Beckoning kill range. She will also benefit from any ailment immunity panels they have."
 "Black Rider",T,P,2,3,3,"Soul Divide punishes healing by dealing Fractional damage based on their current health. Useful in Brands of Sin Vanity stages where healing is abundant.
 Soul Divide also punishes passive healing such as Guan Yu's Loyal God of War and Hecate's Lunar Awakening.
 Famine deals fractional damage to all enemies and saps 2 MP at the end of their turn. Pairs well with Alice A for a devastating MP denial comp.
@@ -108,7 +122,7 @@ High AGI makes him awkward to slot in slow teams, despite the great synergy with
 "Clotho",P,P,3,4,4,"A powerful (but not mandatory) addition to the Moirai Sisters archetype, Woven Fate is a 6 times use AOE Heal that also randomly revives one of your fallen teammates. Not only does this allow you to constantly revive Atropos, it also ensures all of their chain effects can go off.
 When combined with two other Lady or Femme demons (preferably her two other sisters), Passionate Allure charms all enemies at the end of her turn. This forces teams to constantly waste turns curing Charm, while Passionate Rage constantly chips at them.
 Has arguably the best Panels for ailment immunity. Panel 1 prevents the team from being swept by Alice A, while Panel 2 makes them immune to Charm in the events of a mirror match.
-High LUK helps her with landing ailments, while allowing her to run a Dodge Tank build relatively well, especially if you have access to Epitome of Madness.","Passionate Allure's Auto-Charm can be punished by Daisoujou on the opposing team. This point is moot if you have Panel 2 Atropos, which makes your team immune to Mute.
+High LUK helps her with landing ailments and run a Dodge Tank build relatively well, especially if you have access to Epitome of Madness.","Passionate Allure's Auto-Charm can be punished by Daisoujou on the opposing team. This point is moot if you have Panel 2 Atropos, which makes your team immune to Mute.
 Requires a good team built around her.
 Due to the way the Moirai Sisters archetype is typically built, Revive Sealing units like Skull Knight are a very powerful counter.","As it is classified as a Recovery skill, the AI will spam Woven Fate to heal HP even if there are no downed demons, wasting the charges.
 Highly reliant on having Panels to do well, as she faces stiff competition from other Lady / Femme demons like Xi Wangmu and Asherah for the slot in Moirai Sister teams."
@@ -202,7 +216,7 @@ Lunar Awakening only triggers at the end of the enemy's turn. This makes her use
 "Hresvelgr",RP,YP,4,4,4,"Highest Base AGI in the game, making him invaluable for fast teams.
 His unique North Wind deals AOE Ice damage whenever an opposing demon dies. This adds to the damage of fast Turn 1 teams and allows him to clear Endures.
 Auto-Rakunda in Purple further increases Turn 1 kill potential.
-Decent MAG with innate Ice Boost lets him fire off strong Budufynes.","No ice pierce.
+Decent MAG with innate Ice Boost lets him fire off strong Bufudynes.","No ice pierce.
 Does not have Speedster innately which in turn consumes a skill slots.
 Weak to Phys and Fire. Phys Weakness is particularly bad unless paired with Orcus for Press Turn denial.","-"
 "Huang Di",R,RP,4,2,3,"Superior Power gives him Phys Pierce and an accuracy boost.
@@ -320,7 +334,7 @@ Warlord's Wrath is a loaded passive that combines Intimidating Stance, Faithful 
 Occult Flash is a high damage, high crit-rate single target skill that will inflict Mortal with 100% chance.
 Has no weakness and a perfect base kit, allowing you to tailor his remaining transfer slots however you like.
 Gains Drain Phys in Teal, allowing you to pair him Rama to act as a Phys Anti-Pierce unit.","Low Agility leads to accuracy issues, especially against evasive targets.
-Is very frail thanks to a low VIT and HP stat.","Unable to be paired with Masakado A."
+Is very frail thanks to a low VIT and HP stat.","Unable to be paired with Masakado A. This drops his Democalypse ranking by a decent amount, as Masakado A is a ridiculously powerful tech."
 "Masakado A",Any,P,5,5,5,"Guardian of the East provides 1 extra Press Turn when going first, enabling devastating Turn 1 Kill strats like Hero Masakado T1.
 Kuyo Flash can be cast 1st turn and swings offensive buffs entirely in your favor through autocast Tarukaja, Rakunda, Sukukaja and Sukunda.
 Panel 2 provides team wide Null Mortal for one turn. This is useful for sweeping Ixtab defenses, or protecting your allies from being counterswept by Alice A if you fail to kill them Turn 1.
@@ -520,21 +534,21 @@ Access to Concentrate to further increase his damage.
 No weaknesses and 2 Nulls give him a lot of flexibility in skill transfers.","Very high MP costs.
 Difficult to further boost Apocalypse damage.
 Hard countered by Five Elements, plus stiff competition from other Almighty sweepers like Mother Harlot.","-"
-"Tzitzimitl",Any,TR,2,3,2,"Demons die when they are killed by Dark Premonition, unable to be revived.
+"Tzitzimitl",Any,RP,2,3,2,"Demons die when they are killed by Dark Premonition, unable to be revived.
 Revive seal is very useful in certain PVE content (like several AG2 bosses) and to counter Nebiros and Xi Wangmu revive strats in PVP.
 High innate dodge rate which compliments the Mute from Dark Premonition.
-Red gains discounted Mind Blast, which can be used to further disable enemies.","Needs to be below 50% HP to unlock most of her kit, making her a glass cannon.
+Red gains discounted Mind Blast, which can be used to further disable enemies. Purple gains Enduring Soul to bolster her survivability.","Needs to be below 50% HP to unlock most of her kit, making her a glass cannon.
 Dark Premonition only has mediocre base damage, and can be stopped by Dark Anti-Pierce such as Rama + Masakado.
 Mediocre stats.
 Ailments fall flat in late PvE because of inflated enemy stats.
-Weak to Light","Tzitzimitl bears special mention as a hard-counter to Moirai Sisters, especially for target/revenging. If she can survive Passionate Rage, she will gain immediate access to Disastrous Eclipse and Star of Darkness, letting her fire off hard-hitting AOE Revive Seals. Pair her with Tlaltecuhtli and fodder demons sporting Auto-Rakunda and Auto-Taruka to get an immediate buff swing."
+Weak to Light","Tzitzimitl bears special mention as a hard-counter to Moirai Sisters, especially for target/revenging. If she can survive Passionate Rage (not hard if you run Purple), she will gain immediate access to Disastrous Eclipse and Star of Darkness, letting her fire off hard-hitting AOE Revive Seals. Pair her with Tlaltecuhtli and fodder demons sporting Auto-Rakunda and Auto-Taruka to get an immediate buff swing."
 "Uriel",TP,P,4,4,4,"One of the core demons in the Archangels archetype. When combined with two other Herald or Divine demons, God's Fire dishes out massive damage even before battle really begins.
 God's Fire gives your party a Tarukaja attack buff, and at Panel 2 even adds in a Rakunda debuff, swinging offensive buffs to your favor.
 Chain effects do not consume press turns even when hitting NDR.","Needs Team built around him
 Chain effects kills demons before they have a chance to talk, making him less useful for Aura Gate.
 Weak to Dark","Reflected God's Fire will damage him because of innate pierce. Beware of Alilat and Atavaka.
 Requires additional MP Support when going against Alice A teams."
-"Vairocana",YP,TP,3,3,3,"Radiant Mantra constantly resets all buffs and debuffs at the start of enemy turn. When used in a slow team, this allows him to nullify auto-skills, giving your team more flexibility in skill transfer.
+"Vairocana",YP,TP,3,4,4,"Radiant Mantra constantly resets all buffs and debuffs at the start of enemy turn. When used in a slow team, this allows him to nullify auto-skills, giving your team more flexibility in skill transfer.
 Good repel resistances makes him a natural partner for Alilat and Atavaka. Fire and Light repel is especially useful to counter Archangel teams, as it makes him immune to both their AOE elements.
 High MAG and Butcher in purple allows him to function as a strong almighty sweeper. In addition to dealing respectable almighty damage, Path of Prominence also applies a mini Luster Candy buff, extending his role as a buff control specialist.
 Yellow gives him access to discounted Mediarahan, allowing him to function as a decent PVE Healer.","Very hard to further boost his damage.
@@ -688,7 +702,7 @@ This passive pairs perfectly with Pale Rider one of the strongest ailment demon 
 Phys weakness is extremely disavantageous.
 Yaksha Claw is random target instead of AOE.","Yaksha Claw cannot bind if it gets Nulled, Repeled or Drained.
 It makes the use of Phys Pierce (weak) mandatory for a PVP build.
-Isn't the best Speedster in PvE due to his Phys weakness... But Hresvelgr has Phys Weakness. The difference is Hresvelger actually does decent damage."
+Isn't the best Speedster in PvE due to his Phys weakness... But Hresvelgr has Phys Weakness. The difference is Hresvelgr actually does decent damage."
 "Hanuman",C,C,2,2,2,"High STR
 Hits hard with Vorpal Blade.
 Can work for Autoing Brands of Sin stages","Lacks a single target physical skill

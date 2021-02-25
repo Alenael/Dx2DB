@@ -191,6 +191,12 @@ Does not gain true Phys Pierce unless fully panelled. This can cause issues with
 Low Base power on his skills means he will struggle to do damage.
 P2 will consume the Rebellion buff granted by Hell Leopard. This ends up decreasing his damage, as the Rebellion buff is wasted on the 75BP chain instead of his 130BP (more if levelled) Iron Fist.","In Democalypse Prelim Phase, you can only gain the +0.1 weakness hit multiplier once per skill, no matter how many times the skill hits. This is why you cannot gain more than +0.4 multiplier from skills like Ashura, Dragon Blade and MahaLantine.
 However Flauros can repeatedly gain weakness hit multiplier as Hell Leopard, Iron Fist and his Panel 2 chain effect are coded as different skills, bypassing the only once per skill limitation."
+"Flauros Hallel",R,T,4,4,4,3,3,"Demons die when they are killed by Baptisma, unable to be revived. This lets him counter Nebiros, Xi Wangmu and Clotho revive strats, making him an exceptional Anti-Meta unit.
+Unlike Skull Knight's Sword of Actuation and Lilith A's Temptation, Baptisma is a Spell instead of an Elemental Phys Skill. While it cannot crit as a result, it also cannot miss, giving Flauros Hallel the edge against evasive units.
+Halo of Hallel gains boost levels as the fight drags on. At max level, it confers team-wide Lydia and Luster Candy, providing your team an incredible amount of sustain.
+Teal provides Repel Elec. When used with Atavaka or Alilat, he can soft-counter Atropos, as the second part of Passionate Rage will not proc if the first Elec part is Anti-Pierced.","As nothing in his kit boosts damage, damage booster transfers are mandatory.
+Requires a good team built around him to really shine.","As he does not gain Null Curse until he actually gets a turn, he can be killed by Angra Mainyu + Alice A combos if outsped.
+Red grants him access to discounted Mahamadyne, which can be useful if you want a piercing AOE."
 "Frost Ace",P,P,3,3,3,2,5,"Very good Ice Nuker with built-in Ice Boost and Master Assassin in purple.
 Vengeful Frost Fist is a heavy hitting Ice-element Physical attack that can Crit and autocasts Rebellion on hit. This allows him to crit infinitely at the cost of a measly 4 MP.
 Icy Rage provides a teamwide Ice damage buff, incredible for Democalypse.","No added accuracy in his kit. Requires Accuracy investment as Vengeful Frost Fist is prone to missing.
@@ -454,6 +460,12 @@ Very good buff control with War Cry and Nocturne in Yellow.","Hell's Gate damage
 Very MP Hungry. Divines help with MP costs but reduce his bulk.
 Needs specific team compositions to work well.","You still receive extra damage from open weaknesses.
 Due to the way Law of Hell is coded, it will also deny bonus turns gained from a Crit if the attacked demon has a Physical weakness. This ironically makes Slime a great partner for him, as Slime has six open weaknesses including Phys."
+"Ose Hallel",RP,TRP,4,4,4,4,5,"Heavenly Sword puts him in a state of Charge and Rebellion after a single cast. This allows him to deal OBSCENE damage by spamming it over and over, especially if you have P2 unlocked for the MP reduction. It also bypasses Endures as a bonus.
+Sword of Hallel gains boost levels as the fight drags on. At max level, it autocasts Debilitate at the start of turn, which is incredibly valuable for Phys Democalypse Boss Phase.
+Can reliably crit for press turns thanks to Heavenly Sword constantly putting him in a state of Rebellion.
+Phys Amp in Purple greatly increases his damage output. Teal can be used for Repel Phys if you plan to combo him with Atavaka, Alilat or Demiurge.
+Red gives him access to discounted Hades Blast, which is extremely powerful when combined with the Charge effect from Heavenly Sword. As a bonus, this also evokes memories of simpler times, where Charge + Hades Blast Teal Ose was all the rage in PVP.","Requires casting Heavenly Sword once to begin the Charge cycle. This mandates one turn of warm up, which can be risky against Intimidating Stance comps.
+Does not gain Charge and Rebellion if Heavenly Sword misses.","-"
 "Pale Rider",TP,TY,1,3,3,4,2,"Very good in an Ailment Team, as Pestilence will kill any enemy after 2 turns, no questions asked.
 Perfect synergy with a set-up based sweeper Nergal. Nergal helps to remove any barriers and ensures Plague's poison can land via Weak, which in turn triggers his own Meslamtaea passive.
 Gains the strongest debuff Debilitate in Yellow, letting him double as a debuffer.","Weak to Elec
@@ -525,7 +537,7 @@ Has three sets of Drain resistances and no weakness if in Teal, making him an id
 No innate Pierce
 Very expensive to fuse.
 Weak to Ice","-"
-"Shiva A",TP,TP,4,4,5,3,1,"Third Eye is fully unblockable and will go through any elemental NDRs and barriers like Five Elements. It is also treated as a physical attack and as such can Crit.
+"Shiva A",TP,TP,4,5,5,3,1,"Third Eye is fully unblockable and will go through any elemental NDRs and barriers like Five Elements. It is also treated as a physical attack and as such can Crit.
 Ishvara provides auto-Rebellion and passively boosts his accuracy and crit chance.
 Insane set of panels that give him everything he needs (accuracy, better ST and reduced MP cost).
 Incredible Elemental resistances especially in Teal. All these Elemental Drains make him an excellent partner for Rama - Drain Elec in particular allows him to soft-counter Passionate Rage.","Hard to further boost Third Eye's damage as Almighty has no innate Boost/Amp.

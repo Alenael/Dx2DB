@@ -109,6 +109,11 @@ Limited-time Collaboration unit. Nobody knows if she will be rerun."
 Sins of Sodom provides Fast-Debilitate if an enemy is cursed which pairs perfectly with the 80% curse-rate of Flames of Gomorrah, or Nebiros who can curse before your turn.
 Panel 2 allows him to Crit indefinitely.","Weak to Ice
 Lack of ST skills gives him trouble with Fire Anti-Pierce like Atavaka-Vairocana or Rama-Surt.","Many PvE enemies including certain Bosses are not immune to curse, making him an insane Debuffer for PvE."
+"Berserker Guts",RP,P,3,5,5,1,3,"Berserk is the hardest-hitting ST skill in the game right now, sporting a massive combined 300 BP with sky-high Crit Rate, which also ignores any Endure skills. In addition, if the first part of the skill manages to kill the target, the chain effect will go off on a separate demon, effectively letting you clean up two demons in one go.
+High AGI and STR, coupled with his massive damage output, makes him a perfect fit for fast T1 teams, especially if paired with Masakado A, Angra Mainyu etc.
+Gains access to the rare Death Blow in purple, further increasing his damage. Red gives him access to discounted Binge Eating which helps to offset the fixed damage from Berserker Armor.","Berserk only has two charges. This makes missing particularly painful for him.
+Berserker Armor takes off 40% of his Max HP and the end of the opponent's turn, effectively turning him into a ticking time bomb.","Berserker Armor reduces ALL damage he takes by 40%. As damage reduction stacks additively, it is possible to reach over 100% AOE Reduction if combined with demons like Orcus + Slime and take literally zero damage (outside of Fractional damage).
+Limited-time Collaboration unit. Nobody knows if he will be rerun."
 "Black Frost",Any,Any,3,2,2,5,2,"High Magic stat and innate Pierce on Go to Hell! makes him a good magic sweeper.
 Curse of Anguish and Panels pair well with Yama who automatically curses everyone at the start of the Boss wave.
 Go to Hell! has a high Curse chance, which lets him setup for other curse-based sweepers like Alice A.
@@ -226,6 +231,13 @@ Less competition for Brands compared to your other demons, as he relies on PDEF 
 Panels let him play a more support-oriented role, providing team-wide bonuses as long as he is alive.
 Repel Phys in Teal pairs well with Alilat or Atavaka for Phys Anti-Pierce.","Abysmal AGI means he misses. A lot.
 No innate pierce.","Single target nukes will still hurt him a lot, especially with bonus damage from exploiting his multiple weaknesses."
+"Griffith",TR,TP,3,4,4,1,1,"Blade of the Absolute is an Almighty Physical attack with increased innate accuracy (1.5x), high crit rate and hits the same target multiple times, shredding Endures.
+Hawk of Light refunds 3 MP and sets up Almighty Tetrakarn on kill, letting him spam Blade of the Absolute repeatedly while completely walling off demons like Shiva A.
+Has evasion thanks to innate Evade and Hawk of Light providing an Evasion bonus.
+Panel 2 provides him Null Charm and Null Bind. Paired with Null Mute and a Cleanse transfer (such as Prayer), he can function as an evasive cleric that can also help with DPS if a cleanse is not required.","As he does not have any damage boosters in his kit (outside of P3), damage transfers as mandatory if building him as an assassin.
+Difficult to build as he requires too many stats to function, forcing you to choose which parts of his kit to specialize in.
+Requires a good team built around him to really shine.","Limited-time Collaboration unit. Nobody knows if he will be rerun.
+Red gives him access to discounted Vorpal Blade, which can be useful if you want a piercing AOE for PvE, especially since ANY kill will trigger Hawk of Light."
 "Guan Yu",TR,TP,4,5,5,3,4,"No weaknesses and high VIT stats make him very tanky, especially with Life Brands.
 High STR and native Phys Pierce make him a physical powerhouse.
 Loyal God of War refunds MP and heals him on a kill, giving him insane amounts of self-sustain.
@@ -409,7 +421,7 @@ Harmonious Death makes Mot a must-have in Democalypse Prelim teams. At Panel 3, 
 Has two strong AOE spells.
 Amazing set of panels that provide him MP reduction, Null Mortal and even more Press Turns.","Weak to Elec
 High MP costs","-"
-"Motoko Kusanagi",P,TY,3,4,4,4,1,"She is essentially an entire ailment team neatly packaged into one demon. Not only does Ghost Hack remove Barriers, it also has a high chance of inflicting Bind and Mute, in addition to only costing 5 MP to cast. With Panel 2 unlocked, this further chains into a Tarukaja and Sukukaja buff.
+"Motoko Kusanagi",P,TY,3,4,5,4,1,"She is essentially an entire ailment team neatly packaged into one demon. Not only does Ghost Hack remove Barriers, it also has a high chance of inflicting Bind and Mute, in addition to only costing 5 MP to cast. With Panel 2 unlocked, this further chains into a Tarukaja and Sukukaja buff.
 At the end of her turn, Optical Camouflage hits every demon suffering an ailment with a Piercing Phys AOE. This damage can be further ramped up by the discounted Charge she gains in Yellow.
 Due to how packed her kit is, she can easily be splashed into teams looking for some Ailment control, or in Defense teams to catch players randoming without sufficient Ailment protection.
 The chain from Panel 1 (Cover Fire) will give you an extra 0.1 Multiplier in Physical Democalypse Prelims. If using her there, consider running her Red for Vorpal Blade.","Her damage is fairly underwhelming due to a low STR stat and lack of any damage boosters in her kit.
@@ -649,6 +661,13 @@ Red gives him a cheap AOE attack in Herculean Strike.
 While not common, he can work as a Fire Mage as he has passable Magic and Fire Amp in Purple.
 Great set of Panels that provide additional damage, accuracy and team-wide Rebellion.","Weak to Elec
 Middling AGI affects his Accuracy and Speed. Missing can be disastrous for a Masakado A team, as they aim to win on the very first turn.","Auto-Rebellion is a very powerful transfer skill for him, as it will guarantee he can start the crit loop."
+"Zodd",CR,P,3,2,2,3,1,"Rip does AOE Piercing Physical damage and heals him by 50% of the damage dealt. It also refunds 2 MP when maxed, allowing you to spam it repeatedly.
+Nosferatu increases his damage every turn (up to 50% after 5 turns). This makes him excellent for long, sustained PVE fights, especially since he can heal himself with Rip.
+Mana Aid in Clear is very useful for PVE, as it ensures he can spam Rip every wave.
+Very tanky thanks to incredible bulk and Nosferatu providing him a better Enduring Soul. Purple gives him Null Mortal which makes him even harder to kill.
+Red gives him access to discounted Megaton Raid. Note that it will not pierce without P2 though!","Has accuracy issues due to low AGI and Middling LUK.
+No natural Pierce outside Panel 2 might cause issues when out of MP.","A very useful unit for beginners to cruise through the early parts of PVE.
+Limited-time Collaboration unit. Nobody knows if he will be rerun."
 "Abaddon",TY,TY,1,1,1,1,1,"Null Phys in teal is handy for early-mid game.
 Good STR/VIT","Doesn't carve himself any niches that others don't do better.
 Maragion serves little use on him due to low MAG stat.

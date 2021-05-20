@@ -40,13 +40,14 @@ Panel 2 provides a single turn Luster Candy in addition to the 2 MP, making it e
 Not very useful for PVE as his passive has limited uses, and Ailments generally fall flat late game due to inflated enemy stats.
 Has a very expensive banner, requiring 27,500 gems for a guaranteed copy.","Be very wary of any enemy Daisoujou, as he will respond with a Mute Counter the moment you fire off 16 Scourges. This can severely mess you up if your sweepers end up getting Muted.
 As Angra Mainyu is a Tyrant, he can be run in Lucifuge teams. Red in particular gives him access to discounted Megidolaon, which is further discounted thanks to Hell's Ministry and Lucifuge's Panel 1. In return, the ailments from 16 Scourges allow Lucifer to run double Deadly skills (like Deadly Poison and Deadly Mute), which will greatly amplify Morning Star's damage."
-"Aniel",P,P,4,4,4,2,5,"Glorious Bolt restores 1 MP to the whole party (including himself) and costs a measly 5 MP to activate.
+"Aniel",P,P,4,4,3,2,5,"Glorious Bolt restores 1 MP to the whole party (including himself) and costs a measly 5 MP to activate.
 Innate Thunderclap and Light Enhancement in Purple make him a powerful nuker for Light Democalypse.
 Panel 3 unlocks a damage aura for your other Archangels, further elevating the damage ceiling of that team comp.
-When used with Atavaka or Alilat, innate Repel Elec helps to soft-counter Atropos, as the second part of Passionate Rage will not proc if the first Elec part is Anti-Pierced.","As Archangels are mostly used as Glass Cannon teams, God's Grace is irrelevant most the time (outside of the passive damage boost).","The MP restoration aspect is very powerful in the current PVP meta as a counter to Alice A's passive MP Drain. This is most notable on an Archangels comp, who previously had to run suboptimal techs like Lakshmi A to avoid being crippled by Give me Jewels. Even outside Archangels, he can function as an offensive MP Battery to give T1 teams even more muscle."
-"Ardha",TP,T,4,4,3,1,5,"Sahasrara is an incredibly stacked passive that provides additional MP regen, damage, hit rate and healing effectiveness.
+When used with Atavaka or Alilat, innate Repel Elec helps to soft-counter Atropos, as the second part of Passionate Rage will not proc if the first Elec part is Anti-Pierced.","As Archangels are mostly used as Glass Cannon teams, God's Grace is irrelevant most the time (outside of the passive damage boost).
+Angra Mainyu pretty much does he job without eating a Press Turn.","The MP restoration aspect is very powerful in the current PVP meta as a counter to Alice A's passive MP Drain. This is most notable on an Archangels comp, who previously had to run suboptimal techs like Lakshmi A to avoid being crippled by Give me Jewels. Even outside Archangels, he can function as an offensive MP Battery to give T1 teams even more muscle."
+"Ardha",TP,T,4,4,4,1,5,"Sahasrara is an incredibly stacked passive that provides additional MP regen, damage, hit rate and healing effectiveness.
 Ruin and Grace is a very hard-hitting ST skill that has a high critical rate and heals your whole party if it hits. Combined with high natural MAG and innate Epitome of Carnage, Ardha can deal massive damage while keeping your party healthy.
-Naturally drains Fire and Elec while gaining Drain Phys in Teal. This makes Ardha an incredible partner for Rama, especially to soft-counter Atropos, as the second part of Passionate Rage will not proc if the first Elec part is Anti-Pierced.
+Naturally drains Fire and Elec while gaining Drain Phys in Teal. This makes Ardha an incredible partner for Demiurge, especially to soft-counter Atropos, as the second part of Passionate Rage will not proc if the first Elec part is Anti-Pierced.
 Can be used in Phys Democalypse as a powerful boss unit, particularly in purple for Merciless Blow.","Ruin and Grace does not bypass Endures.","Run Ardha with Lakshmi A to give your whole team near unlimited MP."
 "Asherah",TP,TY,3,4,4,2,2,"Mother's Creation revives a unit with full HP while also generating Press Turn, allowing the resurrected unit to act immediately.
 Silent Prayer in Yellow allows her act as a Pseudo-Cleric and also remove Barrier, Tetraja, Charge etc.
@@ -169,7 +170,7 @@ Missing just one of Rapid Shot's 5 hits results in lost press turns. The Rebelli
 Million Stab has high MP costs, making it difficult to use for PvP.
 No natural Pierce outside Panel 1 might cause issues when out of MP (Rapid Shot does not naturally Pierce).
 His Awakening Skills are mostly useless.","Limited-time Collaboration unit. Nobody knows if he will be rerun."
-"Demiurge",Any,RP,4,4,4,1,1,"The only demon in the game with access to both Drain Pierce and Repel Pierce, Demiurge makes it incredibly easy to outfit your team with Anti-Pierce coverage, shutting down most elemental AOEs.
+"Demiurge",Any,RP,4,4,5,1,1,"The only demon in the game with access to both Drain Pierce and Repel Pierce, Demiurge makes it incredibly easy to outfit your team with Anti-Pierce coverage, shutting down most elemental AOEs.
 To add insult to injury (or in this case more injury to injury), False God triggers an Almighty AOE counter upon a repel, which deals respectable damage thanks to his high MAG stat and boost to almighty damage. This makes him particularly useful versus demons like Atropos and Guan Yu who are rather forced into their AOE spells.
 Supreme Creator provides a team-wide heal upon a drain, which can be useful if run in bulky sustain teams. It also passively reduces the MP cost of all his skills by 1 MP, giving you more flexibility in brands.
 Null Mortal in Purple makes him the only Anti-Pierce demon in the game who is immune to Mortal effects.
@@ -196,7 +197,7 @@ Does not gain true Phys Pierce unless fully panelled. This can cause issues with
 Low Base power on his skills means he will struggle to do damage.
 P2 will consume the Rebellion buff granted by Hell Leopard. This ends up decreasing his damage, as the Rebellion buff is wasted on the 75BP chain instead of his 130BP (more if levelled) Iron Fist.","In Democalypse Prelim Phase, you can only gain the +0.1 weakness hit multiplier once per skill, no matter how many times the skill hits. This is why you cannot gain more than +0.4 multiplier from skills like Ashura, Dragon Blade and MahaLantine.
 However Flauros can repeatedly gain weakness hit multiplier as Hell Leopard, Iron Fist and his Panel 2 chain effect are coded as different skills, bypassing the only once per skill limitation."
-"Flauros Hallel",R,T,4,4,4,3,3,"Demons die when they are killed by Baptisma, unable to be revived. This lets him counter Nebiros, Xi Wangmu and Clotho revive strats, making him an exceptional Anti-Meta unit.
+"Flauros Hallel",R,T,4,5,4,3,3,"Demons die when they are killed by Baptisma, unable to be revived. This lets him counter Nebiros, Xi Wangmu and Clotho revive strats, making him an exceptional Anti-Meta unit.
 Unlike Skull Knight's Sword of Actuation and Lilith A's Temptation, Baptisma is a Spell instead of an Elemental Phys Skill. While it cannot crit as a result, it also cannot miss, giving Flauros Hallel the edge against evasive units.
 Halo of Hallel gains boost levels as the fight drags on. At max level, it confers team-wide Lydia and Luster Candy, providing your team an incredible amount of sustain.
 Teal provides Repel Elec. When used with Atavaka or Alilat, he can soft-counter Atropos, as the second part of Passionate Rage will not proc if the first Elec part is Anti-Pierced.","As nothing in his kit boosts damage, damage booster transfers are mandatory.
@@ -231,21 +232,21 @@ Less competition for Brands compared to your other demons, as he relies on PDEF 
 Panels let him play a more support-oriented role, providing team-wide bonuses as long as he is alive.
 Repel Phys in Teal pairs well with Alilat or Atavaka for Phys Anti-Pierce.","Abysmal AGI means he misses. A lot.
 No innate pierce.","Single target nukes will still hurt him a lot, especially with bonus damage from exploiting his multiple weaknesses."
-"Griffith",TR,TP,3,4,4,1,1,"Blade of the Absolute is an Almighty Physical attack with increased innate accuracy (1.5x), high crit rate and hits the same target multiple times, shredding Endures.
+"Griffith",TR,TP,3,3,3,1,1,"Blade of the Absolute is an Almighty Physical attack with increased innate accuracy (1.5x), high crit rate and hits the same target multiple times, shredding Endures.
 Hawk of Light refunds 3 MP and sets up Almighty Tetrakarn on kill, letting him spam Blade of the Absolute repeatedly while completely walling off demons like Shiva A.
 Has evasion thanks to innate Evade and Hawk of Light providing an Evasion bonus.
 Panel 2 provides him Null Charm and Null Bind. Paired with Null Mute and a Cleanse transfer (such as Prayer), he can function as an evasive cleric that can also help with DPS if a cleanse is not required.","As he does not have any damage boosters in his kit (outside of P3), damage transfers as mandatory if building him as an assassin.
 Difficult to build as he requires too many stats to function, forcing you to choose which parts of his kit to specialize in.
 Requires a good team built around him to really shine.","Limited-time Collaboration unit. Nobody knows if he will be rerun.
 Red gives him access to discounted Vorpal Blade, which can be useful if you want a piercing AOE for PvE, especially since ANY kill will trigger Hawk of Light."
-"Guan Yu",TR,TP,4,5,5,3,4,"No weaknesses and high VIT stats make him very tanky, especially with Life Brands.
+"Guan Yu",TR,TP,4,4,4,3,4,"No weaknesses and high VIT stats make him very tanky, especially with Life Brands.
 High STR and native Phys Pierce make him a physical powerhouse.
 Loyal God of War refunds MP and heals him on a kill, giving him insane amounts of self-sustain.
 Innate Savage Glee lets him Crit and generate Press Turns effectively, especially if given Epitome of Carnage or paired with Crit boosters like Asura Lord or Kartikeya.
 Purple gives him access to Null Mortal, making him even harder to kill.","Low Agi stat means he will have accuracy issues. Dragon Blade's chain effect will not activate if it misses on the first target.
 Only has ST skills unless in Red, which reduces his overall PvP usefulness","A Null Curse transfer makes him unkillable by Alice A, and also stops Curse from interfering with Loyal God of War healing.
 Highly dependant on the first kill for tempo. Failing to secure the first kill will result in him not having enough MP for the next turn."
-"Guts",P,P,4,5,5,5,2,"Extremely high Crit rate thanks to Savage Glee and The Struggler. Butcher in purple further augments his damage.
+"Guts",P,P,4,4,5,5,2,"Extremely high Crit rate thanks to Savage Glee and The Struggler. Butcher in purple further augments his damage.
 Dragon Slayer does insane AOE Piercing Physical damage and bypasses Endure-type skills. It can also be cast Turn 1 due to its low MP cost.
 Is decently tanky thanks to good bulk and The Struggler providing him a better Enduring Soul.
 Panel 1 gives him access to a Piercing Fire AOE that does not cost MP, very useful against MP denial teams.","Having no innate ST skills means he will be walled by Drain Teams. It is recommended to pair him with demons like Alice to eliminate Phys Anti-Pierce demons that prevent him from sweeping.
@@ -330,7 +331,7 @@ Panel 3 allows her to generate MP for the team, enabling certain first-turn kill
 Lack of good innate offensive skills wastes her high MAG stat.
 Countered very hard by Daisoujou clearing her charms and punishing her for using them.
 Very bad bulk","-"
-"Lakshmi A",Y,RP,4,4,4,1,1,"Diwali restores MP to the whole team upon receiving any healing from skills. This includes her own Virtuous perity, passive healing from Hecate/Guan Yu/Raphael and drain-type skills such as Light Devourer and her own Deathtouch.
+"Lakshmi A",Y,RP,4,4,3,1,1,"Diwali restores MP to the whole team upon receiving any healing from skills. This includes her own Virtuous perity, passive healing from Hecate/Guan Yu/Raphael and drain-type skills such as Light Devourer and her own Deathtouch.
 One of the best healers thanks to innate Recovery Amp and Virtuous perity.
 At max boost level, Virtuous perity cleanses all Ailments while conferring Five Elements and Null Mortal, making it a powerful support skill for both PVE and PVP.
 Yellow grants discounted Defensive Cry, a powerful defensive skill for PVE.","Weak to Force","In Yellow, AI prioritizes Defensive Cry which does not trigger Diwali.
@@ -375,11 +376,12 @@ Expensive to fuse, will quickly blow through your Magnetite reserves.
 Requires damage boost transfer to supplement his damage.
 Middling AGI means he will have accuracy issues and occasionally miss the hole. Also doesn't slot into Intimidating Stance teams well as a result.
 Due to Mara having no single target besides his regular thrust, Anti-Pierce units like Rama, Alilat and Atavaka are a turn off.","-"
-"Marici",P,P,2,2,2,1,1,"Shimmer Arrow lets her follow up ANY physical skill with a piercing Light ST nuke. This is great for cleaning up Endures and spreading out chip damage.
+"Marici",P,P,2,2,3,1,1,"Shimmer Arrow lets her follow up ANY physical skill with a piercing Light ST nuke. This is great for cleaning up Endures and spreading out chip damage.
 Daylight Blade deals Piercing Phys damage while putting her into a state of Concentrate, allowing her chained Shimmer Arrow to hit much harder. This effectively gives her a 300 Base Power ST nuke (360 if it crits!) that also ignores Endures.
 Works great in Brands of Sin Sloth 12 where a majority of the enemies are weak to light.","Unimpressive STR stats, low base power on both her skills and no damage boosters in her kit severely hurt her damage output.
 Difficult to boost her damage due to her being a dual Physical and Light Hybrid attacker.
-Does not have natural Pierce. This can cause issues with his AI attacking into Tetra Shift and/or Physical NDR when out of MP.","For manual play, Shimmer Arrow will hit whoever your cursor is on. On Auto and/or Defense however, you are at the mercy of the AI for who she snipes."
+Does not have natural Pierce. This can cause issues with his AI attacking into Tetra Shift and/or Physical NDR when out of MP.","For manual play, Shimmer Arrow will hit whoever your cursor is on. On Auto and/or Defense however, you are at the mercy of the AI for who she snipes.
+Incredible synergy with Sraosha, as Shimmer Arrow will proc off his chain, giving you multiple damaging chain effects."
 "Masakado",P,TP,5,5,5,3,3,"Innate Phys Amp in purple combined with a MASSIVE STR stat allow him to dish out ridiculous amounts of Physical damage.
 Warlord's Wrath is a loaded passive that combines Intimidating Stance, Faithful Counter and Phys Pierce.
 Occult Flash is a high damage, high crit-rate single target skill that will inflict Mortal with 100% chance.
@@ -397,6 +399,11 @@ Works well in Archangel Teams to provide more sweeping power.
 Laughs at his enemies occasionally","No innate pierce, requires Light Pierce (weak) to really shine.
 Weak to Fire. This is especially problematic in Brands of Sin: Sloth 11 and above, as the boss has innate Trisagion.
 Binding Cry, while a flavorful skill is unfortunately wasted on Mastema.","Easy 4x4 fusion paths and good panels make him a decent Panel 3 goal to strive toward."
+"Master Therion",Any,P,2,3,3,1,1,"Blasphemy is a piercing Ice/Fire nuke that also Charms and Poisons their whole party. With innate Null Mute, he does not need to worry about Preach from opposing Daisoujou, though make sure not to get your other allies muted!
+Mark of the Beast deals fixed damage and mutes all enemies at the end of his turn. Fixed damage goes through the Main Character's shield in Battle Tower, allowing you to deal full damage even if his allies are still alive.
+P2 gives him Auto-Barrier Break if going first, turning him into a standalone ailment package similar to Motoko Kusanagi (except less visually appealing).","Panel 2 is Mandatory for the auto-Barrier Break. He is just another mediocre ailment demon otherwise.
+No longer has a suggestive silhoutte.
+Weak to Light.","Great synergy with Angra Mainyu - Master Therion breaks barriers for him, allowing Angra Mainyu to cripple their whole team with 16 Scourges while triggering Mark of the Beast for cleanup at the end of turn. They are also both decently fast and fit naturally in speed teams."
 "Maya",YP,P,3,3,3,1,1,"Will virtually never have MP issues thanks to Glamorous Allure giving her a free Almighty AOE attack that has a chance of charm.
 Upon any allies being Muted, she will counter with Illusionary World, cleansing the Mute and retaliating with an Almighty AOE Sweep. This makes her ideal for punishing Daisoujou, whose team will take chip damage from Illusionary World every time his Preach is triggered.
 Innate Null Charm, Null Bind in purple and Illusionary World makes her virtually immune to skill-restricting ailments. Transferring a cleanse skill like Prayer will allow her to serve as the team's Cleric, while still being able to deal chip damage thanks to Glamorous Allure.
@@ -427,19 +434,19 @@ Due to how packed her kit is, she can easily be splashed into teams looking for 
 The chain from Panel 1 (Cover Fire) will give you an extra 0.1 Multiplier in Physical Democalypse Prelims. If using her there, consider running her Red for Vorpal Blade.","Her damage is fairly underwhelming due to a low STR stat and lack of any damage boosters in her kit.
 Hard-countered by Ailment immunity, most notably Daisoujou and Panelled Moirai Sisters like Atropos + Lachesis.","Yellow discounts Charge to 5 MP. With Divine Brands, she can cast both Ghost Hack and Charge on the same turn going first. This is not possible against Alice A without some MP support though.
 Limited-time Collaboration unit. Nobody knows if she will be rerun."
-"Mozgus",R,TY,2,2,2,2,2,"The only unit in the game that has a Critical Counter, God 1000 Fist Cannon will unleash a random barrage of piercing Physical attacks whenever the enemy scores a crit.
-Extremely high bulk and damage reduction from Bloody Scripture make him a powerful tank. Building him as a tank also increases God 1000 Fist Cannon and Muscle Punch damage, as they both depend on Phys DEF for damage. Earthquake in red furthers this synergy.
-Yellow gives him access to discounted War Cry, letting him play a support role if required.","God 1000 Fist Cannon has low base power.
-Does not have Pierce outside of God 1000 Fist Cannon.
-Needs a lot of Accuracy investment due to bad AGI.
-Weak to Fire","Limited-time Collaboration unit. Nobody knows if he will be rerun."
-"Mother Harlot",Any,T,2,5,5,1,1,"Babylon Goblet drains MP from all enemies while providing her MP sustain, allowing her to loop the same attack over and over even without Divine Brands. With Panel 2 unlocked, she will additionally spread charm all over the enemy's team.
+"Mother Harlot",Any,T,2,4,4,1,1,"Babylon Goblet drains MP from all enemies while providing her MP sustain, allowing her to loop the same attack over and over even without Divine Brands. With Panel 2 unlocked, she will additionally spread charm all over the enemy's team.
 Teal gives her Drain Phys, ideal for pairing with Rama. Notably, she is the only Drain Phys unit that can function as a magic sweeper. Innate Drain Elec also helps to soft-counter Atropos, as the second part of Passionate Rage will not proc if the first Elec part is Anti-Pierced.
 Has access to discounted Debilitate in Yellow, letting her play a more support role if needed.
 Works very well in a slow Ailment Team, or with Alice A in MP denial teams.
 Incredible set of Panels. With Panel 3 unlocked, she can keep enemies permanently charmed by reapplying Charm each turn.","Weak to Force
 Full Almighty kit means she is shut down hard by Five Elements.
 Low AGI and high MP costs makes her unsuitable for fast teams.","The MP drain aspect of Babylon Goblet is less useful for PVE, as the AI has infinite MP. It does allow you to replenish her MP indefinitely though."
+"Mozgus",R,TY,2,2,2,2,2,"The only unit in the game that has a Critical Counter, God 1000 Fist Cannon will unleash a random barrage of piercing Physical attacks whenever the enemy scores a crit.
+Extremely high bulk and damage reduction from Bloody Scripture make him a powerful tank. Building him as a tank also increases God 1000 Fist Cannon and Muscle Punch damage, as they both depend on Phys DEF for damage. Earthquake in red furthers this synergy.
+Yellow gives him access to discounted War Cry, letting him play a support role if required.","God 1000 Fist Cannon has low base power.
+Does not have Pierce outside of God 1000 Fist Cannon.
+Needs a lot of Accuracy investment due to bad AGI.
+Weak to Fire","Limited-time Collaboration unit. Nobody knows if he will be rerun."
 "Nebiros",TP,TP,4,4,4,1,1,"Call of the Dead is the only revive skill in the game without a usage limit. This enables infinite revives especially if paired with healing support like Nadja.
 As Call of the Dead triggers at the end of the enemy turn, it lets you start your turn with full press turns, and proc any start of turn chain effects like Archangels.
 Hand of Glory provides AOE Curse + Luster Candy on ally death. The Curse is great setup for Alice A (and his own passive) while the buffs increase your likelihood of surviving the turn.
@@ -500,11 +507,11 @@ Purple has troubles versus Fire Anti-Pierce comps like Atavaka-Vairocana and Ram
 Hard-countered by Revive Sealing units like Skull Knight.","As press turn count is determined at the start of the round, Ce Acatl press turn generation only cancels out the lost press turn from his death.
 Ironically, he also pairs well with his mortal nemesis Skull Knight on defense, as Aztec Pulse will soften up everyone allowing Sword of Actuation to kill anyone his AI desires.
 Ce Acatl triggers after Passionate Rage. This allows him to dodge the AOE Chains and abuse any extra Press Turns now available to him."
-"Rama",Any,TYP,4,4,4,3,3,"One of only three demons that can negate pierce.
+"Rama",Any,TYP,4,3,3,3,3,"One of only three demons that can negate pierce.
 While alive, Drain Pierce will prevent pierce skills from going through Drain resistances and is the cornerstone of the Drain Teams archetype.
 Brahmastra is a three-hit Almighty skill that functions as an Endure-breaker.
-Good base stats and no weaknesses allow him to fulfill a variety of roles, be it support or sweeper. Yellow Rama can function as a good support demon with discounted Luster Candy whereas Purple gives him Ice Pierce which lets him sweep with Mabufudyne.","Not very bulky
-Drain Pierce does nothing versus Almighty.","Teal gives him Drain Ice which pairs well with Drain Pierce and can be used to cheese certain difficult PvE content like Hell's Park Floor 100 and Celestial Gui Xian."
+Good base stats and no weaknesses allow him to fulfill a variety of roles, be it support or sweeper. Yellow Rama can function as a good support demon with discounted Luster Candy whereas Purple gives him Ice Pierce which lets him sweep with Mabufudyne.","Drain Pierce does nothing versus Almighty and Fractional damage, both of which are extremely common in higher tiers of PVP.
+Stiff competition from Demiurge, who not only has Drain Pierce but also Repel Pierce and two powerful passives.","Teal gives him Drain Ice which pairs well with Drain Pierce and can be used to cheese certain difficult PvE content like Hell's Park Floor 100 and Celestial Gui Xian."
 "Raphael",TP,P,3,3,3,2,5,"Tailwind does massive damage against single targets, ideal for Bosses or cleaning up in PVP.
 Works well in an Archangel Team.","God's Blessing does not deal damage, unlike Uriel and Gabriel.
 Needs team built around him.
@@ -515,7 +522,7 @@ Blade of Terror has high AOE Bind chance when maxed, and can be used Turn 1 due 
 No innate Pierce means Panel 2 or a Phys Pierce (weak) transfer is mandatory.
 Weak to Ice","Buffs and damage boosts only work on Bloodshed's Physical damage and not Blade of Terror's Fractional damage.
 His AI will blindly Blade of Terror into Tetrakarn without taking into account the Bloodshed follow up. This can get him easily killed if he does not have some form of Phys Pierce!"
-"Samael",P,P,2,4,4,1,1,"Panel 3 is insanely powerful, providing free Barrier Break and Makara Break at the start of turn without consuming Press Turns.
+"Samael",P,P,2,3,3,1,1,"Panel 3 is insanely powerful, providing free Barrier Break and Makara Break at the start of turn without consuming Press Turns.
 God's Malice is very good to lock down a single target with multiple Ailments.
 Infinite Chakra helps to reduce MP requirements, allowing him to spam God's Malice.
 Mana Aid is a great transfer skill.","Weak to Elec
@@ -567,10 +574,23 @@ Repel Phys in Teal makes him a good partner for Alilat and Atavaka.","Difficult 
 Requires a good team setup around him to truly shine.
 Middling AGI makes him slightly awkward to fit in fast or slow teams.","Has AI issues when used on defense - AI will occasionally target demons with high HP instead of trying to finish off demons with Sword of Actuation. This can be circumvented by pairing him with sweepers like Hecate or Atavaka to soften everyone up, ensuring Sword of Actuation will kill whoever his AI targets. Auto-Rebellion also supposedly fixes this issue.
 Limited-time Collaboration unit. Nobody knows if he will be rerun."
+"Sraosha",YP,YP,4,4,4,3,3,"His unique Soul Judgement (Sraosha) deals AOE Phys damage whenever an opposing demon dies. This adds to the damage of fast Turn 1 teams and allows him to clear Endures.
+High base AGI and innate Speedster make him invaluable for fast teams. Panel 2 further increases his Battle Speed.
+Both Soul Judgement (Sraosha) and Soul Break have innate pierce, giving him more flexibility over transfers.
+Death Blow in Purple increases his crit damage. Yellow gives him access to Auto-Sukuka which is useful to ensure his attacks do not miss.
+Being a Herald, he can be used in an Archangels team to great effect.","Weak to Dark.
+Unimpressive STR means he will need damage transfers to really shine.","Soul Judgement (Sraosha) will trigger Marici's Shimmer Arrow as it counts as a Phys skill. They form a pretty formidable combo especially if Hresvelgr is included to further add North Wind to the chains."
 "Surt",CP,C,3,3,3,2,5,"Low AGI, innate Tetra Shift and Intimidating Stance in Clear making him a great candidate for slow Intimidating Stance Teams.
 Ragnarok hits like a truck and refunds MP if maxed, allowing him to spam it repeatedly.
 Purple provides Fire Pierce if preferred for PVE.","Weak to Ice
 No innate Fire Pierce if Clear.","Divine brands are recommended if using him for PVP Defense. Otherwise, his AI will Ragnarok once and then default to spamming Berserker God every other turn, wasting all his damage potential."
+"Surt A",Any,P,3,4,5,5,5,"Low AGI and Intimidating Stance in Purple making him a great candidate for slow Intimidating Stance Teams, particularly if combined with Moirai sisters or Atavaka to abuse Repel Fire.
+Twilight Inferno deals massive damage to the enemy team when he dies, useful against frail T1 teams. This skill will go off even if he is bound on death, revive sealed etc, there is currently no way to stop it other than killing him last.
+Eruption deals respectable AOE damage and procs a random-hit AOE chain if the attack is successful, useful for cleaning up Endure and/or demons who survived the initial hit.
+P2 turns his regular attack into a Single-target Nuke dependant on MATK. Not only does this absolve him of any MP issues, it also gives him an out to Fire Anti-Pierce, as he can just nuke another demon instead.
+Works well in Battle Tower as the enemy team is forced to either kill him (which procs Twilight Inferno or deal with extra damage reduction on your MC.","Weak to Ice
+Heavily dependant on P2, otherwise he is hard-walled by Fire Anti-Pierce like Demiurge + Ardha, Atavaka + himself/Vairocana etc.","Great synergy with Moirai sisters: Lachesis provides him buff control and completes Intimidating Stance, Atropos further adds to the passive chain effects while Clotho/Xi Wangmu provide revive support.
+Has goofy idle animations"
 "Susano-o",P,P,3,2,2,1,5,"Very powerful Force nuker. Kusanagi hits extremely hard and autocasts Tarukaja to further buff your team's attack.
 As Kusanagi is treated as a spell, it bypasses any accuracy checks letting him land it reliably.
 Both Kusanagi and Mortal Jihad scale from Phys Attack, allowing him cover two elements decently (albeit without pierce).","No innate pierce.
@@ -584,7 +604,13 @@ Heavenly Valor has lower base accuracy compared to typical Physical AOEs."
 "Thor",P,P,3,2,2,2,5,"Mjolnir deals massive damage against single targets, ideal for Bosses and Democalypse.
 Panels grant him a lot of damage, making him an ideal Elec mage especially with Elec Pierce in Purple.","Weak to Force
 High STR is wasted on him as an Elec Mage. Megaton Raid and Charge are wasted slots.
-Random targetting is very hard to use for PVP.","AI is extremely bad on Auto, as Charge will mess him up."
+Random target skills are very hard to use for PVP.","AI is extremely bad on Auto, as Charge will mess him up."
+"Thor A",P,TP,2,3,3,2,5,"Megingjord provides him Crit Resistance and lessens damage from Physical-type skills, making it one of the few skills that can reduce damage from Almighty Phys skills like Third Eye, Sword of Actuation etc. Panel 2 further increases this.
+Thunderous Hammer is a ramping skill that reaches full potential after two casts. At max boost level, it casts a second swing after the first much like Berserk, which is useful for breaking Endures.
+The Sheer BP of Thunderous Hammer, coupled with Elec Amp in purple makes him very powerful for Elec Democalypse.
+Very bulky with innate Life Surge, great HP and Vit stats and the damage reduction from Megingjord.","Weak to Force
+Bizarrely, the second hit of Thunderous Hammer doesn't bypass Endures, while the first does. This leads to awkward situations where the first hit leaves the enemy demon barely alive, and the second hit merely triggers the Endure.
+Middling AGI and LUK plus no innate hit boosters lead to accuracy issues.","-"
 "Tokisada",RP,P,4,3,3,2,5,"Flag of Salvation boosts your entire team's light damage, making him useful for Brands of Sin: Sloth 11 and Light Democalypse. It also passively restores 1 MP to your whole party when clearing a wave.
 Amakusa Uprising deals heavy single target damage and can crit. Combined with innate Death Blow and Light Amp in purple, this makes him a very strong Light nuker, especially with Panel 2 unlocked. It also provides your team Tarukaja and Sukukaja buffs, allowing your following demons to hit harder.
 Great set of Transferable skills being one of the only two sources of Death Blow and the only source of Auto-Rebellion.","Requires Panel 2 to unlock his full potential for PVP, as being able to guarantee crits for extra turns is very powerful.
@@ -630,7 +656,7 @@ Healing and MP reduction from Panels further his tanky Mage role.
 Low AGI makes him ideal for budget slow teams.","Weak to Fire
 Low damage output compared to Top Tier demons.
 Needs heavy investment in Brands and Panels to be usable in PVP.","Low AGI forces him into slow teams, but slow teams prefer very high damage demons (even if their MP cost is high) rather than demons able to spam low MP-cost low damage attacks."
-"V☆",Any,YR,2,4,4,1,1,"Griffon-Bolt is borderline oppressive when combined with Turn 1 teams with lots of Crit passing for Press Turn generation. Good teammates include Masakado A, Asura Lord and Kartikeya.
+"V☆",Any,YR,2,3,3,1,1,"Griffon-Bolt is borderline oppressive when combined with Turn 1 teams with lots of Crit passing for Press Turn generation. Good teammates include Masakado A, Asura Lord and Kartikeya.
 Will virtually never have MP issues thanks to Shadow-Shock giving him a free Almighty ST attack.
 Balanced stats and no weaknesses give him flexibility in transfer skills.
 Red and Yellow give him an Almighty AOE skill that debuffs.
@@ -655,7 +681,7 @@ Teal can be used to cheese certain PvE Content.
 Excellent set of panels that grant him Accuracy, more MP and more damage.","Only native pierce on Hassou Tobi.
 Random Targetting on Hassou Tobi makes it bad against Waves and in PvP.
 Will have MP issues if Panel 2 is not unlocked.","-"
-"Zaou-Gongen",R,R,5,4,4,4,5,"Kongo Zaou is a powerful passive that grants Phys Pierce to all your demons under Rebellion. Hell Gongen is a team archetype based specifically around this ability.
+"Zaou-Gongen",R,R,5,3,3,4,5,"Kongo Zaou is a powerful passive that grants Phys Pierce to all your demons under Rebellion. Hell Gongen is a team archetype based specifically around this ability.
 Panel 3 grants team-wide rebellion whenever he crits. This is very powerful for Physical-based Hero Masakado T1 teams, as it cranks up their damage to insane levels and guarantees virtually infinite crits.
 Red gives him a cheap AOE attack in Herculean Strike.
 While not common, he can work as a Fire Mage as he has passable Magic and Fire Amp in Purple.
@@ -718,6 +744,11 @@ Can exploit the plentiful amount of demons with an ice weakness.
 One of the few Repel Ice demons (in Teal) as well as the cheapest one making him quite useful combined with Alilat against specific PvE content especially Bosses.","Struggles against bulkier demons like Hecatoncheires and HP sponges in PvE.
 Glacial Blast is a redundant skill that serves him little.
 No Pierce meaning walled against demons that N/D/R Ice and Judgement isn't a reliable choice against them even at 7 MP.","While not exactly optimal in PvP, he does have access to Null Curse so he has decent potential when targeting specific teams."
+"Beloved",T,T,1,1,1,1,1,"Beloved Slash hits twice, useful for breaking Endures.
+Decent STR and Bulk.","Wasn't beloved enough to get panels apparently
+Weak to Dark
+No good colors
+Low AGI and Middling LUK lead to accuracy issues","No panels really hurt him. Use a better demon like Wu Kong instead."
 "Bishamonten",R,R,1,1,1,1,1,"High STR/VIT
 Access to single target/aoe physical skills.","Low MAG stat meaning Bufudyne is a wasted skill on him
 Doesn't perform any roles that others can't already including other 4*s such as Wu Kong","-"
@@ -983,6 +1014,11 @@ No unique support skill to complement his role in a PVP team.","-"
 Role is to charm the opposition and hit them with a hard hitting Bufudyne in combination with her passive Deadly Charm.","Too slow to be a viable ailment demon in PvP.
 Average luck stat
 No stand out colors that really assist her role.","-"
+"Tachikoma",CT,Any,3,2,2,3,2,"Only 4★ that innately Pierces on two elements.
+Only 4★ that can deal Elemental Phys damage.
+Clear gives him Phys Boost which works well with P2. Purple and Teal have decent applications as well.
+Works as a cheap Democalypse unit for both Phys and Fire, especially if P3
+No weaknesses","50 mm Grenade Launcher has a use limit.","Decent VIT and HP stats, along with Weak Phys Pierce on P2 makes him a decent candidate for Earthquake."
 "Throne",TR,R,2,2,2,1,1,"Good AGI stat of 163.
 This AGI combined with his race being Divine means, with Speedster transferred, he becomes a decent candidate for the powerful Archangels PvP Team.
 Innate Void Dark Zones makes him a good candidate for Dmg Panel Immunity

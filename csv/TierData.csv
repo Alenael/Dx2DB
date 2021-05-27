@@ -135,6 +135,11 @@ Famine deals fractional damage to all enemies and saps 2 MP at the end of their 
 Decent Magic stat and good Panels can make him a strong Ice mage.","Weak to Fire
 Soul Divide damage is based on Current Health and cannot kill targets.
 High AGI makes him awkward to slot in slow teams, despite the great synergy with Alice A.","-"
+"Cernunnos",P,P,2,2,2,2,5,"Life & Death randomly revives an ally demon whenever an enemy dies. It is one of the few revive spells with no usage limit, and is useful to keep momentum swinging in your favor, particularly with Panel 2 unlocked giving you a Rakukaja and Tarukaja chain.
+Soul Hunt deals Piercing Dark damage that bypasses Endures and applies a Rakunda effect. With Dark Amp in Purple, this makes him a perfect for Dark Democalypse.
+Innate Enduring Soul+ is useful to let him last around longer.","Weak to Force.
+Fairly average stats.","Life & Death comboes very well with Ixtab's Yaxche, as it will bring her back to life after Yaxche procs, allowing her to Mortal yet another demon.
+Life & Death will also trigger off enemy self kills, such as Berserker Armor and Recarmdra."
 "Clotho",P,P,3,4,4,1,1,"A powerful (but not mandatory) addition to the Moirai Sisters archetype, Woven Fate is a 6 times use AOE Heal that also randomly revives one of your fallen teammates. Not only does this allow you to constantly revive Atropos, it also ensures all of their chain effects can go off.
 When combined with two other Lady or Femme demons (preferably her two other sisters), Passionate Allure charms all enemies at the end of her turn. This forces teams to constantly waste turns curing Charm, while Passionate Rage constantly chips at them.
 Has arguably the best Panels for ailment immunity. Panel 1 prevents the team from being swept by Alice A, while Panel 2 makes them immune to Charm in the events of a mirror match.
@@ -251,7 +256,7 @@ Dragon Slayer does insane AOE Piercing Physical damage and bypasses Endure-type 
 Is decently tanky thanks to good bulk and The Struggler providing him a better Enduring Soul.
 Panel 1 gives him access to a Piercing Fire AOE that does not cost MP, very useful against MP denial teams.","Having no innate ST skills means he will be walled by Drain Teams. It is recommended to pair him with demons like Alice to eliminate Phys Anti-Pierce demons that prevent him from sweeping.
 No natural Pierce outside Panel 2 might cause issues when out of MP.","Limited-time Collaboration unit. Nobody knows if he will be rerun."
-"Hecate",P,P,4,5,4,2,5,"Hell's Trivia is a cheap, hard-hitting spell that also functions as an Endure breaker. Coupled with her respectable Mag stat and Dark Enhancement in purple, she can be built as a powerful dark mage.
+"Hecate",P,P,4,4,4,2,5,"Hell's Trivia is a cheap, hard-hitting spell that also functions as an Endure breaker. Coupled with her respectable Mag stat and Dark Enhancement in purple, she can be built as a powerful dark mage.
 Virtually immune to ailments thanks to Null Bind and Lunar Awakening. Transferring a cleanse skill like Prayer or Silent Prayer will allow her to function as a cleric, while still maintaining her offensive presence.
 Panel 2 lets her run Life or Spell brands without worrying about MP.","Not very bulky due to middling VIT and HP stats.
 Weak to light and by extension the Archangels matchup.
@@ -367,6 +372,12 @@ Wrathful Flame reduces defense, allowing your teammates to hit harder. It can al
 Very effective in Democalypse boss rounds as buffs/debuffs are difficult to come by.
 Goes through Endure as Wrathful Flame counts as three separate hits.","Combination of ST and AOE in his kit makes it difficult to further boost his damage.","Unlike Indrajit, lack of MP recovery means he cannot spam Wrathful Flame as easily in PVP.
 If Mahakala is not alive at the beginning of the turn The Great Darkness won't increase the turn count until Mahakala is revived and survives until the start of the following turn."
+"Mahamayuri",TP,TP,4,4,4,2,5,"Kujaku Myo-o makes him immune to Ailments and Auto-cleanses your entire party at the start of turn. This is incredibly powerful for Battle Tower - as the MC is forced to move first, other Clerics cannot prevent him from wasting a Press Turn.
+Hits fairly hard due to innate Force Amp, high BP on Blossoming Cyclone and a good MAG stat. As a bonus, it also heals your whole party, allowing him to provide sustain the same way Ardha does.
+Possesses the extremely coveted Repel Force (for comparison, the only other useable Repel Force demon are Mot and Mastema), which makes him a great pair for Atavaka and Demiurge.
+Teal can be used to patch up his Elec Weakness, while Master Assassin in Purple lets him hit harder.","Weak to Elec. This is especially bad against Atropos.
+Difficult to build optimally as he wants both damage and bulk/evasion; focusing on one will cause the other to suffer as a result.","Comparatively, Daisoujou is better as a pure support demon (no weaknesses, provides buff control, can focus purely on survivability/evasion, more flexible on transfers), while Mahamayuri offers more offensive pressure and better Press Turn economy. Pick whichever your team needs more.
+The AOE version of Mayuri. Tutturu~"
 "Mara",P,P,3,2,2,3,5,"Only fuseable source of Phys Pierce.
 High STR and LUK means he will hit hard and crit often.
 Hell Thrust is very strong against bosses and in Democalypse, especially if he is Panel 3.
@@ -493,6 +504,16 @@ Hard countered by Ailment Cleansers like Daisoujou or Kinmamon in PVP.
 Pestilence only kicks in at the end of enemy's turn, giving them one whole turn to cleanse it away or just outright kill him.
 Requires a specific team built around him to really work.
 Panels 1 and 2 don't contribute to the Ailment build.","-"
+"Pales",T,TY,2,3,3,1,1,"Vile Glare provides Intimidating Stance when paired with another Vile, Drake or Jaki demon. This stacks up to twice, giving you double Intimidating Stance if you run two other partners instead.
+Cry of the Poor deals Fractional damage at the end of turn, which is useful for cleaning up Endures. If you have three or more Vile/Jaki/Drake demons alive, it will instead of proc twice, letting it break multiple Endures in one go.
+Unlike other Racial combos, Vile Glare and Cry of the Poor both work even with just 1 other partner, which allows a lot more freedom in teambuilding.
+Incredible synergy with Vile Demiurge - Demiurge helps to fulfill the Vile requirement, while Pales has three Repel and Drain resistances to complement False God and Supreme Creator.
+With Panel 1 unlocked and a Rallying Survivor transfer, he can stack up to 85% increased ailment recovery, which means a confirmed Turn 1 recovery from Bind and Charm. This allows him to run a Pseudo-cleric set with a Prayer transfer.
+Teal patches up his Fire weakness, while Yellow provides him discounted Recarmdra to further support the team.","Weak to Fire, which hurts a lot against Surt A and Atropos.
+No innate skills means he relies heavily on transfer skills to do anything at all.
+Most Vile, Jaki and Drake demons outside Demiurge are fairly underwhelming, limiting his potential.
+Very underwhelming without Demiurge.","Has the potential to become incredibly powerful if stronger Vile/Jaki/Drake demons are released in the future. Potential candidates include Nyarlathotep, Tao Tie, Mada, Kuzuryu etc.
+Due to the rather limited choices, it's arguably better to run Pales + Demiurge + another Intimidating Stance demon like Surt A or Masakado for Double IS, instead of trying to cram in a third Vile/Jaki/Drake demon."
 "Quetzalcoatl",Any,TP,2,2,2,4,1,"Usually run as a support demon. Ce Acatls' Return is an incredible ressurection spell that brings all fallen party members back to life.
 Repel Phys in Teal pairs well with Alilat or Atavaka as an Anti-Pierce unit.
 Has 2 strong AOE spells, 3 if in Red.","High MP costs
@@ -584,7 +605,7 @@ Unimpressive STR means he will need damage transfers to really shine.","Soul Jud
 Ragnarok hits like a truck and refunds MP if maxed, allowing him to spam it repeatedly.
 Purple provides Fire Pierce if preferred for PVE.","Weak to Ice
 No innate Fire Pierce if Clear.","Divine brands are recommended if using him for PVP Defense. Otherwise, his AI will Ragnarok once and then default to spamming Berserker God every other turn, wasting all his damage potential."
-"Surt A",Any,P,3,4,5,5,5,"Low AGI and Intimidating Stance in Purple making him a great candidate for slow Intimidating Stance Teams, particularly if combined with Moirai sisters or Atavaka to abuse Repel Fire.
+"Surt A",Any,P,3,5,5,5,5,"Low AGI and Intimidating Stance in Purple making him a great candidate for slow Intimidating Stance Teams, particularly if combined with Moirai sisters or Atavaka to abuse Repel Fire.
 Twilight Inferno deals massive damage to the enemy team when he dies, useful against frail T1 teams. This skill will go off even if he is bound on death, revive sealed etc, there is currently no way to stop it other than killing him last.
 Eruption deals respectable AOE damage and procs a random-hit AOE chain if the attack is successful, useful for cleaning up Endure and/or demons who survived the initial hit.
 P2 turns his regular attack into a Single-target Nuke dependant on MATK. Not only does this absolve him of any MP issues, it also gives him an out to Fire Anti-Pierce, as he can just nuke another demon instead.

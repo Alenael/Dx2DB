@@ -1,4 +1,4 @@
-demon name,Shield Name,talent name,effect,phys,fire,ice,elec,force,light,dark,skill 1,skill 2,Awaken Skill,HP%,DMG reduction for atribute,Defense,mdef,panel 1,panel 2,panel 3,Panel 1 Step,panel 2 Step",panel 3 Step
+demon name,Shield Name,talent name,effect,phys,fire,ice,elec,force,light,dark,skill 1,skill 2,Awaken Skill,HP%,DMG reduction for atribute,Defense,mdef,panel 1,panel 2,panel 3,Panel 1 Step,panel 2 Step,panel 3 Step,nickname
 "Mitra","Phys Barrier","Yazata Shield","","rs","","","","","","","Strengh Amp II","Life Bonus","","90%","Phys 10%","80%","80%","","","","","",""
 "Feng Huang","Fire Barrier","Red Emperor Shield","","","rs","wk","","","","","Magic Amp II","Life Bonus","","90%","Fire 10%","40%","80%","","","","","",""
 "Silky","Ice Barrier","Guardian Shield","","","wk","rs","","","","","Magic Amp II","Life Bonus","","90%","Ice 10%","40%","80%","","","","","",""

@@ -1,37 +1,57 @@
-Affinity,Skill name,jpnname,mp/passive,effect,target,armament,BasePower,BaseHits,Boost1Power,Boost2Power,BoostHits1,BoostHits2,SecondHitPower
-"phys","Tie-Breaker","","7 MP","Inflicts Phys (Physical) damage (Power: 150) on a all enemies.","All Enemies","","150","","","","","",""
-"fire","Scathe of Branches","","7 MP","Inflicts Fire (Magic) damage (Power: 130) on all enemies.","All Enemies","","130","","","","","",""
-"ice","Samudra Manthan","","7 MP","Inflicts Ice (Magic) damage (Power: 130) on all enemies.","All Enemies","","130","","","","","",""
-"phys","Albion Giant","","7 MP","Inflicts Phys (Physical) damage (Power: 100) on all enemies, and Heals around 400 HP of all party members if the attack is successful.","All enemies","","100","","","","","",""
-"fire","Ukehi","","7 MP","Inflicts Fire (Magic) damage (Power: 80) on all enemies, and Heals around 400 HP of all party members if the attack is successful.","All Enemies","","80","","","","","",""
-"ice","Primoridial Water","","7 MP","Inflicts Ice (Magic) damage (Power: 80) on all enemies, and Heals around 400 HP of all party members if the attack is successful.","All Enemies","","80","","","","","",""
-"force","Serpent Killer","","7 MP","Inflicts Force (Magic) damage (Power: 130) on all enemies.","All Enemies","","130","","","","","",""
-"force","Immortal Shrine","","7 MP","Inflicts Force (Magic) damage (Power: 80) on all enemies, and Heals around 400 HP of all party members if the attack is successful.","All Enemies","","80","","","","","",""
-"elec","Crackling Thunder","","7 MP","Inflicts Elec (Magic) damage (Power: 130) on all enemies.","All Enemies","","130","","","","","",""
-"elec","Calon Arang","","7 MP","Inflicts Elec (Magic) damage (Power: 80) on all enemies, and Heals around 400 HP of all party members if the attack is successful.","All Enemies","","80","","","","","",""
-"light","Last Plague","","7 MP","Inflicts Light (Magic) damage (Power: 130) on all enemies.","All Enemies","","130","","","","","",""
-"light","Starry Passion","","7 MP","Inflicts Light (Magic) damage (Power: 80) on all enemies, and Heals around 400 HP of all party members if the attack is successful.","All Enemies","","80","","","","","",""
-"dark","Mahelldyne","","7 MP","Inflicts Dark (Magic) damage (Power: 130) on all enemies.","All Enemies","","130","","","","","",""
-"dark","Midnight Feast","","7 MP","Inflicts Dark (Magic) damage (Power: 80) on all enemies, and Heals around 400 HP of all party members if the attack is successful.","All Enemies","","80","","","","","",""
-"phys","Yinglong Flash","","6 MP","Inflicts Phys (Physical) damage (Power: 130) with 50% crit rate on all enemies.","All Enemies","","130","","","","","",""
-"multi","Thunderous Curse","","6 MP","Inflicts Elec/Dark (Magic) damage (Power:180) on a single enemy. \nAutomatically selects an Attribute depending on the situation.","Single Enemy","","180","","","","","",""
-"passive","Dragon Rain","","passive","+25% to Phys hit rate, +25% to Critical hit rate.","self","","","","","","","",""
-"ice","Rakshasa Cleaver","","5 MP","Inflicts Ice (Magic) damage (Power: 160) on a single enemy. \nReduces ATK and EV/AC of all enemies by 20% if the attack is successful. (3 turns)","Single Enemy","","160","","","","","",""
-"recovery","Holy Union","","5 MP","Revives a random party member with 100% HP and adds Mortal immunity. (1 turn)","All Party Members","","","","","","","",""
-"passive","Vishvakarman's Shelter","","passive","+20% to Ice damage. -40% chance of receiving status ailments.","self","","","","","","","",""
-"force","Tempest Talon","","6 MP","Inflicts Force (Magic) damage (Power: 100) on a single enemy. \nActivates the following Chain Effect when the attack is successful: Inflicts Force (Magic) damage 2 times (Power: 35) on random enemies. \nThis skill will gain 1 Boost level with each use. \n\n[Boost Level: 1] Increases the number of random attacks to 4. \n[Boost Level: 2] Increases the number of random attacks to 5.","Single Enemy","","100","","","","","","35"
-"almighty","Pillar of Godly Light","","6 MP","Inflicts Almighty (Magic) damage 3 times (Power: 70) on a single enemy.","Single Enemy","","70","","","","","",""
-"passive","Dazzling Wings","","passive","+10% Phys evasion rate. \nActivates the following Chain Effect when this character evades an enemy's Physical attack: \nInflicts Force (Magic) Pierce effect damage (Power: 90) on all enemies.","All Enemies","","90","","","","","",""
-"passive","Angel Halo","","passive","-15% to Magic damage received. \n+15% to Magic damage inflicted.","self","","","","","","","",""
-"ailment","Offering Guidance","","6 MP","50% chance to Bind all enemies. Reduces DEF of all enemies by 20%. (3 turns)","All Enemies","","","","","","","",""
-"ailment","Seductive Lotus","","6 MP","50% chance to Charm all enemies. Increases EV/AC of all party members by 20%. (3 turns)","All Enemies","","","","","","","",""
-"passive","Summons to Sacrifice","","passive","Activates the following Chain Effect at the beginning of every own third turn: \nInflicts Almighty (Magic) damage (Power: 120) on a random enemy with 100% chance to inflict Mortal. Nullifies all death prevention skills.","Random Enemies","","120","","","","","",""
-"phys","Unholy Strike","","7 MP","Inflicts Phys (Physical) damage 10 times (Power: 30) with 30% crit rate on random enemy/ies. \n*Counter effects will not work on this skill.","Random Enemies","","30","","","","","",""
-"fire","Purging Flame","","5 MP","Inflicts Fire (Magic) damage 3 times (Power: 60) on a single enemy. \nReduces ATK/DEF of all enemies by 20% if the attack is successful. (3 turns)","Single Enemy","","60","","","","","",""
-"passive","Unholy Delusion","","passive","Activates the following Chain Effect when this character receives an enemy's Physical attack: \nInflicts Phys (Physical) Pierce effect damage (Power: 50) with 30% crit rate on all enemies, and removes all enemy status buffs if the attack is successful. \n*Counter effects will not work on this skill.","All Enemies","","50","","","","","",""
-"passive","Clear Space","","passive","Activates the following Chain Effect at the beginning of every own third turn:Inflicts Fire (Magic) Pierce effect damage (Power: 100) on all enemies. Recovers 5 MP and enters into a state of Concentrate if the attack is successful.","All Enemies","","100","","","","","",""
-"ice","Frozen Fist","","5 MP","Inflicts Ice (Physical) Pierce effect damage (Power: 130) on a single enemy, and enters a state of Might if the attack is successful. \n*The damage inflicted by this skill is dependent on Mag ATK. \n*This skill has a chance of having a Critical effect or a Miss which are dependent on their respective rates.","Single Enemy","","130","","","","","",""
-"almighty","Red Serpent Venom","","5 MP","Inflict Almighty (Magic) damage (Power: 120) on a single enemy with 20% chance to inflict Poison, Bind, Charm and Mute if the attack is successful.","Single Enemy","","120","","","","","",""
-"passive","Sad Vengeance","","passive","+10% to Ice damage. \nActivates the following Chain Effect at the beginning of the 1st turn: \nEnters a state of Might.","self","","","","","","","",""
-"elec","Rakshasa Thunder","","5","Inflicts Elec (Magic) damage 5 times (Power: 40) on a single enemy with 30% chance to inflict Bind on hit enemies if the attack is successful.","Single Enemy","","40","","","","","",""
-"passive","Rite of Divine Power","","passive","Activates the following Chain Effect when the one with this skill downs a demon: \nRecovers 3 MP and casts Repel Magic (including Almighty) effect on all allies. (1 turn) ","Self","","","","","","","",""
+"Affinity","Skill name","jpnname","mp/passive","effect","target","armament","BasePower","BaseHits","Boost1Power","Boost2Power","BoostHits1","BoostHits2","SecondHitPower","Nickname"
+"phys","Tie-Breaker","","7 MP","Inflicts Phys (Physical) damage (Power: 150) on a all enemies.","All Enemies","",150,"","","","","","",""
+"fire","Scathe of Branches","","7 MP","Inflicts Fire (Magic) damage (Power: 130) on all enemies.","All Enemies","",130,"","","","","","",""
+"ice","Samudra Manthan","","7 MP","Inflicts Ice (Magic) damage (Power: 130) on all enemies.","All Enemies","",130,"","","","","","",""
+"phys","Albion Giant","","7 MP","Inflicts Phys (Physical) damage (Power: 100) on all enemies, and Heals around 400 HP of all party members if the attack is successful.","All enemies","",100,"","","","","","",""
+"fire","Ukehi","","7 MP","Inflicts Fire (Magic) damage (Power: 80) on all enemies, and Heals around 400 HP of all party members if the attack is successful.","All Enemies","",80,"","","","","","",""
+"ice","Primoridial Water","","7 MP","Inflicts Ice (Magic) damage (Power: 80) on all enemies, and Heals around 400 HP of all party members if the attack is successful.","All Enemies","",80,"","","","","","",""
+"force","Serpent Killer","","7 MP","Inflicts Force (Magic) damage (Power: 130) on all enemies.","All Enemies","",130,"","","","","","",""
+"force","Immortal Shrine","","7 MP","Inflicts Force (Magic) damage (Power: 80) on all enemies, and Heals around 400 HP of all party members if the attack is successful.","All Enemies","",80,"","","","","","",""
+"elec","Crackling Thunder","","7 MP","Inflicts Elec (Magic) damage (Power: 130) on all enemies.","All Enemies","",130,"","","","","","",""
+"elec","Calon Arang","","7 MP","Inflicts Elec (Magic) damage (Power: 80) on all enemies, and Heals around 400 HP of all party members if the attack is successful.","All Enemies","",80,"","","","","","",""
+"light","Last Plague","","7 MP","Inflicts Light (Magic) damage (Power: 130) on all enemies.","All Enemies","",130,"","","","","","",""
+"light","Starry Passion","","7 MP","Inflicts Light (Magic) damage (Power: 80) on all enemies, and Heals around 400 HP of all party members if the attack is successful.","All Enemies","",80,"","","","","","",""
+"dark","Mahelldyne","","7 MP","Inflicts Dark (Magic) damage (Power: 130) on all enemies.","All Enemies","",130,"","","","","","",""
+"dark","Midnight Feast","","7 MP","Inflicts Dark (Magic) damage (Power: 80) on all enemies, and Heals around 400 HP of all party members if the attack is successful.","All Enemies","",80,"","","","","","",""
+"phys","Yinglong Flash","","6 MP","Inflicts Phys (Physical) damage (Power: 130) with 50% crit rate on all enemies.","All Enemies","",130,"","","","","","",""
+"multi","Thunderous Curse","","6 MP","Inflicts Elec/Dark (Magic) damage (Power:180) on a single enemy. 
+Automatically selects an Attribute depending on the situation.","Single Enemy","",180,"","","","","","",""
+"passive","Dragon Rain","","passive","+25% to Phys hit rate, +25% to Critical hit rate.","self","","","","","","","","",""
+"ice","Rakshasa Cleaver","","5 MP","Inflicts Ice (Magic) damage (Power: 160) on a single enemy. 
+Reduces ATK and EV/AC of all enemies by 20% if the attack is successful. (3 turns)","Single Enemy","",160,"","","","","","",""
+"recovery","Holy Union","","5 MP","Revives a random party member with 100% HP and adds Mortal immunity. (1 turn)","All Party Members","","","","","","","","",""
+"passive","Vishvakarman's Shelter","","passive","+20% to Ice damage. -40% chance of receiving status ailments.","self","","","","","","","","",""
+"force","Tempest Talon","","6 MP","Inflicts Force (Magic) damage (Power: 100) on a single enemy. 
+Activates the following Chain Effect when the attack is successful: Inflicts Force (Magic) damage 2 times (Power: 35) on random enemies. 
+This skill will gain 1 Boost level with each use. 
+
+[Boost Level: 1] Increases the number of random attacks to 4. 
+[Boost Level: 2] Increases the number of random attacks to 5.","Single Enemy","",100,"","","","","",35,""
+"almighty","Pillar of Godly Light","","6 MP","Inflicts Almighty (Magic) damage 3 times (Power: 70) on a single enemy.","Single Enemy","",70,"","","","","","",""
+"passive","Dazzling Wings","","passive","+10% Phys evasion rate. 
+Activates the following Chain Effect when this character evades an enemy's Physical attack: 
+Inflicts Force (Magic) Pierce effect damage (Power: 90) on all enemies.","All Enemies","",90,"","","","","","",""
+"passive","Angel Halo","","passive","-15% to Magic damage received. 
++15% to Magic damage inflicted.","self","","","","","","","","",""
+"ailment","Offering Guidance","","6 MP","50% chance to Bind all enemies. Reduces DEF of all enemies by 20%. (3 turns)","All Enemies","","","","","","","","",""
+"ailment","Seductive Lotus","","6 MP","50% chance to Charm all enemies. Increases EV/AC of all party members by 20%. (3 turns)","All Enemies","","","","","","","","",""
+"passive","Summons to Sacrifice","","passive","Activates the following Chain Effect at the beginning of every own third turn: 
+Inflicts Almighty (Magic) damage (Power: 120) on a random enemy with 100% chance to inflict Mortal. Nullifies all death prevention skills.","Random Enemies","",120,"","","","","","",""
+"phys","Unholy Strike","","7 MP","Inflicts Phys (Physical) damage 10 times (Power: 30) with 30% crit rate on random enemy/ies. 
+*Counter effects will not work on this skill.","Random Enemies","",30,"","","","","","",""
+"fire","Purging Flame","","5 MP","Inflicts Fire (Magic) damage 3 times (Power: 60) on a single enemy. 
+Reduces ATK/DEF of all enemies by 20% if the attack is successful. (3 turns)","Single Enemy","",60,"","","","","","",""
+"passive","Unholy Delusion","","passive","Activates the following Chain Effect when this character receives an enemy's Physical attack: 
+Inflicts Phys (Physical) Pierce effect damage (Power: 50) with 30% crit rate on all enemies, and removes all enemy status buffs if the attack is successful. 
+*Counter effects will not work on this skill.","All Enemies","",50,"","","","","","",""
+"passive","Clear Space","","passive","Activates the following Chain Effect at the beginning of every own third turn:Inflicts Fire (Magic) Pierce effect damage (Power: 100) on all enemies. Recovers 5 MP and enters into a state of Concentrate if the attack is successful.","All Enemies","",100,"","","","","","",""
+"ice","Frozen Fist","","5 MP","Inflicts Ice (Physical) Pierce effect damage (Power: 130) on a single enemy, and enters a state of Might if the attack is successful. 
+*The damage inflicted by this skill is dependent on Mag ATK. 
+*This skill has a chance of having a Critical effect or a Miss which are dependent on their respective rates.","Single Enemy","",130,"","","","","","",""
+"almighty","Red Serpent Venom","","5 MP","Inflict Almighty (Magic) damage (Power: 120) on a single enemy with 20% chance to inflict Poison, Bind, Charm and Mute if the attack is successful.","Single Enemy","",120,"","","","","","",""
+"passive","Sad Vengeance","","passive","+10% to Ice damage. 
+Activates the following Chain Effect at the beginning of the 1st turn: 
+Enters a state of Might.","self","","","","","","","","",""
+"elec","Rakshasa Thunder","",5,"Inflicts Elec (Magic) damage 5 times (Power: 40) on a single enemy with 30% chance to inflict Bind on hit enemies if the attack is successful.","Single Enemy","",40,"","","","","","",""
+"passive","Rite of Divine Power","","passive","Activates the following Chain Effect when the one with this skill downs a demon: 
+Recovers 3 MP and casts Repel Magic (including Almighty) effect on all allies. (1 turn)","Self","","","","","","","","",""

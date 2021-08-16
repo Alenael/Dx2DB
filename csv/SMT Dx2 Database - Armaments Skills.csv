@@ -19,7 +19,7 @@ Automatically selects an Attribute depending on the situation.","Single Enemy","
 "passive","Dragon Rain","","passive","+25% to Phys hit rate, +25% to Critical hit rate.","self","","","","","","","","","",""
 "ice","Rakshasa Cleaver","","5 MP","Inflicts Ice (Magic) damage (Power: 160) on a single enemy. 
 Reduces ATK and EV/AC of all enemies by 20% if the attack is successful. (3 turns)","Single Enemy","",160,"","","","","","","",""
-"recovery","Holy Union","","5 MP","Revives a random party member with 100% HP and adds Mortal immunity. (1 turn)","All Party Members","","","","","","","","","",""
+"recovery","Holy Union","","5 MP","Revives a random party member with 100% HP and adds Mortal immunity. (1 turn)","All Party Members","","","","","","","","","","1"
 "passive","Vishvakarman's Shelter","","passive","+20% to Ice damage. -40% chance of receiving status ailments.","self","","","","","","","","","",""
 "force","Tempest Talon","","6 MP","Inflicts Force (Magic) damage (Power: 100) on a single enemy. 
 Activates the following Chain Effect when the attack is successful: Inflicts Force (Magic) damage 2 times (Power: 35) on random enemies. 

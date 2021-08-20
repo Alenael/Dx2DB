@@ -1,4 +1,7 @@
 *.db
 DemonData
 SkillData
+SwordData
+ShieldData
+ArmSkillData
 *.sql

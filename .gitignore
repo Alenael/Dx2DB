@@ -5,3 +5,5 @@ SwordData
 ShieldData
 ArmSkillsData
 *.sql
+csv/Skills.txt
+csv/Demons.txt

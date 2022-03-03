@@ -16772,7 +16772,7 @@
     "JP Name": "",
     "Cost": "Passive",
     "Description": "Adds Dark Pierce. Increases damage dealt to Cursed enemies by 50%.\\nActivates the following Chain Effect when attacking first at the beginning of a battle:\\nRemoves Barrier from all enemies.\\nActivates the following Chain Effect when an enemy is revived by a demon skill:\\nInflicts 50% fractional damage (2,000 max) on all enemies based on their current HP with 80% chance to inflict Curse.\\n\\nLv2： +5% to Ailment Infliction.\\nLv3： +10% to Ailment Infliction.\\nLv4: +20% to Ailment Infliction.",
-    "Target": "",
+    "Target": "Self",
     "Skill Points": "",
     "Learned By": "",
     "Transferable From": "",

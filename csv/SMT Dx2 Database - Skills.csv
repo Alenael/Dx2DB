@@ -258,7 +258,7 @@ Element,Name,JP Name,Cost,Description,Target,Skill Points,Learned By,Transferabl
 "passive","Null Force","衝撃無効","Passive","Adds Force Null.","Self","12","","","","","","","","","","","","","",""
 "passive","Null Light","破魔無効","Passive","Adds Light Null.","Self","12","","","","","","","","","","","","","",""
 "passive","Null Dark","呪殺無効","Passive","Adds Dark Null.","Self","12","","","","","1","","","","","","","","",""
-"passive","e","氷結反射","Passive","Adds Phys Repel.","Self","24","","","","","","","","","","","","","",""
+"passive","Repel Phys","氷結反射","Passive","Adds Phys Repel.","Self","24","","","","","","","","","","","","","",""
 "passive","Repel Fire","火炎反射","Passive","Adds Fire Repel.","Self","16","","","","","","","","","","","","","",""
 "passive","Repel Ice","氷結反射","Passive","Adds Ice Repel.","Self","16","","","","","","","","","","","","","",""
 "passive","Repel Elec","電撃反射","Passive","Adds Elec Repel.","Self","16","","","","","","","","","","","","","",""

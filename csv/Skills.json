@@ -5958,7 +5958,7 @@
   },
   {
     "Element": "passive",
-    "Name": "e",
+    "Name": "Repel Phys",
     "JP Name": "氷結反射",
     "Cost": "Passive",
     "Description": "Adds Phys Repel.",

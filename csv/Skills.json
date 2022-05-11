@@ -15782,7 +15782,7 @@
     "Name": "Hell Hound",
     "JP Name": "",
     "Cost": "Passive",
-    "Description": "Adds Phys Pierce. +20% to own affect on Battle Speed. \\nActivates the following Chain Effect when a Press Turn Icon is lost due to an enemy skill: \\nReceive 1 additional Press Turn Icon. Reduces ATK/DEF of all enemies by 20%. (3 turns) \\nThis Chain Effect can only be activated once per battle. \\n\\nLv2: +5% to Phys hit rate. \\nLv3: +10% to Phys hit rate. \\nLv4: +20% to Phys hit rate.",
+    "Description": "Adds Phys Pierce. +20% to own affect on Battle Speed. \\nActivates the following Chain Effect when a Press Turn Icon is lost due to an enemy skill: \\nReceive 1 additional Press Turn Icon and enters a state of Charge. Reduces ATK/DEF of all enemies by 20%. (3 turns) \\nThis Chain Effect can only be activated once per battle. \\n\\nLv2: +5% to Phys hit rate. \\nLv3: +10% to Phys hit rate. \\nLv4: +20% to Phys hit rate.",
     "Target": "Self",
     "Skill Points": "",
     "Learned By": "",

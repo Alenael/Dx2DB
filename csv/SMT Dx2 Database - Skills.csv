@@ -335,7 +335,7 @@ Element,Name,JP Name,Cost,Description,Target,Skill Points,Learned By,Transferabl
 "passive","Berserker","狂戦士","Passive","+10% to damage dealt, but +20% to damage received.","Self","18","","","","","","","","","","","","","",""
 "passive","Back Attack","追い打ち","Passive","+10% damage when attacking the enemy's weak point.","Self","6","","","","","","","","","","","","","",""
 "passive","Merciless Blow","無慈悲な一撃","Passive","+20% damage when attacking the enemy's weak point.","Self","12","","","","","","","","","","","","","",""
-"passive","Arms Mastery","武道の素養","Passive","+20% to Phys damage and Phys hit rate.\n\nLv2: +2% to Phys damage, +2% to AC.\nLv3: +3% to Phys damage, +3% to AC.\nLv4: +4% to Phys damage, +4% to AC.\nLv5: +5% to Phys damage, +5% to AC.\nLv6: +10% to Phys damage, +10% to AC.","Self","","","","","","","","","","","","","","",""
+"passive","Arms Mastery","武道の素養","Passive","+30% to Phys damage and +30% to Phys hit rate. Reduces the cost of Phys Skills by 1 MP.","Self","","","","","","","","","","","","","","",""
 "passive","Rasetsu","???","Passive","+10% to Phys hit rate and casts Rebellion on self at the beginning of the 1st turn.","Self","","","","","","","","","","","","","","",""
 "passive","Counter","反撃","Passive","When receiving a Phys Attack, 50% chance to counter dealing Phys damage with 50 power.","Self","6","","","","","","","","","","","","","",""
 "passive","Retaliate","猛反撃","Passive","When receiving a Phys Attack, 50% chance to counter dealing Phys damage with 100 power.","Self","12","","","","","","","","","","","","","",""

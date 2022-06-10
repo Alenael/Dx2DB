@@ -7732,7 +7732,7 @@
     "Name": "Arms Mastery",
     "JP Name": "武道の素養",
     "Cost": "Passive",
-    "Description": "+20% to Phys damage and Phys hit rate.\\n\\nLv2: +2% to Phys damage, +2% to AC.\\nLv3: +3% to Phys damage, +3% to AC.\\nLv4: +4% to Phys damage, +4% to AC.\\nLv5: +5% to Phys damage, +5% to AC.\\nLv6: +10% to Phys damage, +10% to AC.",
+    "Description": "+30% to Phys damage and +30% to Phys hit rate. Reduces the cost of Phys Skills by 1 MP.",
     "Target": "Self",
     "Skill Points": "",
     "Learned By": "",

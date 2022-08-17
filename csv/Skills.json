@@ -17639,12 +17639,12 @@
     "UseLimit": ""
   },
   {
-    "Element": "passive",
+    "Element": "support",
     "Name": "Arms Dance",
     "JP Name": "",
-    "Cost": "Passive",
+    "Cost": "6 MP",
     "Description": "Activates the following Chain Effect after reducing DEF and EV/AC of all enemies by 20% (1 turn):\\nInflicts Phys (Physical) damage 4 times (Power: 50; Total: 200) on a single enemy.\\n\\nLv2: +5% to damage dealt using this skill.\\nLv3：+10% to damage dealt using this skill.\\nLv4：+15% to damage dealt using this skill.\\nLv5：+20% to damage dealt using this skill.\\nLv6：+20% to damage dealt using this skill + MP cost of this skill -1.",
-    "Target": "Self",
+    "Target": "Single Enemy",
     "Skill Points": "",
     "Learned By": "",
     "Transferable From": "",

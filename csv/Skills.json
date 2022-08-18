@@ -17409,10 +17409,10 @@
     "UseLimit": ""
   },
   {
-    "Element": "passive",
+    "Element": "almighty",
     "Name": "Godly Judgement",
     "JP Name": "",
-    "Cost": "Passive",
+    "Cost": "7 MP",
     "Description": "Inflicts Almighty (Magic) damage (Power: 220) on a single enemy.\\n*Damage inflicted by this effect will ignore all death prevention skills.\\n*Enemies downed by this skill will not be able to revive.",
     "Target": "Single Enemy",
     "Skill Points": "",

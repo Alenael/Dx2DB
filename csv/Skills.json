@@ -19093,5 +19093,28 @@
     "BoostHits2": "",
     "SecondHitPower": "",
     "UseLimit": ""
+  },
+  {
+    "Element": "passive",
+    "Name": "Eternal Order",
+    "JP Name": "",
+    "Cost": "Passive",
+    "Description": "Adds Phys Pierce, Null Bind, and Null Mute.\\n+50% to Max HP.\\nWhile the one with this skill is alive, all party members will receive the following effect:\\nWhile the demon with this skill is alive, Pierce will have no effect on any party member that can repel or drain the attribute they are attacked with and naturally recovered MP of all party members is increased by 1 MP.\\n*The effect regarding the Repel/Absorb Attribute Affinities will not activate during Break System battles.\\n\\nLv2：+5% to max HP.\\nLv3：+10% to max HP.\\nLv4：+20% to max HP.",
+    "Target": "Self",
+    "Skill Points": "",
+    "Learned By": "",
+    "Transferable From": "",
+    "ExtractExclusive": "",
+    "DuelExclusive": "",
+    "ExtractTransfer": "",
+    "Nickname": "",
+    "BasePower": "",
+    "BaseHits": "",
+    "Boost1Power": "",
+    "Boost2Power": "",
+    "BoostHits1": "",
+    "BoostHits2": "",
+    "SecondHitPower": "",
+    "UseLimit": ""
   }
 ]

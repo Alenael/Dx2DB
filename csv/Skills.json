@@ -19339,7 +19339,7 @@
     "Name": "Phys Enhancement",
     "JP Name": "",
     "Cost": "Passive",
-    "Description": "+15% to Elec damage. +10% damage when attacking the enemy's weak point.",
+    "Description": "+15% to Phys damage. +10% damage when attacking the enemy's weak point.",
     "Target": "Self",
     "Skill Points": "16",
     "Learned By": "",

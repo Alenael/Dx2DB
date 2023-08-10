@@ -2475,7 +2475,7 @@
     "Multi-Fusion": "",
     "Banner Required": "1",
     "Nickname": "",
-    "Panel 4": "+20% to hit rate. Activates the following Chain Effect after Ashura is activated: Removes all Stat Debuffs from all party members, and inflicts Phys damage (Physical, Power: 25) with an 80% Critical hit rate 10 times to random enemies. (Activates once per",
+    "Panel 4": "+20% to hit rate. Activates the following Chain Effect after Ashura is activated: Removes all Stat Debuffs from all party members, and inflicts Phys damage (Physical, Power: 25) with an 80% Critical hit rate 10 times to random enemies. (Activates once per turn).\\n*Ignores the effect of all counter skills.",
     "Panel 4 Stats": "HP +25 (MAX +250)",
     "Negotiation": "",
     "Exchangeable": "",
@@ -9045,7 +9045,7 @@
     "Multi-Fusion": "",
     "Banner Required": "1",
     "Nickname": "griff, grith",
-    "Panel 4": "Activates the following Chain Effect when the one with this skill enters a state of Might: 40% chance to inflict Charm on random enemies 2-3 times. (Activates once per turn). Activates the following Chain Effect when an enemy is inflicted with Charm: Infl",
+    "Panel 4": "Activates the following Chain Effect when the one with this skill enters a state of Might: 40% chance to inflict Charm on random enemies 2-3 times. (Activates once per turn). Activates the following Chain Effect when an enemy is inflicted with Charm: Inflicts Almighty damage (Physical, Power: 60) to all Charmed enemies.",
     "Panel 4 Stats": "HP: +250(MAX)",
     "Negotiation": "",
     "Exchangeable": "",
@@ -21377,7 +21377,7 @@
   {
     "Name": ",+25% to Fire damage. Activates the following Chain Effect when an ally receives a killing blow: Inflicts Fire damage (Magic",
     "Name JP": "Power: 100) on all enemies",
-    "Race": "and removes all revive bans from party members.,HP +25 (MAX +250),Mag ATK +10 (MAX +100),HP +25 (MAX +250),1,\\\",\\\",1,quetz a,Activates the following Chain Effect when the enemy attacks first at the start of battle: Places the one with this skill into a state of Concentrate. Activates the following Chain Effect when Aztec Pulse is used: Revive a single fallen ally at random with,HP: +250(MAX),\\\",\\\",\\\""
+    "Race": "and removes all revive bans from party members.,HP +25 (MAX +250),Mag ATK +10 (MAX +100),HP +25 (MAX +250),1,\\\",\\\",1,quetz a,Activates the following Chain Effect when the enemy attacks first at the start of battle: Places the one with this skill into a state of Concentrate. Activates the following Chain Effect when Aztec Pulse is used: Revive a single fallen ally at random with 50% HP. (Activates up to 2 times per battle),HP: +250(MAX),\\\",\\\",\\\""
   },
   {
     "Name": "Rahab",
@@ -23636,7 +23636,7 @@
     "Multi-Fusion": "",
     "Banner Required": "1",
     "Nickname": "sk,dokuro no kishi, sans",
-    "Panel 4": "Activates the following Chain Effect when using Sword of Actuation, or when a party member (excluding the skill holder) uses an Almighty Attribute Skill: Inflicts Almighty damage (Physical, Power: 80) to a single enemy. If the attack is successful, enters",
+    "Panel 4": "Activates the following Chain Effect when using Sword of Actuation, or when a party member (excluding the skill holder) uses an Almighty Attribute Skill: Inflicts Almighty damage (Physical, Power: 80) to a single enemy. If the attack is successful, enters a state of Might.\\n*Enemies downed by this skill cannot be revived.",
     "Panel 4 Stats": "HP +25 (MAX +250)",
     "Negotiation": "",
     "Exchangeable": "",

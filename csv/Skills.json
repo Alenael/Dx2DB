@@ -11550,7 +11550,7 @@
     "Name": "Guardian of the East",
     "JP Name": "東国の守護神",
     "Cost": "Passive",
-    "Description": "Adds Phys Pierce. Activates the following Chain Effect when attacking first: Receive 1 additional Press Turn Icon.\\n\\nLv2：+5% to Almighty damage.\\nLv3：+10% to Almighty damage.\\nLv4：+15% to Almighty damage.",
+    "Description": "Adds Phys Pierce.\\nActivates the following Chain Effect when attacking first at the start of battle: Gain an additional Press Turn Icon, increase the ATK and EV/AC of all party members by 20% (1 turn), and all party members recover 2 MP.\\nActivates the following Chain Effect at the start of the 1st turn: All party members gain Evade Mortal. (2 turns)\\n\\nLv2：+5% to Almighty damage.\\nLv3：+10% to Almighty damage.\\nLv4：+15% to Almighty damage.",
     "Target": "Self",
     "Skill Points": "",
     "Learned By": "",

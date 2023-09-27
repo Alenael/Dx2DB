@@ -20592,5 +20592,28 @@
     "BoostHits2": "",
     "SecondHitPower": "",
     "UseLimit": ""
+  },
+  {
+    "Element": "passive",
+    "Name": "Ice Debuff",
+    "JP Name": "",
+    "Cost": "Passive",
+    "Description": "+15% to Ice damage. +15% chance to inflict status ailments.",
+    "Target": "Self",
+    "Skill Points": "14",
+    "Learned By": "",
+    "Transferable From": "",
+    "ExtractExclusive": "",
+    "DuelExclusive": "",
+    "ExtractTransfer": "",
+    "Nickname": "",
+    "BasePower": "",
+    "BaseHits": "",
+    "Boost1Power": "",
+    "Boost2Power": "",
+    "BoostHits1": "",
+    "BoostHits2": "",
+    "SecondHitPower": "",
+    "UseLimit": ""
   }
 ]

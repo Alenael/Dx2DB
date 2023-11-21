@@ -2810,7 +2810,7 @@
     "Name": "Mesopotamian Star",
     "JP Name": "メソポタミアの星",
     "Cost": "7 MP",
-    "Description": "Inflicts Almighty (Magic) damage (Power: 100) on all enemies, reduces ATK, DEF and EV/AC of all enemies by 20%, and increases ATK, DEF and EV/AC of all party members by 20%. (3 turns)\\n\\nLv2: 25% chance of 1 MP recovery.\\nLv3: 50% chance of 1 MP recovery.\\nLv4: 50% chance of 1 MP recovery. MP cost -1.",
+    "Description": "Inflicts Almighty (Magic) damage (Power: 120) with Remnants on all enemies, reduces ATK, DEF and EV/AC of all enemies by 20%, and increases ATK, DEF and EV/AC of all party members by 20%. (3 turns)\\n\\nLv2: 25% chance of 1 MP recovery.\\nLv3: 50% chance of 1 MP recovery.\\nLv4: 50% chance of 1 MP recovery + MP cost -1.",
     "Target": "All Enemies",
     "Skill Points": "",
     "Learned By": "",

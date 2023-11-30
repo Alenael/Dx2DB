@@ -16264,6 +16264,21 @@
     "Panel 1": "+20% to Max HP. While the one with this skill is alive, all party members gain the following effect: +15% damage to attacks that target all or random enemies."
   },
   {
+    "Name": ",While the one with this skill is alive",
+    "Name JP": "all party members will receive the following effect: While immune to Mortal skills",
+    "Race": "+20% to damage dealt.,Reduces the cost of skills that target all or random enemies/allies by 1 MP. Activates the following Chain Effect when a party member downs a demon: Increases the ATK and EV/AC of all party members by 20% (1 turn)",
+    "Grade": "and restores 2 MP to all party members.,HP +25 (MAX +250),Phys ATK +10 (MAX 100),HP +25 (MAX +250),1,\\\",1,1,masa a",
+    "Rarity": "hmasa",
+    "Phys": "masahero",
+    "Fire": "heromasa,+30 to St",
+    "Ice": "Ma",
+    "Elec": "Vi",
+    "Force": "Ag and Lu +30% to own effect on Battle Speed."
+  },
+  {
+    "Name": ".,HP: +250(MAX),\\\",\\\",\\\""
+  },
+  {
     "Name": "Mastema",
     "Name JP": "マンセマット",
     "Race": "Herald",
@@ -21358,6 +21373,11 @@
     "Alternate Name": "Quetzalcoatl",
     "Panel 1": "Adds Null Bind. -50% to Fire/Force damage received.",
     "Panel 2": "+20% to Max HP. Activates the following Chain Effect at the start of the 1st turn: Adds 1 Boost Level to the one with this skill's Aztec Pulse skill."
+  },
+  {
+    "Name": ",+25% to Fire damage. Activates the following Chain Effect when an ally receives a killing blow: Inflicts Fire damage (Magic",
+    "Name JP": "Power: 100) on all enemies",
+    "Race": "and removes all revive bans from party members.,HP +25 (MAX +250),Mag ATK +10 (MAX +100),HP +25 (MAX +250),1,\\\",\\\",1,quetz a,Activates the following Chain Effect when the enemy attacks first at the start of battle: Places the one with this skill into a state of Concentrate. Activates the following Chain Effect when Aztec Pulse is used: Revive a single fallen ally at random with,HP: +250(MAX),\\\",\\\",\\\""
   },
   {
     "Name": "Rahab",
@@ -26455,6 +26475,11 @@
     "Panel 1": "+15% to Light/Dark damage. -30% to Light/Dark damage received.",
     "Panel 2": "Increases naturally recovered MP by 1 MP. +15% to Light/Dark damage.",
     "Panel 3": "+20% to Light/Dark damage.+20% to max HP. Activates the following Chain Effect at the start of the 1st turn: Adds 1 Boost level to the one with this skill's Nirvana skill."
+  },
+  {
+    "Name": ",HP: +250(MAX),Mag ATK +100(MAX),HP: +250(MAX),1,\\\",\\\",1,vash",
+    "Name JP": "vishna",
+    "Race": "vishnew,\\\",\\\",\\\",\\\",\\\""
   },
   {
     "Name": "Vouivre",

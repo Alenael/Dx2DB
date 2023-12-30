@@ -21604,5 +21604,28 @@
     "BoostHits2": "",
     "SecondHitPower": "",
     "UseLimit": ""
+  },
+  {
+    "Element": "passive",
+    "Name": "Auto-Luster Candy",
+    "JP Name": "",
+    "Cost": "Passive",
+    "Description": "Activates the following Chain Effect at the beginning of the 1st turn: Cast Luster Candy.",
+    "Target": "Self",
+    "Skill Points": "",
+    "Learned By": "",
+    "Transferable From": "",
+    "ExtractExclusive": "",
+    "DuelExclusive": "",
+    "ExtractTransfer": "",
+    "Nickname": "auto luster candy, auto luster, alc",
+    "BasePower": "",
+    "BaseHits": "",
+    "Boost1Power": "",
+    "Boost2Power": "",
+    "BoostHits1": "",
+    "BoostHits2": "",
+    "SecondHitPower": "",
+    "UseLimit": ""
   }
 ]

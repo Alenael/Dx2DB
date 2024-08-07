@@ -23491,15 +23491,6 @@
     "Panel 1": "+20% to Phys hit rate. +20% to Max HP. +20% to Almighty damage."
   },
   {
-    "Name": ",Adds Null Bind. While the one with this skill is alive",
-    "Name JP": "all party members will deal +15% Almighty damage.,+25% to single-target attack damage. +20% to Max HP. Activates the following Chain Effect at the end of the enemy turn: Inflicts Almighty damage (Physical",
-    "Race": "Power: 100) with Bulwark Pierce on a random enemy and causes them to lose 2 MP.,HP +25 (MAX +250),Phys ATK +10 (MAX +100),HP +25 (MAX +250),1,1,\\\",1,sk",
-    "Grade": "dokuro no kishi",
-    "Rarity": "sans,Activates the following Chain Effect when using Sword of Actuation",
-    "Phys": "or when an ally uses an Almighty Attribute Skill: Inflicts Almighty damage (Physical",
-    "Fire": "Power: 100) with Bulwark Pierce to a single enemy. Self enters a state of Might if the attack is successful. *Ignores all counter and all death prevention skills.,HP +25 (MAX +250),\\\",\\\",\\\""
-  },
-  {
     "Name": "Sleipnir",
     "Name JP": "スレイプニル",
     "Race": "Holy",

@@ -2718,7 +2718,7 @@
     "Name": "Pralaya",
     "JP Name": "プララヤ",
     "Cost": "5 MP",
-    "Description": "Inflicts Almighty (Magic, Power: 120) damage on All Enemies with Bulwark Pierce while removing Repel Phys and Repel Mag. Inflicts Almighty damage (Magic, Power: 100) with Bulwark Pierce to the enemy with the lowest current HP if successful.\\n*The damage inflicted by this skill is dependent on Phys ATK. \\n\\nLv2: +3% to all damage.\\nLv3: +6% to all damage.\\nLv4: +9% to all damage.\\nLv5: +12% to all damage.\\nLv6: +12% to all damage. 100% chance of 2 MP recovery.",
+    "Description": "Inflicts Almighty (Magic, Power: 120) damage on All Enemies with Bulwark Pierce while removing Repel Phys and Repel Mag. Inflicts Almighty damage (Magic, Power: 100) with Bulwark Pierce to the enemy with the lowest current HP if successful.\\n*The damage inflicted by this skill is dependent on Phys ATK. \\n\\nLv2: +4% to damage dealt using this skill.\\nLv3: +6% to damage dealt using this skill.\\nLv4: +8% to damage dealt using this skill.\\nLv5: +10% to damage dealt using this skill.\\nLv6: +12% to damage dealt using this skill.",
     "Target": "All Enemies",
     "Skill Points": "",
     "Learned By": "",
@@ -24065,7 +24065,7 @@
   },
   {
     "Element": "passive",
-    "Name": "Origin of Destruction",
+    "Name": "Destruction's Origin",
     "JP Name": "",
     "Cost": "Passive",
     "Description": "+20% to Phys hit rate and Critical hit rate.\\nActivates the following Chain Effect at the start of own turn: Decrease DEF of all enemies by 20%.\\nActivates the following Chain Effect at the end of own turn: Adds Repel Mag to all allies (1 turn).\\nThe effect of normal Attacks will be changed to the following: Inflicts Phys damage (Physical, Power: 140) to all enemies.\\n\\nLv2: +5% to max HP.\\nLv3: +10% to max HP.\\nLv4: +20% to max HP.",

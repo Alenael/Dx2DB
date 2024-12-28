@@ -24452,10 +24452,10 @@
     "Element": ",Self,\\\",\\\",\\\",\\\",\\\",\\\",\\\",\\\",\\\",\\\",\\\",\\\",\\\",\\\",\\\""
   },
   {
-    "Element": "passive",
+    "Element": "physical",
     "Name": "Moon-White Blade",
     "JP Name": "",
-    "Cost": "Passive",
+    "Cost": "6 MP",
     "Description": "Inflicts Phys damage (Physical, Power: 140) 2 times on a single enemy. (Total Power: 280)\\nActivates the following Chain Effect if the attack is successful:\\nRemoves Gloom from all party members, then places all party members into a state of Zenith. (1 turn)\\nThen, inflicts Phys damage (Physical, Power: 30) 4 times to all enemies (Total Power: 120), and decreases the Phys Attribute Affinity of all enemies by 1 level. (1 turn)\\nThen, grants the party an additional Press Turn Icon. (Once per turn)\\n*All damage inflicted by this skill, including the Chain Effect, will have Bulwark Pierce and will ignore all counter/death prevention skills. Furthermore, enemies downed by this skill will be unable to revive.\\n\\nLv2: +5% to damage dealt using this skill.\\nLv3: +10% to damage dealt using this skill.\\nLv4: +15% to damage dealt using this skill.\\nLv5: +20% to damage dealt using this skill.\\nLv6: +20% to damage dealt using this skill + MP cost of this skill -1."
   },
   {
